@@ -20,6 +20,46 @@
               "icon": "lucide-file",
               "title": "Communication prtocols"
             }
+          },
+          {
+            "id": "9e0722aa42b9ec4d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": 372.5,
+                  "y": -78.5,
+                  "zoom": -1.514210220143556
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
+            }
+          }
+        ]
+      },
+      {
+        "id": "684548c18405e2f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5dd46d4f42cacb8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -770.0698337850188,
+                  "y": 106.59633713240964,
+                  "zoom": -1.514210220143556
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
+            }
           }
         ]
       }
@@ -209,14 +249,14 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Communication prtocols.md",
+    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Backend Engineering/Event-Driven Architecture.md",
     "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Microservices Architecture.md",
-    "Backend Engineering/Communication prtocols.md",
     "Backend Engineering/_index_backend_engineering.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
