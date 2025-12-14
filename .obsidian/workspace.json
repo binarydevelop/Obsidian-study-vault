@@ -11,17 +11,14 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend Engineering/Backend engineering roadmap.canvas",
-                "viewState": {
-                  "x": 97.88090168808617,
-                  "y": -241.0534363811509,
-                  "zoom": 0.1524564465231103
-                }
+                "file": "Backend Engineering/_index_backend_engineering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Backend engineering roadmap"
+              "icon": "lucide-file",
+              "title": "_index_backend_engineering"
             }
           }
         ]
@@ -212,8 +209,9 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Software architecture and protocols.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
+    "Backend Engineering/_index_backend_engineering.md",
+    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Client-Server architecture.md",
