@@ -12,3 +12,6 @@
 ### Things to remember while designing a system
 - ***High coupling***: Fast to start hard to scale
 - ***Low coupling***: slow to start scalable long term.
+---
+
+[[Communication ]]
