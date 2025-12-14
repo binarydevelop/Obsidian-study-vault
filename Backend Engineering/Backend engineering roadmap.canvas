@@ -15,7 +15,7 @@
 		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-619,"y":-138,"width":96,"height":50}
 	],
 	"edges":[
-		{"id":"0753c25f35c6ba82","fromNode":"6727cf2dc6328319","fromSide":"left","toNode":"0fe2e73ccb1b39c2","toSide":"left"},
-		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"}
+		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
+		{"id":"5ae38e3c72d96650","fromNode":"8acb022e72af286e","fromSide":"right","toNode":"0fe2e73ccb1b39c2","toSide":"right"}
 	]
 }
