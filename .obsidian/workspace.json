@@ -11,10 +11,17 @@
             "id": "ec4eb24c9547049e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/Backend engineering roadmap.canvas",
+                "viewState": {
+                  "x": 436.82310506931276,
+                  "y": 285.4874009278607,
+                  "zoom": -1.4969063240559601
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Backend engineering roadmap"
             }
           }
         ]
