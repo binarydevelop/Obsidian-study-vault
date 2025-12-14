@@ -11,14 +11,17 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Backend Engineering/Software architecture and protocols.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -355.04922461985734,
+                  "y": -15.516136698603347,
+                  "zoom": -0.5142102201435563
+                }
               },
-              "icon": "lucide-file",
-              "title": "Software architecture and protocols"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           },
           {
@@ -35,8 +38,7 @@
               "title": "Communication prtocols"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71e4c1d8862b938e",
+  "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Communication prtocols.md",
     "Backend Engineering/Software architecture and protocols.md",
+    "Backend Engineering/Communication prtocols.md",
     "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
