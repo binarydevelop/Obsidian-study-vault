@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0fe2e73ccb1b39c2","type":"group","x":-1000,"y":-200,"width":620,"height":113,"label":"1.1 Client server patterns"},
-		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-340,"width":1191,"height":50,"label":"1. [[Software architecture patterns]]"},
+		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-340,"width":1131,"height":50,"label":"1. [[Software architecture patterns]]"},
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-411,"y":-780,"width":200,"height":60},
 		{"id":"56d0d2271027479e","type":"text","text":"[[Remote procedure call pattern]]","x":-1000,"y":-200,"width":180,"height":55},
 		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-819,"y":-198,"width":140,"height":50},
@@ -15,7 +15,8 @@
 		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-790,"y":-340,"width":180,"height":50},
 		{"id":"849770ef68b3d9b0","type":"text","text":"[[Event Driven architecture]]","x":-610,"y":-340,"width":140,"height":50},
 		{"id":"34d355412109b4b4","type":"text","text":"[[Monolithic architecture]]","x":-470,"y":-340,"width":140,"height":50},
-		{"id":"d3fac585e1cfc6d7","x":-330,"y":-340,"width":156,"height":50,"type":"text","text":"[[Reactive architecture]]"}
+		{"id":"d3fac585e1cfc6d7","x":-330,"y":-340,"width":156,"height":50,"type":"text","text":"[[Reactive architecture]]"},
+		{"id":"e3118eb77a763b76","x":-174,"y":-340,"width":234,"height":50,"type":"text","text":"[[Service oriented architecture]]"}
 	],
 	"edges":[
 		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
