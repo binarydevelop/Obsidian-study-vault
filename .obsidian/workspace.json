@@ -11,33 +11,17 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dfbc5a9dd167c8fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9e0722aa42b9ec4d",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": 1873.836811455411,
-                  "y": 180.86327782503975,
-                  "zoom": -1.514210220143556
+                  "x": -168.5,
+                  "y": -113.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -228,11 +212,11 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Communication prtocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Communication prtocols.md",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Web sockets.md",
-    "Publish–Subscribe Pattern.md",
+    "Backend Engineering/Publish–Subscribe Pattern.md",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
