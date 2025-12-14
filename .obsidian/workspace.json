@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering/_Index.md",
+                "file": "Backend Engineering/Communication patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index"
+              "title": "Communication patterns"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
-    "Backend Engineering/Publish-Subscribe Pattern.md",
     "Backend Engineering/_Index.md",
+    "Backend Engineering/Publish-Subscribe Pattern.md",
     "Backend Engineering/Client-Server Pattern.md",
     "Backend Engineering/Communication patterns.md",
     "Index.md",
