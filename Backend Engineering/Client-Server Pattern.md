@@ -19,7 +19,8 @@ A **client** initiates requests and a **server** processes them and returns resp
 ### Mermaid Diagram
 
 
-```sequenceDiagram  
+```mermaid
+sequenceDiagram  
 participant Client
 participant Server 
 Client->>Server: Request  
