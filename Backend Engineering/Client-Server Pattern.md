@@ -27,3 +27,16 @@ Client->>Server: Request
 Server-->>Client: Response
  ```
 
+### Use Cases
+
+- Web applications
+- Mobile backends
+- CRUD-based systems
+### Pros / cons
+
+**Pros**
+- Simple to understand
+- Easy to debug
+**Cons**
+- Server can become a bottleneck
+- Tight coupling
