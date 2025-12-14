@@ -38,22 +38,23 @@
               "title": "_roadmap_backend_engineering"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "684548c18405e2f0",
+        "id": "dfbc5a9dd167c8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b5dd46d4f42cacb8",
+            "id": "e5f4348a84fddf56",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -770.0698337850188,
-                  "y": 106.59633713240964,
+                  "x": 372.5,
+                  "y": -78.5,
                   "zoom": -1.514210220143556
                 }
               },
@@ -247,10 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ddc0bdd76b88f77",
+  "active": "e5f4348a84fddf56",
   "lastOpenFiles": [
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication prtocols.md",
+    "Publish–Subscribe Pattern.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
@@ -275,7 +277,6 @@
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "Backend Engineering/Monolithic architecture.md",
     "Backend Engineering/Message queue pattern.md",
-    "Backend Engineering/Long Polling.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",

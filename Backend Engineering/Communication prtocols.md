@@ -5,4 +5,6 @@
 	- [[RESTful API Pattern]]
 	- [[Polling]]
 	- [[Long Polling]]
+	- [[Web sockets]]
+	- [[Publish–Subscribe Pattern]]
 	- 
