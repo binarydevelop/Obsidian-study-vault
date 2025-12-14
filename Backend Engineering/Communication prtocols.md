@@ -8,20 +8,16 @@
 	- [[WebSockets]]
 	- [[Publish–Subscribe Pattern]]
 	- [[Message queue pattern]]
-	- ## 2. [[Peer-to-Peer Architecture]]
-
-**Tags:** #architecture/p2p
-
-### 2.1 Peer-to-Peer Communication Patterns
-
-- [[Direct Messaging Pattern]]
-    
-- [[Gossip Protocol]]
-    
-- [[Distributed Hash Table (DHT)]]
-    
-- [[Flooding / Broadcast Pattern]]
-    
-- [[Peer Discovery Pattern]]
-    
-- [[Replication Pattern]]
+	- [[Direct Messaging Pattern]]
+	- [[Gossip Protocol]]
+	- [[Distributed Hash Table (DHT)]]
+	- [[Flooding / Broadcast Pattern]]
+	- [[Peer Discovery Pattern]]
+	- [[Replication Pattern]]
+- [[Request–Response Pattern]]
+- [[Synchronous Method Invocation]]
+- [[RESTful API Pattern]] _(between tiers)_
+- [[RPC Pattern]]
+- [[Data Transfer Object (DTO) Pattern]]
+- [[Message Queue Pattern]]
+- [[Event Notification Pattern]]
