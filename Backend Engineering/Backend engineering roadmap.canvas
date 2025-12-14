@@ -1,9 +1,8 @@
 {
 	"nodes":[
-		{"id":"0fe2e73ccb1b39c2","type":"group","x":-1000,"y":-200,"width":620,"height":113,"label":"1.1 Client server patterns"},
+		{"id":"0fe2e73ccb1b39c2","type":"group","x":-1000,"y":-200,"width":888,"height":113,"label":"1.1 Client server patterns"},
 		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-340,"width":1131,"height":50,"label":"1. [[Software architecture patterns]]"},
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-411,"y":-780,"width":200,"height":60},
-		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":-559,"y":-197,"width":174,"height":50},
 		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-1070,"y":-340,"width":140,"height":50},
 		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-930,"y":-340,"width":140,"height":50},
 		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-790,"y":-340,"width":180,"height":50},
@@ -12,12 +11,13 @@
 		{"id":"d3fac585e1cfc6d7","type":"text","text":"[[Reactive architecture]]","x":-330,"y":-340,"width":156,"height":50},
 		{"id":"e3118eb77a763b76","type":"text","text":"[[Service oriented architecture]]","x":-174,"y":-340,"width":234,"height":50},
 		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-1000,"y":-138,"width":180,"height":51},
-		{"id":"0d8c6f21825bbe3c","type":"text","text":"[[RESTful API Pattern]]","x":-523,"y":-137,"width":143,"height":50},
 		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-1000,"y":-197,"width":191,"height":50},
-		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-711,"y":-280,"width":140,"height":50},
-		{"id":"7c2752d02833a586","type":"text","text":"[[Long Polling]]","x":-571,"y":-280,"width":120,"height":56},
-		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-451,"y":-274,"width":96,"height":50},
-		{"id":"56d0d2271027479e","type":"text","text":"[[Remote procedure call pattern]]","x":-809,"y":-197,"width":168,"height":50}
+		{"id":"56d0d2271027479e","type":"text","text":"[[Remote procedure call pattern]]","x":-809,"y":-197,"width":199,"height":50},
+		{"id":"0d8c6f21825bbe3c","type":"text","text":"[[RESTful API Pattern]]","x":-610,"y":-197,"width":143,"height":50},
+		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-467,"y":-197,"width":96,"height":50},
+		{"id":"7c2752d02833a586","type":"text","text":"[[Long Polling]]","x":-371,"y":-197,"width":119,"height":50},
+		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":-371,"y":-87,"width":174,"height":50},
+		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-252,"y":-197,"width":140,"height":50}
 	],
 	"edges":[
 		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
