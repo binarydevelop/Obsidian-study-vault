@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"8542163a08a9abe6","x":-180,"y":-580,"width":200,"height":60,"type":"text","text":"Backend engineering"}
+		{"id":"8542163a08a9abe6","x":-180,"y":-580,"width":200,"height":60,"type":"text","text":"Backend engineering"},
+		{"id":"e602560d6398280d","x":-238,"y":-472,"width":250,"height":60,"type":"text","text":"Software architectures"},
+		{"id":"6727cf2dc6328319","x":-333,"y":-329,"width":250,"height":60,"type":"text","text":"[[Client-Server architecture]]"},
+		{"id":"a621897a95f4887a","x":-108,"y":-332,"width":250,"height":60,"type":"text","text":"[[Peer-to-Peer Architecture]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
+		{"id":"3ecb68bd2c135f7a","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"6727cf2dc6328319","toSide":"top"},
+		{"id":"5a94b85d76b7a4aa","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"a621897a95f4887a","toSide":"top"}
+	]
 }
