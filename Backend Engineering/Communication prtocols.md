@@ -44,9 +44,18 @@
 	- [[Retry Pattern]]
 	- [[Timeout Pattern]]
 	- [[RPC Pattern]] (SOAP)
-	[[Request–Response Pattern]]
-	[[Message-Oriented Middleware (MOM)]]
-	[[Service Bus Pattern (ESB)]]
-	[[Message Queue Pattern]]
-		
+	- [[Request–Response Pattern]]
+	- [[Message-Oriented Middleware (MOM)]]
+	- [[Service Bus Pattern (ESB)]]
+	- [[Message Queue Pattern]]
+	- [[RESTful API Pattern]]
+	- [[RPC Pattern (gRPC)]]
+[[Publish–Subscribe Pattern]]
+[[Message Queue Pattern]]
+[[Event-Driven Communication]]
+[[Circuit Breaker Pattern]]
+[[Saga Pattern]]
+[[Service Mesh Communication]]	
+
+
 
