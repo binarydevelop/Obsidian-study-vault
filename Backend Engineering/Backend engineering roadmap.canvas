@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"07d19989ec60432a","type":"text","text":"Backend e","x":-279,"y":-140,"width":140,"height":50},
+		{"id":"07d19989ec60432a","type":"text","text":"Backend engineering","x":-279,"y":-140,"width":140,"height":50,"color":"4"},
 		{"id":"c1e9e570002a1507","type":"text","text":"[[Communication patterns]]","x":-80,"y":-145,"width":159,"height":61},
 		{"id":"2841884b4f0cc7e1","type":"text","text":"[[Publish-Subscribe Pattern]]","x":79,"y":-320,"width":250,"height":60},
 		{"id":"42ca48487230892b","type":"text","text":"[[Client-Server architecture]]","x":79,"y":-380,"width":250,"height":60}
