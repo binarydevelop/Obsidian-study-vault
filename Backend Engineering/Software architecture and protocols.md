@@ -10,5 +10,5 @@
 - **Communication protocols** → how parts of the system talk
 ---
 ### Things to remember while designing a system
-- ***High coupling***: Fast start hard to scale
-- ***Low coupling***: slow to 
+- ***High coupling***: Fast to start hard to scale
+- ***Low coupling***: slow to start scalable long term.
