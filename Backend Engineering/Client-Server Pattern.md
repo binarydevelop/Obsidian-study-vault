@@ -13,38 +13,15 @@ A **client** initiates requests and a **server** processes them and returns resp
 ### Common Technologies
 
 - HTTP/HTTPS
-    
 - TCP/IP
-    
 - Web Servers (Nginx, Apache)
-    
 - App Servers (Spring Boot, Express)
-    
-
 ### Mermaid Diagram
 
-`sequenceDiagram     participant Client     participant Server     Client->>Server: Request     Server-->>Client: Response`
 
-### Use Cases
+```sequenceDiagram  
+participant Client  participant Server 
+ Client->>Server: Request  
+ Server-->>Client: Response
+ ```
 
-- Web applications
-    
-- Mobile backends
-    
-- CRUD-based systems
-    
-
-### Pros / Cons
-
-**Pros**
-
-- Simple to understand
-    
-- Easy to debug
-    
-
-**Cons**
-
-- Server can become a bottleneck
-    
-- Tight coupling
