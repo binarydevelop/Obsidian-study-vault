@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"07d19989ec60432a","x":-160,"y":-120,"width":250,"height":60,"type":"text","text":"Backend engineering"},
-		{"id":"c1e9e570002a1507","x":-139,"y":11,"width":250,"height":60,"type":"text","text":"Communication patterns\n"},
+		{"id":"07d19989ec60432a","x":-160,"y":-120,"width":140,"height":50,"type":"text","text":"Backend engineering"},
+		{"id":"c1e9e570002a1507","x":-139,"y":11,"width":159,"height":61,"type":"text","text":"Communication patterns\n"},
 		{"id":"2841884b4f0cc7e1","x":168,"y":-21,"width":250,"height":60,"type":"text","text":"Request Response"},
-		{"id":"42ca48487230892b","x":149,"y":72,"width":250,"height":60,"type":"text","text":""}
+		{"id":"42ca48487230892b","x":100,"y":72,"width":250,"height":60,"type":"text","text":"Publish subscribe"}
 	],
 	"edges":[
 		{"id":"000553da1f53cbe4","fromNode":"07d19989ec60432a","fromSide":"bottom","toNode":"c1e9e570002a1507","toSide":"top"},
