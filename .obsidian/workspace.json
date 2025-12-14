@@ -16,7 +16,7 @@
                 "file": "Backend Engineering/Backend engineering roadmap.canvas",
                 "viewState": {
                   "x": -495.5,
-                  "y": -333.5,
+                  "y": -336,
                   "zoom": 0
                 }
               },
@@ -224,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ddac5ca280f8ac",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
-    "Web sockets.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
-    "Long Polling.md",
+    "Backend Engineering/Web sockets.md",
+    "Backend Engineering/Long Polling.md",
     "Backend Engineering/Polling.md",
     "Backend Engineering/Remote procedure call pattern.md",
     "Backend Engineering/Request-Response.md",
