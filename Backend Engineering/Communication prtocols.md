@@ -7,3 +7,4 @@
 	- [[Service oriented architecture]]
 	- [[Reactive architecture]]
 	- [[Monolithic architecture]]
+	- [[]]
