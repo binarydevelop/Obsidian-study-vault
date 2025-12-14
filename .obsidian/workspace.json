@@ -16,7 +16,7 @@
                 "file": "Backend Engineering/Backend engineering roadmap.canvas",
                 "viewState": {
                   "x": -495.5,
-                  "y": -363.5,
+                  "y": -333.5,
                   "zoom": 0
                 }
               },
@@ -226,8 +226,11 @@
   },
   "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
-    "Backend Engineering/Remote procedure call pattern.md",
+    "Web sockets.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
+    "Long Polling.md",
+    "Backend Engineering/Polling.md",
+    "Backend Engineering/Remote procedure call pattern.md",
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Publish-Subscribe Pattern.md",
     "Backend Engineering/Peer-to-Peer architecture.md",
