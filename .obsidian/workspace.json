@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Communication prtocols"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "dfbc5a9dd167c8fb",
+        "type": "tabs",
+        "children": [
           {
             "id": "9e0722aa42b9ec4d",
             "type": "leaf",
@@ -29,32 +35,8 @@
               "state": {
                 "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": 372.5,
-                  "y": -78.5,
-                  "zoom": -1.514210220143556
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dfbc5a9dd167c8fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5f4348a84fddf56",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 372.5,
-                  "y": -78.5,
+                  "x": -557.5516330494602,
+                  "y": 304.2608359133127,
                   "zoom": -1.514210220143556
                 }
               },
@@ -248,11 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5f4348a84fddf56",
+  "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Communication prtocols.md",
-    "Publish–Subscribe Pattern.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Communication prtocols.md",
+    "Backend Engineering/WebSockets.md",
+    "Backend Engineering/Web sockets.md",
+    "Publish–Subscribe Pattern.md",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
@@ -266,7 +250,6 @@
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Client-Server architecture.md",
     "Backend Engineering/Software architecture patterns.md",
-    "Backend Engineering/Web sockets.md",
     "Backend Engineering/Service oriented architecture.md",
     "Backend Engineering/RESTful API Pattern.md",
     "Backend Engineering/Remote procedure call pattern.md",
@@ -276,7 +259,6 @@
     "Backend Engineering/Peer-to-Peer architecture.md",
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "Backend Engineering/Monolithic architecture.md",
-    "Backend Engineering/Message queue pattern.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",
