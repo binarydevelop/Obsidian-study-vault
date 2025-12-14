@@ -11,10 +11,17 @@
             "id": "70ddac5ca280f8ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -203,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
+    "Backend Engineering/_Index.md",
+    "Untitled.canvas",
     "Backend Engineering/Communication patterns.md",
     "Backend Engineering/Client-Server Pattern.md",
-    "Backend Engineering/_Index.md",
     "Backend Engineering/Publish-Subscribe Pattern.md",
     "Index.md",
     "Untitled",

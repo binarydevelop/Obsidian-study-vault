@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"07d19989ec60432a","x":-160,"y":-120,"width":250,"height":60,"type":"text","text":"Backend engineering"},
+		{"id":"c1e9e570002a1507","x":-139,"y":11,"width":250,"height":60,"type":"text","text":"Communication patterns\n"},
+		{"id":"2841884b4f0cc7e1","x":168,"y":-21,"width":250,"height":60,"type":"text","text":"Request Response"},
+		{"id":"42ca48487230892b","x":149,"y":72,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"000553da1f53cbe4","fromNode":"07d19989ec60432a","fromSide":"bottom","toNode":"c1e9e570002a1507","toSide":"top"},
+		{"id":"995c72a67e5d110e","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"2841884b4f0cc7e1","toSide":"left"},
+		{"id":"632f8d0d19dc6d8e","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"42ca48487230892b","toSide":"left"}
+	]
+}
