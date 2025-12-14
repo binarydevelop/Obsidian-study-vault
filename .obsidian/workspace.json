@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/Untitled.canvas",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -168.5,
-                  "y": -113.5,
-                  "zoom": 0
+                  "x": 372.5,
+                  "y": -78.5,
+                  "zoom": -1.514210220143556
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -212,10 +212,10 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Software architecture and protocols.md",
-    "System Design/_index_system_design.md",
-    "System Design/Untitled.canvas",
     "Backend Engineering/_index_backend_engineering.md",
+    "System Design/_index_system_design.md",
+    "System Design/_roadmap_system_design.canvas",
+    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Request-Response.md",
