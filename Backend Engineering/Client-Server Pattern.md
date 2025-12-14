@@ -20,8 +20,9 @@ A **client** initiates requests and a **server** processes them and returns resp
 
 
 ```sequenceDiagram  
-participant Client  participant Server 
- Client->>Server: Request  
- Server-->>Client: Response
+participant Client
+participant Server 
+Client->>Server: Request  
+Server-->>Client: Response
  ```
 
