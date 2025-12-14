@@ -11,17 +11,14 @@
             "id": "ec4eb24c9547049e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend Engineering/Backend engineering roadmap.canvas",
-                "viewState": {
-                  "x": -621.694960778628,
-                  "y": 95.82429471223293,
-                  "zoom": -0.49690632405596014
-                }
+                "file": "Client–Server Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Backend engineering roadmap"
+              "icon": "lucide-file",
+              "title": "Client–Server Architecture"
             }
           }
         ]
@@ -77,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,8 +210,9 @@
   },
   "active": "ec4eb24c9547049e",
   "lastOpenFiles": [
-    "Backend Engineering/Message queue pattern.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
+    "Client–Server Architecture.md",
+    "Backend Engineering/Message queue pattern.md",
     "Backend Engineering/Peer-to-Peer architecture.md",
     "Backend Engineering/Software architecture patterns.md",
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
