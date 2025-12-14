@@ -14,10 +14,32 @@
 	- [[Flooding / Broadcast Pattern]]
 	- [[Peer Discovery Pattern]]
 	- [[Replication Pattern]]
-- [[Request–Response Pattern]]
-- [[Synchronous Method Invocation]]
-- [[RESTful API Pattern]] _(between tiers)_
+	- [[Request–Response Pattern]]
+	- [[Synchronous Method Invocation]]
+	- [[RESTful API Pattern]] _(between tiers)_
+	- [[RPC Pattern]]
+	- [[Data Transfer Object (DTO) Pattern]]
+	- [[Message Queue Pattern]]
+	- [[Event Notification Pattern]]
+	- [[Publish–Subscribe Pattern]]
+	- [[Event Streaming Pattern]]
+	- [[Event Notification Pattern]]
+	- [[Event Sourcing Pattern]]
+	- [[Command–Event Separation]]
+	- [[Message Queue Pattern]]
+	- [[Dead Letter Queue]]
+	- [[Idempotent Consumer Pattern]]
+- [[In-Process Method Calls]]
+    
+- [[Shared Memory Communication]]
+    
+- [[Layered Call Pattern]]
+    
+
+### 5.2 External Communication Patterns
+
+- [[Client–Server Pattern]]
+    
+- [[RESTful API Pattern]]
+    
 - [[RPC Pattern]]
-- [[Data Transfer Object (DTO) Pattern]]
-- [[Message Queue Pattern]]
-- [[Event Notification Pattern]]
