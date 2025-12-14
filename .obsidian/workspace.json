@@ -15,8 +15,8 @@
               "state": {
                 "file": "Backend Engineering/Backend engineering roadmap.canvas",
                 "viewState": {
-                  "x": -390,
-                  "y": -429.5,
+                  "x": -495.5,
+                  "y": -358.5,
                   "zoom": 0
                 }
               },
@@ -226,11 +226,12 @@
   },
   "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
-    "Backend Engineering/Publish-Subscribe Pattern.md",
+    "Backend Engineering/Request-Response.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
+    "Backend Engineering/Publish-Subscribe Pattern.md",
     "Backend Engineering/Peer-to-Peer architecture.md",
     "Backend Engineering/Client-Server architecture.md",
-    "Multi-Tier (N-Tier) Architecture.md",
+    "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "Backend Engineering/_Index.md",
     "Backend Engineering/Communication patterns.md",
     "Index.md",
