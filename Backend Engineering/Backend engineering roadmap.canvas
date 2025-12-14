@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-180,"y":-580,"width":200,"height":60},
 		{"id":"e602560d6398280d","type":"text","text":"Software architectures","x":-238,"y":-472,"width":218,"height":52},
-		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-333,"y":-329,"width":250,"height":60},
-		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer Architecture]]","x":-60,"y":-329,"width":250,"height":60},
-		{"id":"d5cdcd56a5fed348","x":90,"y":-332,"width":250,"height":60,"type":"text","text":"Multi-Tier (N-Tier) Architecture"}
+		{"id":"d5cdcd56a5fed348","x":90,"y":-332,"width":250,"height":60,"type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]"},
+		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-800,"y":-329,"width":250,"height":60},
+		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer Architecture]]","x":-520,"y":-329,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
