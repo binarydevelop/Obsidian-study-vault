@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0fe2e73ccb1b39c2","type":"group","x":-1000,"y":-200,"width":620,"height":113,"label":"1.1 Client server patterns"},
-		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-360,"width":660,"height":80,"label":"1. [[Software architecture patterns]]"},
+		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-340,"width":911,"height":50,"label":"1. [[Software architecture patterns]]"},
 		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-1051,"y":-340,"width":140,"height":50},
 		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-891,"y":-340,"width":140,"height":50},
 		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-731,"y":-340,"width":180,"height":50},
@@ -13,7 +13,9 @@
 		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-1000,"y":-138,"width":180,"height":51},
 		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-819,"y":-138,"width":191,"height":50},
 		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-619,"y":-138,"width":96,"height":50},
-		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":-559,"y":-197,"width":174,"height":50}
+		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":-559,"y":-197,"width":174,"height":50},
+		{"id":"34d355412109b4b4","type":"text","text":"[[Monolithic architecture]]","x":-411,"y":-340,"width":140,"height":50},
+		{"id":"d3fac585e1cfc6d7","x":-766,"y":-367,"width":250,"height":77,"type":"text","text":"Reactive Architecture"}
 	],
 	"edges":[
 		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
