@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"2841884b4f0cc7e1","x":168,"y":-21,"width":250,"height":60,"type":"text","text":"[[Publish-Subscribe Pattern]]"},
-		{"id":"42ca48487230892b","x":100,"y":72,"width":250,"height":60,"type":"text","text":"[[Client-Server Pattern]]"},
 		{"id":"07d19989ec60432a","x":-279,"y":-140,"width":140,"height":50,"type":"text","text":"Backend engineering"},
-		{"id":"c1e9e570002a1507","x":-80,"y":-145,"width":159,"height":61,"type":"text","text":"[[Communication patterns]]"}
+		{"id":"c1e9e570002a1507","x":-80,"y":-145,"width":159,"height":61,"type":"text","text":"[[Communication patterns]]"},
+		{"id":"2841884b4f0cc7e1","x":79,"y":-320,"width":250,"height":60,"type":"text","text":"[[Publish-Subscribe Pattern]]"},
+		{"id":"42ca48487230892b","x":79,"y":-380,"width":250,"height":60,"type":"text","text":"[[Client-Server Pattern]]"}
 	],
 	"edges":[
-		{"id":"000553da1f53cbe4","fromNode":"07d19989ec60432a","fromSide":"bottom","toNode":"c1e9e570002a1507","toSide":"top"},
-		{"id":"995c72a67e5d110e","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"2841884b4f0cc7e1","toSide":"left"},
-		{"id":"632f8d0d19dc6d8e","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"42ca48487230892b","toSide":"left"}
+		{"id":"f4b741f477659d58","fromNode":"07d19989ec60432a","fromSide":"right","toNode":"c1e9e570002a1507","toSide":"left"},
+		{"id":"ae65b6b15241642c","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"2841884b4f0cc7e1","toSide":"left"},
+		{"id":"819d85856330ebef","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"42ca48487230892b","toSide":"left"}
 	]
 }
