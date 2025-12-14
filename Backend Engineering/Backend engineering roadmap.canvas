@@ -3,8 +3,8 @@
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-180,"y":-580,"width":200,"height":60},
 		{"id":"e602560d6398280d","type":"text","text":"Software architectures","x":-238,"y":-472,"width":218,"height":52},
 		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-800,"y":-329,"width":140,"height":50},
-		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-300,"y":-329,"width":180,"height":50},
-		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-640,"y":-329,"width":140,"height":50}
+		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-640,"y":-329,"width":140,"height":50},
+		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) architecture]]","x":-480,"y":-329,"width":180,"height":50}
 	],
 	"edges":[
 		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
