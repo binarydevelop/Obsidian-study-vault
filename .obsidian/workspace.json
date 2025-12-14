@@ -28,14 +28,17 @@
             "id": "71e4c1d8862b938e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering/Client–Server Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Client–Server Architecture"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,18 +224,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71e4c1d8862b938e",
+  "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Communication prtocols.md",
+    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/_index_backend_engineering.md",
+    "Backend Engineering/Communication prtocols.md",
     "Backend Engineering/Software architecture and protocols.md",
     "System Design/_roadmap_system_design.canvas",
-    "Backend Engineering/_index_backend_engineering.md",
     "System Design/_index_system_design.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Client-Server architecture.md",
-    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Software architecture patterns.md",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Service oriented architecture.md",
