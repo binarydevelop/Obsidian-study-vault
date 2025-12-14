@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Backend Engineering/Communication patterns.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6ca05cb2701d8058",
@@ -210,8 +209,9 @@
   },
   "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
-    "Index.md",
+    "Backend Engineering/_Index.md",
     "Backend Engineering/Communication patterns.md",
+    "Index.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",
