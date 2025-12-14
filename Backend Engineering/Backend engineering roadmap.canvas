@@ -13,7 +13,7 @@
 		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-1000,"y":-138,"width":180,"height":51},
 		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-819,"y":-138,"width":191,"height":50},
 		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-619,"y":-138,"width":96,"height":50},
-		{"id":"8b3ed1c5690543dc","type":"text","text":"[[]]","x":-494,"y":-221,"width":96,"height":50}
+		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":-559,"y":-197,"width":174,"height":50}
 	],
 	"edges":[
 		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
