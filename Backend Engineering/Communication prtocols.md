@@ -29,17 +29,19 @@
 	- [[Message Queue Pattern]]
 	- [[Dead Letter Queue]]
 	- [[Idempotent Consumer Pattern]]
-- [[In-Process Method Calls]]
-    
-- [[Shared Memory Communication]]
-    
-- [[Layered Call Pattern]]
-    
+	- [[In-Process Method Calls]]
+	- [[Shared Memory Communication]]
+	- [[Layered Call Pattern]]
+	- [[Client–Server Pattern]]
+	- [[RESTful API Pattern]]
+	- [[RPC Pattern]]
+	- [[Message-Driven Pattern]]
+	- [[Asynchronous Messaging]]
+	[[Backpressure Pattern]]
+	[[Non-Blocking I/O Pattern]]
+	[[Circuit Breaker Pattern]]
+	[[Bulkhead Pattern]]
+	[[Retry Pattern]]
+	[[Timeout Pattern]]
+	
 
-### 5.2 External Communication Patterns
-
-- [[Client–Server Pattern]]
-    
-- [[RESTful API Pattern]]
-    
-- [[RPC Pattern]]
