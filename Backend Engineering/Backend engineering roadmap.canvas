@@ -1,26 +1,25 @@
 {
 	"nodes":[
+		{"id":"0fe2e73ccb1b39c2","x":-1071,"y":-602,"width":591,"height":150,"type":"group","label":"Untitled group"},
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-180,"y":-580,"width":200,"height":60},
 		{"id":"e602560d6398280d","type":"text","text":"Software architectures","x":-238,"y":-472,"width":218,"height":52},
 		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-800,"y":-329,"width":140,"height":50},
 		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-640,"y":-329,"width":140,"height":50},
 		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-480,"y":-329,"width":180,"height":50},
-		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-1011,"y":-197,"width":191,"height":50},
-		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-820,"y":-198,"width":180,"height":51},
-		{"id":"56d0d2271027479e","type":"text","text":"[[Remote procedure call pattern]]","x":-640,"y":-202,"width":180,"height":55},
-		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-795,"y":-147,"width":140,"height":50},
-		{"id":"7c2752d02833a586","type":"text","text":"[[Long Polling]]","x":-915,"y":-148,"width":120,"height":56},
-		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-1011,"y":-148,"width":96,"height":50},
-		{"id":"849770ef68b3d9b0","x":-400,"y":-332,"width":250,"height":60,"type":"text","text":"[[Event Driven ar]]"}
+		{"id":"849770ef68b3d9b0","type":"text","text":"[[Event Driven architecture]]","x":-300,"y":-329,"width":140,"height":50},
+		{"id":"56d0d2271027479e","type":"text","text":"[[Remote procedure call pattern]]","x":-680,"y":-582,"width":180,"height":55},
+		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-1051,"y":-577,"width":191,"height":50},
+		{"id":"7c2752d02833a586","type":"text","text":"[[Long Polling]]","x":-955,"y":-528,"width":120,"height":56},
+		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-860,"y":-578,"width":180,"height":51},
+		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-835,"y":-527,"width":140,"height":50},
+		{"id":"e03854f8fa3a5c7c","type":"text","text":"[[Polling]]","x":-1051,"y":-528,"width":96,"height":50},
+		{"id":"e4bf134ad15284e2","x":-620,"y":-366,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
 		{"id":"3ecb68bd2c135f7a","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"6727cf2dc6328319","toSide":"top"},
 		{"id":"5a94b85d76b7a4aa","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"a621897a95f4887a","toSide":"top"},
 		{"id":"f95dcf3a5b814583","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"d5cdcd56a5fed348","toSide":"top"},
-		{"id":"19654ca886ed5e22","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"99de7df69e779e46","toSide":"top"},
-		{"id":"128b68b8ea84d2d7","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"f22fe995f30c1fdf","toSide":"top"},
-		{"id":"011d01b015a7aeb3","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"56d0d2271027479e","toSide":"top"},
 		{"id":"bb20d24bd55ec10f","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"849770ef68b3d9b0","toSide":"top"}
 	]
 }

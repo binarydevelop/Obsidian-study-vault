@@ -224,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "70ddac5ca280f8ac",
   "lastOpenFiles": [
+    "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Long Polling.md",
