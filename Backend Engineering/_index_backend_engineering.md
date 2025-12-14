@@ -1,4 +1,5 @@
-[[Software architecture and protocols]]
-	[[Client–Server Architecture]]
-		- [[Request–Response Pattern]]
+1. [[Software architecture and protocols]]
+	1.1 [[Client–Server Architecture]]
+		1.1.1 [[Request–Response Pattern]]
+		 
 		- 
