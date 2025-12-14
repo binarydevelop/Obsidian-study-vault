@@ -11,17 +11,14 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 372.5,
-                  "y": -78.5,
-                  "zoom": -1.514210220143556
-                }
+                "file": "Backend Engineering/Client–Server Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "icon": "lucide-file",
+              "title": "Client–Server Architecture"
             }
           }
         ]
@@ -212,8 +209,8 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Backend Engineering/Event-Driven Architecture.md",
     "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Microservices Architecture.md",
