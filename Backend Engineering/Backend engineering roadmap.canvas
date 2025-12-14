@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"0fe2e73ccb1b39c2","type":"group","x":-1000,"y":-200,"width":1242,"height":260},
 		{"id":"8acb022e72af286e","type":"group","x":-1071,"y":-340,"width":1131,"height":50,"label":"1. [[Software architecture patterns]]"},
 		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-411,"y":-780,"width":200,"height":60},
 		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-1070,"y":-340,"width":140,"height":50},
@@ -10,18 +9,17 @@
 		{"id":"34d355412109b4b4","type":"text","text":"[[Monolithic architecture]]","x":-470,"y":-340,"width":140,"height":50},
 		{"id":"d3fac585e1cfc6d7","type":"text","text":"[[Reactive architecture]]","x":-330,"y":-340,"width":156,"height":50},
 		{"id":"e3118eb77a763b76","type":"text","text":"[[Service oriented architecture]]","x":-174,"y":-340,"width":234,"height":50},
-		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]\n\n[[Remote procedure call pattern]]\n\n[[RESTful API Pattern]]\n\n[[Polling]]\n\n[[Long Polling]]","x":-1000,"y":-197,"width":191,"height":337},
 		{"id":"56d0d2271027479e","type":"text","text":"","x":-809,"y":-197,"width":199,"height":55},
 		{"id":"0d8c6f21825bbe3c","type":"text","text":"","x":-610,"y":-197,"width":143,"height":50},
 		{"id":"e03854f8fa3a5c7c","type":"text","text":"","x":-467,"y":-197,"width":96,"height":50},
 		{"id":"7c2752d02833a586","type":"text","text":"","x":-371,"y":-197,"width":119,"height":50},
-		{"id":"79bd0321427011a4","type":"text","text":"[[Web sockets]]","x":-252,"y":-197,"width":140,"height":50},
+		{"id":"79bd0321427011a4","type":"text","text":"","x":-252,"y":-197,"width":140,"height":50},
 		{"id":"f22fe995f30c1fdf","type":"text","text":"[[Publish-Subscribe Pattern]]","x":-112,"y":-197,"width":180,"height":51},
 		{"id":"8b3ed1c5690543dc","type":"text","text":"[[Message queue pattern]]","x":68,"y":-196,"width":174,"height":50},
-		{"id":"db69b4e2c893b9f1","x":-915,"y":-120,"width":250,"height":319,"type":"text","text":"[[Direct Messaging Pattern]]\n\n[[Gossip Protocol]]\n\n[[Distributed Hash Table (DHT)]]\n\n[[Flooding / Broadcast Pattern]]\n\n[[Peer Discovery Pattern]]\n\n[[Replication Pattern]]"}
+		{"id":"db69b4e2c893b9f1","x":-915,"y":-120,"width":250,"height":319,"type":"text","text":"[[Direct Messaging Pattern]]\n\n[[Gossip Protocol]]\n\n[[Distributed Hash Table (DHT)]]\n\n[[Flooding / Broadcast Pattern]]\n\n[[Peer Discovery Pattern]]\n\n[[Replication Pattern]]"},
+		{"id":"99de7df69e779e46","type":"text","text":"1. [[Request-Response]]\n2. [[Remote procedure call pattern]]\n3. [[RESTful API Pattern]]\n4. [[Polling]]\n5. [[Long Polling]]\n6. [[Web sockets]]","x":-1121,"y":-220,"width":191,"height":337}
 	],
 	"edges":[
-		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"},
-		{"id":"0753c25f35c6ba82","fromNode":"6727cf2dc6328319","fromSide":"left","toNode":"0fe2e73ccb1b39c2","toSide":"left"}
+		{"id":"9bad012a2fbf1588","fromNode":"8542163a08a9abe6","fromSide":"left","toNode":"8acb022e72af286e","toSide":"right"}
 	]
 }
