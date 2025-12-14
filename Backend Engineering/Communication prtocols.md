@@ -1,4 +1,9 @@
 - Communication protocols in backend development facilitate communication between different services, components or systems within an application or across a network. 
 - Types of communication models: 
 	- [[Client–Server Architecture]]
-		- [[Request–Response Pattern]]
+	- [[Multi-Tier (N-Tier) Architecture]]
+	- [[Peer-to-Peer architecture]]
+	- [[Event Driven architecture]]
+	- [[Service oriented architecture]]
+	- [[Reactive architecture]]
+	- [[Monolithic architecture]]
