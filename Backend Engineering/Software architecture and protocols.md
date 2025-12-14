@@ -8,3 +8,7 @@
 
 - **Software architecture** → how a system is structured
 - **Communication protocols** → how parts of the system talk
+---
+### Things to remember while designing a system
+- ***High coupling***: Fast start hard to scale
+- ***Low coupling***: slow to 
