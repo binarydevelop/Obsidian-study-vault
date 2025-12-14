@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"8542163a08a9abe6","x":-180,"y":-580,"width":200,"height":60,"type":"text","text":"Backend engineering"},
-		{"id":"e602560d6398280d","x":-238,"y":-472,"width":250,"height":60,"type":"text","text":"Software architectures"},
-		{"id":"6727cf2dc6328319","x":-333,"y":-329,"width":250,"height":60,"type":"text","text":"[[Client-Server architecture]]"},
-		{"id":"a621897a95f4887a","x":-108,"y":-332,"width":250,"height":60,"type":"text","text":"[[Peer-to-Peer Architecture]]"}
+		{"id":"8542163a08a9abe6","type":"text","text":"Backend engineering","x":-180,"y":-580,"width":200,"height":60},
+		{"id":"e602560d6398280d","type":"text","text":"Software architectures","x":-238,"y":-472,"width":218,"height":52},
+		{"id":"6727cf2dc6328319","type":"text","text":"[[Client-Server architecture]]","x":-333,"y":-329,"width":250,"height":60},
+		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer Architecture]]","x":-60,"y":-329,"width":250,"height":60},
+		{"id":"d5cdcd56a5fed348","x":90,"y":-332,"width":250,"height":60,"type":"text","text":"Multi-Tier (N-Tier) Architecture"}
 	],
 	"edges":[
 		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
 		{"id":"3ecb68bd2c135f7a","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"6727cf2dc6328319","toSide":"top"},
-		{"id":"5a94b85d76b7a4aa","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"a621897a95f4887a","toSide":"top"}
+		{"id":"5a94b85d76b7a4aa","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"a621897a95f4887a","toSide":"top"},
+		{"id":"f95dcf3a5b814583","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"d5cdcd56a5fed348","toSide":"top"}
 	]
 }
