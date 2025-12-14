@@ -43,7 +43,7 @@ Server-->>Client: Response
 
 Core Communication Patterns
 
-- **Request-Response**  
+- [[**Request-Response** ]]
     This is the most common and fundamental pattern, used in most web applications (e.g., HTTP/HTTPS).
     - The client sends a request to the server and **waits** for a response.
     - The server processes the request and sends the response back.
