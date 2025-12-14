@@ -11,14 +11,17 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Backend Engineering/Software architecture and protocols.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Software architecture and protocols"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -209,8 +212,9 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Software architecture and protocols.md",
+    "System Design/Untitled.canvas",
+    "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Request-Response.md",

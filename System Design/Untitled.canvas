@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d8554d99e727cb54","x":-160,"y":-220,"width":160,"height":50,"type":"text","text":"System Design"},
+		{"id":"f42d02a03a3212f2","x":-337,"y":-67,"width":250,"height":60,"type":"text","text":"[[Software architecture and protocols]]"}
+	],
+	"edges":[]
+}
