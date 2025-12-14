@@ -37,11 +37,16 @@
 	- [[RPC Pattern]]
 	- [[Message-Driven Pattern]]
 	- [[Asynchronous Messaging]]
-	[[Backpressure Pattern]]
-	[[Non-Blocking I/O Pattern]]
-	[[Circuit Breaker Pattern]]
-	[[Bulkhead Pattern]]
-	[[Retry Pattern]]
-	[[Timeout Pattern]]
-	
+	- [[Backpressure Pattern]]
+	- [[Non-Blocking I/O Pattern]]
+	- [[Circuit Breaker Pattern]]
+	- [[Bulkhead Pattern]]
+	- [[Retry Pattern]]
+	- [[Timeout Pattern]]
+	- [[RPC Pattern]] (SOAP)
+	[[Request–Response Pattern]]
+	[[Message-Oriented Middleware (MOM)]]
+	[[Service Bus Pattern (ESB)]]
+	[[Message Queue Pattern]]
+		
 
