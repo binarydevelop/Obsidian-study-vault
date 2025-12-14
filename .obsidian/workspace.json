@@ -25,6 +25,20 @@
             }
           },
           {
+            "id": "ec4eb24c9547049e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering/Software architecture patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software architecture patterns"
+            }
+          },
+          {
             "id": "011a2f51bf40c431",
             "type": "leaf",
             "state": {
@@ -38,7 +52,8 @@
               "title": "Peer-to-Peer architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ddac5ca280f8ac",
+  "active": "ec4eb24c9547049e",
   "lastOpenFiles": [
-    "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Backend engineering roadmap.canvas",
+    "Backend Engineering/Software architecture patterns.md",
+    "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Long Polling.md",
     "Backend Engineering/Polling.md",

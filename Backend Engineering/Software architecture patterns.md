@@ -1,0 +1,1 @@
+Architecture patterns define **system-level structure**, while communication patterns define **how parts talk** inside that structure.
