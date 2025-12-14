@@ -6,7 +6,8 @@
 		{"id":"a621897a95f4887a","type":"text","text":"[[Peer-to-Peer architecture]]","x":-640,"y":-329,"width":140,"height":50},
 		{"id":"d5cdcd56a5fed348","type":"text","text":"[[Multi-Tier (N-Tier) Architecture]]","x":-480,"y":-329,"width":180,"height":50},
 		{"id":"99de7df69e779e46","type":"text","text":"[[Request-Response]]","x":-1011,"y":-197,"width":191,"height":50},
-		{"id":"f22fe995f30c1fdf","x":-911,"y":-198,"width":250,"height":60,"type":"text","text":""}
+		{"id":"f22fe995f30c1fdf","x":-820,"y":-198,"width":180,"height":51,"type":"text","text":"[[Publish-Subscribe Pattern]]"},
+		{"id":"56d0d2271027479e","x":-640,"y":-202,"width":180,"height":55,"type":"text","text":"[[Remote procedure call pattern]]"}
 	],
 	"edges":[
 		{"id":"3ab91659a992e097","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"e602560d6398280d","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"5a94b85d76b7a4aa","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"a621897a95f4887a","toSide":"top"},
 		{"id":"f95dcf3a5b814583","fromNode":"e602560d6398280d","fromSide":"bottom","toNode":"d5cdcd56a5fed348","toSide":"top"},
 		{"id":"19654ca886ed5e22","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"99de7df69e779e46","toSide":"top"},
-		{"id":"128b68b8ea84d2d7","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"f22fe995f30c1fdf","toSide":"top"}
+		{"id":"128b68b8ea84d2d7","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"f22fe995f30c1fdf","toSide":"top"},
+		{"id":"011d01b015a7aeb3","fromNode":"6727cf2dc6328319","fromSide":"bottom","toNode":"56d0d2271027479e","toSide":"top"}
 	]
 }
