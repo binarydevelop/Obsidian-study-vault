@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"07d19989ec60432a","type":"text","text":"Backend engineering","x":-279,"y":-140,"width":140,"height":50,"color":"4"},
-		{"id":"c1e9e570002a1507","type":"text","text":"[[Communication patterns]]","x":-80,"y":-145,"width":159,"height":61},
+		{"id":"07d19989ec60432a","type":"text","text":"Backend engineering","x":-279,"y":-140,"width":140,"height":50,"color":"#f5f5f5"},
 		{"id":"2841884b4f0cc7e1","type":"text","text":"[[Publish-Subscribe Pattern]]","x":79,"y":-320,"width":250,"height":60},
-		{"id":"42ca48487230892b","type":"text","text":"[[Client-Server architecture]]","x":79,"y":-380,"width":250,"height":60}
+		{"id":"42ca48487230892b","type":"text","text":"[[Client-Server architecture]]","x":79,"y":-380,"width":250,"height":60},
+		{"id":"c1e9e570002a1507","type":"text","text":"[[Communication patterns]]","x":79,"y":-140,"width":159,"height":61},
+		{"id":"2b6c8ba567eecd90","x":-103,"y":-143,"width":250,"height":60,"type":"text","text":"Network and "}
 	],
 	"edges":[
-		{"id":"f4b741f477659d58","fromNode":"07d19989ec60432a","fromSide":"right","toNode":"c1e9e570002a1507","toSide":"left"},
 		{"id":"ae65b6b15241642c","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"2841884b4f0cc7e1","toSide":"left"},
-		{"id":"819d85856330ebef","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"42ca48487230892b","toSide":"left"}
+		{"id":"819d85856330ebef","fromNode":"c1e9e570002a1507","fromSide":"right","toNode":"42ca48487230892b","toSide":"left"},
+		{"id":"a55ca227eeacd45e","fromNode":"07d19989ec60432a","fromSide":"right","toNode":"2b6c8ba567eecd90","toSide":"left"}
 	]
 }
