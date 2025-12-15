@@ -5,3 +5,4 @@
 [[Monolithic architecture]]
 [[Reactive architecture]]
 [[Service-Oriented Architecture (SOA)]]
+[[Microservices Architecture]]
