@@ -11,17 +11,14 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -168.5,
-                  "y": -113.5,
-                  "zoom": 0
-                }
+                "file": "Backend Engineering/Software architecture and protocols.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "Software architecture and protocols"
             }
           }
         ]
@@ -212,13 +209,13 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/_index_backend_engineering.md",
-    "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Publish–Subscribe Pattern.md",
