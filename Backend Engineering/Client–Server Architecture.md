@@ -4,9 +4,6 @@
 
 
 - **Client–server architecture** is a distributed computing model in which functionality is split between **clients** (requesters of services) and **servers** (providers of services). 
-- Client and servers communicate over a network using defined protocols such as http/https.
-- Clients are the requester of services whereas servers are the providers of services
-
 ---
 
 ### Core Components
@@ -15,12 +12,10 @@
     - Initiates requests for data or services.
     - Typically handles user interaction and presentation logic.
     - Examples: web browsers, mobile apps, desktop applications.
-        
 2. **Server**
     - Listens for and processes client requests.
     - Manages resources such as databases, files, or business logic.
     - Examples: web servers (Apache, Nginx), application servers, database servers.
-        
 3. **Network**
     - The communication medium (LAN, WAN, Internet).
     - Requests and responses are exchanged using protocols like HTTP/HTTPS, TCP/IP.
