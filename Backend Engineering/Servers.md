@@ -5,3 +5,4 @@
 - They are typically responsible for business logic, data processing authentication storage access and system integration. 
 ---
 [[Web Servers]]
+[[Application Servers]]
