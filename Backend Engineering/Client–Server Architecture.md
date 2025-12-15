@@ -20,8 +20,6 @@
 3. **Network**
     - The communication medium (LAN, WAN, Internet).
     - Requests and responses are exchanged using protocols like HTTP/HTTPS, TCP/IP.
-        
-
 ---
 
 ### Communication Model
