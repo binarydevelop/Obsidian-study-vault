@@ -21,20 +21,18 @@
             "id": "4fceb9df25370aaf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 916.3632276316546,
-                  "y": -156.19477171056417,
-                  "zoom": -1.514210220143556
-                }
+                "file": "Backend Engineering/Software architecture and protocols.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "icon": "lucide-file",
+              "title": "Software architecture and protocols"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Engineering/Software architecture and protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Software architecture and protocols"
             }
           },
           {
@@ -218,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a012f9904f473cc",
+  "active": "4fceb9df25370aaf",
   "lastOpenFiles": [
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architectures.md",
