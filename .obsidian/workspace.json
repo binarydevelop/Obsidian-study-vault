@@ -11,17 +11,14 @@
             "id": "db5ec69672100735",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 118.32823212545627,
-                  "y": -370.541776672339,
-                  "zoom": 0.02538077281629325
-                }
+                "file": "Backend Engineering/Client–Server Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "icon": "lucide-file",
+              "title": "Client–Server Architecture"
             }
           }
         ]
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "file": "Backend Engineering/Client–Server Architecture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _roadmap_backend_engineering"
+              "title": "Outgoing links from Client–Server Architecture"
             }
           },
           {
@@ -211,11 +208,11 @@
   },
   "active": "db5ec69672100735",
   "lastOpenFiles": [
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/Software architecture and protocols.md",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Request–Response Pattern.md",
