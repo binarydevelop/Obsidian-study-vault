@@ -21,14 +21,17 @@
             "id": "4fceb9df25370aaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Backend Engineering/Stateful and stateless.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -802.941527765635,
+                  "y": 154.38837178493114,
+                  "zoom": -0.30795256051704006
+                }
               },
-              "icon": "lucide-file",
-              "title": "Stateful and stateless"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ],
@@ -124,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Stateful and stateless.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stateful and stateless"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
