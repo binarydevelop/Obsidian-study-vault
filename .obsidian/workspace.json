@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering/Software architecture and protocols.md",
+                "file": "Backend Engineering/Software architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software architecture and protocols"
+              "title": "Software architectures"
+            }
+          },
+          {
+            "id": "4fceb9df25370aaf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": 372.5,
+                  "y": -78.5,
+                  "zoom": -1.514210220143556
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "right": {
     "id": "6ca05cb2701d8058",
@@ -209,12 +226,13 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Software architectures.md",
+    "Backend Engineering/Software architecture and protocols.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/Software architecture and protocols.md",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Web sockets.md",
@@ -235,7 +253,6 @@
     "Backend Engineering/Publish-Subscribe Pattern.md",
     "Backend Engineering/Peer-to-Peer architecture.md",
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
-    "Backend Engineering/Monolithic architecture.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",

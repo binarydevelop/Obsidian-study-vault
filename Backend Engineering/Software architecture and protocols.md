@@ -15,4 +15,4 @@
 ---
 
 [[Communication protocols]]
-[[Software]]
+[[Software architectures]]
