@@ -6,4 +6,4 @@ Web servers handle incoming HTTP/HTTPS requests and serve static contents or for
 - SSL/TLS termination [[SSL OR TLS]]
 - Reverse proxying and load balancing (in many cases)
 [Reverse Proxying]
-[[Load balancing]]
+[Load balancing]
