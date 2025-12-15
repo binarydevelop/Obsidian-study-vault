@@ -6,7 +6,9 @@
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20240907155153/3.png?utm_source=chatgpt.com)
 
-- **Client–server architecture** is a distributed computing model in which functionality is split between **clients** (requesters of services) and **servers** (providers of services). The two communicate over a network using well-defined protocols. This separation enables centralized control of data and services while allowing multiple clients to access them concurrently.
+- **Client–server architecture** is a distributed computing model in which functionality is split between **clients** (requesters of services) and **servers** (providers of services). 
+- Client and servers communicate over a network using defined protocols such as http/https.
+- Clients are the requester os ervice
 
 ---
 
