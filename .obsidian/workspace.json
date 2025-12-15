@@ -11,14 +11,17 @@
             "id": "1ddc0bdd76b88f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Backend Engineering/Software architecture and protocols.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -168.5,
+                  "y": -113.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Software architecture and protocols"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -209,11 +212,12 @@
   },
   "active": "1ddc0bdd76b88f77",
   "lastOpenFiles": [
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
-    "Backend Engineering/_index_backend_engineering.md",
+    "System Design/_index_system_design.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Software architecture and protocols.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/_index_backend_engineering.md",
     "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Web sockets.md",
@@ -223,7 +227,6 @@
     "Backend Engineering/Event-Driven Architecture.md",
     "Backend Engineering/Event Driven architecture.md",
     "Backend Engineering/Microservices Architecture.md",
-    "System Design/_index_system_design.md",
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Client-Server architecture.md",
     "Backend Engineering/Software architecture patterns.md",
