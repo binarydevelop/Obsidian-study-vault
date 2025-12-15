@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Servers.md",
+                "file": "Backend Engineering/Client–Server Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Servers"
+              "title": "Client–Server Architecture"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Servers.md",
+                "file": "Backend Engineering/Client–Server Architecture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Application Servers"
+              "title": "Outgoing links from Client–Server Architecture"
             }
           },
           {
@@ -208,14 +208,14 @@
   },
   "active": "db5ec69672100735",
   "lastOpenFiles": [
-    "Backend Engineering/Servers.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Application Servers.md",
+    "Backend Engineering/Servers.md",
     "Backend Engineering/Web Servers.md",
     "Load balancing.md",
     "Backend Engineering/SSL OR TLS.md",
     "SSL/TLS.md",
     "SSL",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/WebSockets.md",
@@ -237,7 +237,6 @@
     "Backend Engineering/Client-Server architecture.md",
     "Backend Engineering/Software architecture patterns.md",
     "Backend Engineering/Service oriented architecture.md",
-    "Backend Engineering/RESTful API Pattern.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",
