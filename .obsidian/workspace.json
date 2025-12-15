@@ -11,14 +11,17 @@
             "id": "db5ec69672100735",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Backend Engineering/Software architectures.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": 118.32823212545627,
+                  "y": -370.541776672339,
+                  "zoom": 0.02538077281629325
+                }
               },
-              "icon": "lucide-file",
-              "title": "Software architectures"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Software architectures.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Software architectures"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
@@ -208,6 +211,9 @@
   },
   "active": "db5ec69672100735",
   "lastOpenFiles": [
+    "Backend Engineering/Communication protocols.md",
+    "Backend Engineering/WebSockets.md",
+    "Backend Engineering/Software architectures.md",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Client–Server Architecture.md",
@@ -215,11 +221,8 @@
     "Backend Engineering/Request–Response Pattern.md",
     "Backend Engineering/Stateful and stateless.md",
     "Pasted image 20251215161127.png",
-    "Backend Engineering/Software architectures.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
-    "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/WebSockets.md",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Publish–Subscribe Pattern.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
