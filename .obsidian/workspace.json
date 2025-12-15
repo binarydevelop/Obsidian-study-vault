@@ -31,7 +31,8 @@
               "title": "Stateful and stateless"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Engineering/Stateful and stateless.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Stateful and stateless"
             }
           },
           {
@@ -215,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ddc0bdd76b88f77",
+  "active": "4fceb9df25370aaf",
   "lastOpenFiles": [
     "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Client–Server Architecture.md",
