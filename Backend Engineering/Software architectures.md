@@ -1,2 +1,7 @@
 [[Client–Server Architecture]]
 [[Peer-to-Peer architecture]]
+[[Multi-Tier (N-Tier) Architecture]]
+[[Event-Driven Architecture]]
+[[Monolithic architecture]]
+[[Reactive architecture]]
+[[Service-Oriented Architecture (SOA)]]
