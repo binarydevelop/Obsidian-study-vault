@@ -11,11 +11,15 @@
 		{"id":"99de7df69e779e46","type":"text","text":"## 1. [[Client–Server Architecture]]\n\n**Tags:** #architecture/client-server\n\n### 1.1 Client–Server Communication Patterns\n\n- [[Request–Response Pattern]]\n    \n- [[Remote Procedure Call Pattern]]\n    \n- [[RESTful API Pattern]]\n    \n- [[Polling]]\n    \n- [[Long Polling]]\n    \n- [[WebSockets]]\n    \n- [[Publish–Subscribe Pattern]] _(via broker)_\n    \n- [[Message Queue Pattern]] _(asynchronous client → server)_","x":-1288,"y":-115,"width":370,"height":497},
 		{"id":"690141470cb483e5","type":"text","text":"### 8. [[Microservices Architecture]] \n\nTags: #architecture/microservices\n\n8.1 Synchronous Communication Patterns\n\n[[RESTful API Pattern]]\n\n[[RPC Pattern (gRPC)]]\n\n8.2 Asynchronous Communication Patterns\n\n[[Publish–Subscribe Pattern]]\n\n[[Message Queue Pattern]]\n\n[[Event-Driven Communication]]\n\n8.3 Reliability Patterns\n\n[[Circuit Breaker Pattern]]\n\n[[Saga Pattern]]\n\n[[Service Mesh Communication]]","x":1645,"y":-196,"width":385,"height":576},
 		{"id":"2047dbbfe9d69fad","type":"text","text":"### 7. [[Service-Oriented Architecture (SOA)]]\n\nTags: #architecture/soa\n\n7.1 Service Communication Patterns\n\n[[RPC Pattern]] (SOAP)\n\n[[Request–Response Pattern]]\n\n[[Message-Oriented Middleware (MOM)]]\n\n[[Service Bus Pattern (ESB)]]\n\n7.2 Integration Patterns\n\n[[Message Queue Pattern]]\n\n[[Publish–Subscribe Pattern]]\n\n[[Service Registry Pattern]]","x":1270,"y":-116,"width":378,"height":496},
-		{"id":"2f8dde2937a16315","x":-1631,"y":-347,"width":250,"height":60,"type":"text","text":"[[Servers]]"}
+		{"id":"2f8dde2937a16315","x":-1631,"y":-347,"width":111,"height":50,"type":"text","text":"[[Servers]]"},
+		{"id":"bdcd303bbd3c6955","x":-1860,"y":-372,"width":133,"height":50,"type":"text","text":"[[Web Servers]]"},
+		{"id":"68dd539c62c4678c","x":-1860,"y":-432,"width":156,"height":60,"type":"text","text":"[[Application Servers]]"}
 	],
 	"edges":[
 		{"id":"3f55994c121234a1","fromNode":"8542163a08a9abe6","fromSide":"bottom","toNode":"ff51c485b6b442ed","toSide":"top"},
 		{"id":"98f5398b088044c5","fromNode":"ff51c485b6b442ed","fromSide":"bottom","toNode":"c27bd7e9ac653eda","toSide":"top"},
-		{"id":"a03a1531986c98bc","fromNode":"99de7df69e779e46","fromSide":"left","toNode":"2f8dde2937a16315","toSide":"right"}
+		{"id":"a03a1531986c98bc","fromNode":"99de7df69e779e46","fromSide":"left","toNode":"2f8dde2937a16315","toSide":"right"},
+		{"id":"04c8f24083e4ee8a","fromNode":"2f8dde2937a16315","fromSide":"left","toNode":"68dd539c62c4678c","toSide":"right"},
+		{"id":"58ba1dc3e848de66","fromNode":"2f8dde2937a16315","fromSide":"left","toNode":"bdcd303bbd3c6955","toSide":"right"}
 	]
 }
