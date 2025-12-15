@@ -16,6 +16,7 @@
     - Listens for and processes client requests.
     - Manages resources such as databases, files, or business logic.
     - Examples: web servers (Apache, Nginx), application servers, database servers.
+    - Read more about servers: [[]]
 3. **Network**
     - The communication medium (LAN, WAN, Internet).
     - Requests and responses are exchanged using protocols like HTTP/HTTPS, TCP/IP.
