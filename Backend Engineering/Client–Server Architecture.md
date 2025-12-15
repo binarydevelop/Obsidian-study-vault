@@ -34,12 +34,11 @@
 ### Communication Model
 
 - **Request–Response** pattern:
-    
     1. Client sends a request (e.g., HTTP GET). 
     2. Server processes the request.
     3. Server sends a response (data, status code, result).
 - Communication can be **stateless** (e.g., HTTP) or **stateful** depending on the protocol and application design.
-    
+- [[Stateful and stateless]]
 
 ---
 
