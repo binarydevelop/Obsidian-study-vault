@@ -10,6 +10,8 @@
 ---
 A **server is not hardware** — it’s a **process bound to ports and resources**.
 
+What Actually Happens When a Request Hits a Server ?
+
 ```mermaid
 sequenceDiagram
     participant C as Client
