@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Client–Server Architecture.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Client–Server Architecture"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
@@ -238,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eecf4bc3eaf4254d",
+  "active": "63d8cf5a30b74d6c",
   "lastOpenFiles": [
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Client–Server Architecture.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/Communication protocols.md",
