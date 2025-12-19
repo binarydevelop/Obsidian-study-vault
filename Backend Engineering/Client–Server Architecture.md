@@ -54,27 +54,15 @@
 - **Maintainability**: easier updates and bug fixes on the server side.
 ---
 ### Disadvantages
-
 - **Single point of failure** if servers are not redundant.
-    
 - **Network dependency**: performance relies on network quality.
-    
 - **Server load** can become a bottleneck without proper scaling.
-    
-
 ---
-
 ### Common Use Cases
-
 - Web applications (browser ↔ web server).
-    
 - Email systems (mail client ↔ mail server).
-    
 - Online banking and e-commerce platforms.
-    
 - Enterprise information systems.
-    
-
 ---
 
 ### Summary
