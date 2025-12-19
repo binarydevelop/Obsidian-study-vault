@@ -1,3 +1,3 @@
 
-1. [[Software architecture and protocols]]
+1. [[Software architecture]]
 2. 
