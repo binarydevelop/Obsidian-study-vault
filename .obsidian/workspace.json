@@ -11,23 +11,6 @@
             "id": "d2136392877e38af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 19.294439476265097,
-                  "y": -195.08090774853002,
-                  "zoom": -0.32254253060401344
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
-            }
-          },
-          {
-            "id": "a12f7810f9d938de",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Backend Engineering/Software architecture and protocols.md",
@@ -37,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Software architecture and protocols"
             }
+          },
+          {
+            "id": "a12f7810f9d938de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering/Software architectures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software architectures"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a12f7810f9d938de",
+  "active": "d2136392877e38af",
   "lastOpenFiles": [
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Web Servers.md",
