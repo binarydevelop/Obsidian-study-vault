@@ -38,35 +38,21 @@
     - Client communicates directly with the server (often a database).
     - Simple to implement, limited scalability.
     - Common in small or legacy systems.
-        
 2. **Three-Tier Architecture**
     - **Presentation tier**: Client (UI).
     - **Application tier**: Business logic server.
     - **Data tier**: Database server.
     - Improves scalability, security, and maintainability.
-        
 3. **N-Tier (Multi-Tier) Architecture**
-    
     - Extends three-tier by adding services such as caching, authentication, or microservices.
-        
     - Common in large-scale enterprise and cloud systems.
-        
-
 ---
-
 ### Advantages
-
 - **Centralized management** of data and logic.
-    
 - **Scalability**: servers can be upgraded or replicated independently.
-    
 - **Security**: sensitive data resides on servers, not clients.
-    
 - **Maintainability**: easier updates and bug fixes on the server side.
-    
-
 ---
-
 ### Disadvantages
 
 - **Single point of failure** if servers are not redundant.
