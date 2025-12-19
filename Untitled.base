@@ -3,7 +3,5 @@ views:
     name: Table
     order:
       - file.name
-      - Subject
-    sort:
-      - property: Subject
-        direction: DESC
+      - file.tags
+    sort: []
