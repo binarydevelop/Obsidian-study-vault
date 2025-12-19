@@ -1,4 +1,4 @@
-                                                                       #backend #systemdesign #architecture
+
 
 ***Software architecture is the set of structural decisions that are expensive to change later.***
 
