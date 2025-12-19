@@ -4,20 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "10a97c93588a1476",
+        "id": "fde19fcfa6585d87",
         "type": "tabs",
         "children": [
           {
-            "id": "7e37f9cc5e408467",
+            "id": "d2136392877e38af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": 19.294439476265097,
+                  "y": -195.08090774853002,
+                  "zoom": -0.32254253060401344
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
+            }
+          },
+          {
+            "id": "a12f7810f9d938de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering/Software architecture and protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software architecture and protocols"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Engineering/Software architecture and protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Software architecture and protocols"
             }
           },
           {
@@ -201,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e37f9cc5e408467",
+  "active": "a12f7810f9d938de",
   "lastOpenFiles": [
-    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Software architecture and protocols.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/_index_backend_engineering.md",
