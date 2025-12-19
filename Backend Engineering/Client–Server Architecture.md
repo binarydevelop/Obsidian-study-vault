@@ -64,7 +64,3 @@
 - Online banking and e-commerce platforms.
 - Enterprise information systems.
 ---
-
-### Summary
-
-Client–server architecture structures systems around service providers and service consumers. By separating concerns and centralizing resources, it supports scalable, secure, and maintainable applications, which is why it remains the dominant model for modern networked software systems.
