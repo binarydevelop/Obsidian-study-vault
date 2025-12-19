@@ -12,18 +12,17 @@
     - Initiates requests for data or services.
     - Typically handles user interaction and presentation logic.
     - Examples: web browsers, mobile apps, desktop applications.
-2. **Server**
+2.  [[Servers]]
     - Listens for and processes client requests.
     - Manages resources such as databases, files, or business logic.
     - Examples: web servers (Apache, Nginx), application servers, database servers.
-    - Read more about servers: [[Servers]]
+    - Read more about servers: 
 3. **Network**
     - The communication medium (LAN, WAN, Internet).
     - Requests and responses are exchanged using protocols like HTTP/HTTPS, TCP/IP.
 ---
 
 ### Communication Model
-
 - **Request–Response** pattern:
     1. Client sends a request (e.g., HTTP GET). 
     2. Server processes the request.
