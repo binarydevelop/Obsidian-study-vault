@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fde19fcfa6585d87",
+        "id": "5658241ebb5c0921",
         "type": "tabs",
-        "dimension": 50.87131367292225,
         "children": [
           {
-            "id": "b2cee6450f1bbe2d",
+            "id": "b3e2ffb686191d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,30 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Servers"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5658241ebb5c0921",
-        "type": "tabs",
-        "dimension": 49.128686327077745,
-        "children": [
-          {
-            "id": "b3e2ffb686191d47",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": -1325.400440757328,
-                  "y": 30.159637615999316,
-                  "zoom": -0.9907464324090776
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6ca05cb2701d8058",
@@ -233,9 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2cee6450f1bbe2d",
+  "active": "b3e2ffb686191d47",
   "lastOpenFiles": [
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/__To learn.md",
     "Backend Engineering/Servers.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Web Servers.md",
@@ -263,7 +238,6 @@
     "Backend Engineering/Microservices Architecture.md",
     "Backend Engineering/Request-Response.md",
     "Backend Engineering/Client-Server architecture.md",
-    "Backend Engineering/Software architecture patterns.md",
     "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",
