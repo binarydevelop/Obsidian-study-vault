@@ -35,21 +35,14 @@
 ### Architectural Tiers
 
 1. **Two-Tier Architecture**
-    
     - Client communicates directly with the server (often a database).
-        
     - Simple to implement, limited scalability.
-        
     - Common in small or legacy systems.
         
 2. **Three-Tier Architecture**
-    
     - **Presentation tier**: Client (UI).
-        
     - **Application tier**: Business logic server.
-        
     - **Data tier**: Database server.
-        
     - Improves scalability, security, and maintainability.
         
 3. **N-Tier (Multi-Tier) Architecture**
