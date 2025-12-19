@@ -1,8 +1,10 @@
 #backend #architecture #server
 
 
-- Servers are software/hardware that listens to requests from and responds back with request data. 
-- They are typically responsible for business logic, data processing authentication storage access and system integration. 
+> A **server** is a long-running process (or set of processes) that:
+- Listens on a **network interface**
+- Accepts **requests** over a protocol
+- Executes **business logic**
+- Interacts with **stateful systems**
+- Returns **responses** with latency, reliability, and security guarantees
 ---
-[[Web Servers]]
-[[Application Servers]]
