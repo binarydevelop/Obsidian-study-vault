@@ -8,3 +8,22 @@
 - Interacts with **stateful systems**
 - Returns **responses** with latency, reliability, and security guarantees
 ---
+A **server is not hardware** — it’s a **process bound to ports and resources**.
+
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant LB as Load Balancer
+    participant OS as Server OS
+    participant APP as Application Server
+    participant DB as Database
+
+    C->>LB: HTTP Request
+    LB->>OS: Forward Request
+    OS->>APP: Socket Accept
+    APP->>APP: Auth / Validation
+    APP->>DB: Query
+    DB-->>APP: Result
+    APP-->>C: HTTP Response
+
+```
