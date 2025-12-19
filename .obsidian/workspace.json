@@ -15,8 +15,8 @@
               "state": {
                 "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -735.064866686705,
-                  "y": -380.9061553414745,
+                  "x": -747.7694120794893,
+                  "y": -212.56998989181466,
                   "zoom": -0.98920919727068
                 }
               },
@@ -52,8 +52,7 @@
               "title": "Communication protocols"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Client–Server Architecture.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Client–Server Architecture"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
@@ -238,12 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2cee6450f1bbe2d",
+  "active": "8d99e61b2a8581a0",
   "lastOpenFiles": [
+    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Web Servers.md",
