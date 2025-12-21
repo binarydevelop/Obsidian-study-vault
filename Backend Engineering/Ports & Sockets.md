@@ -8,3 +8,7 @@ A **socket** is a **communication endpoint** that combines:
 - **Port number**
 - **Protocol** (TCP or UDP)
 A socket represents an **active connection** used by applications to send and receive data.
+Example:
+```yaml
+192.168.1.10 : 8080 (TCP)
+```
