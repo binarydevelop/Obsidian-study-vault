@@ -79,49 +79,17 @@ This pair is what we call a **socket connection**.
 
 ---
 
-## 4️⃣ Data Transfer Phase
+## Data Transfer Phase
 
 - Both sides can now:
-    
     - **Send data**
-        
     - **Receive data**
-        
 - This continues until one side closes the connection.
-    
-
 ---
 
-## 5️⃣ Close()
+## Close()
 
 - Either client or server can close the socket.
-    
 - Resources are released.
-    
 - The server’s **listening socket remains active** for new clients.
-    
-
 ---
-
-## 🔑 Key Takeaways from the Diagram
-
-- **Port** is used only during `bind()` and `connect()`
-    
-- **Socket** is used for actual communication
-    
-- One server port → **many client connections**
-    
-- `accept()` creates a **new socket per client**
-    
-
----
-
-### One-line summary of the diagram:
-
-> The server listens on a port, the client connects to it, and both communicate using a dedicated socket created after `accept()`.
-
-If you want, I can next explain:
-
-- the **same diagram using a real HTTP example**, or
-    
-- **how this looks in C / Java / Python code**
