@@ -26,42 +26,25 @@ This shows how a **server prepares itself** to accept connections.
 ### **Step 3: Listen()**
 - The server puts the socket into **listening mode**.
 - Now it waits for incoming connection requests from clients.
-    
 - The socket is called a **listening socket**.
-    
-
-📌 No data transfer yet — only waiting.
-
 ---
-
 ### **Step 4: Accept()**
 
 - A client requests a connection.
-    
 - The server **accepts** it.
-    
 - **Important:**
-    
     - `accept()` creates a **new socket** for this specific client.
-        
     - The original socket continues listening for other clients.
-        
-
 📌 This is why many clients can connect to **the same port** simultaneously.
 
 ---
 
-## 2️⃣ Client Side (Right side of the diagram)
+## Client Side
 
 This shows how a **client initiates a connection**.
-
 ### **Step 1: Socket()**
-
 - The client also creates a socket.
-    
 - Again, just creating a communication endpoint.
-    
-
 ---
 
 ### **Step 2: Connect()**
