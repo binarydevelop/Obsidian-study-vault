@@ -1,26 +1,15 @@
 
-
-![Image](https://media.geeksforgeeks.org/wp-content/uploads/Socket_server-1.png?utm_source=chatgpt.com)
-
-![Image](https://notes.shichao.io/unp/figure_4.1.png?utm_source=chatgpt.com)
-
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20220330131350/StatediagramforserverandclientmodelofSocketdrawio2-448x660.png?utm_source=chatgpt.com)
 
 ---
 
-## 1️⃣ Server Side (Left side of the diagram)
+## 1.Server Side (Left side of the diagram)
 
 This shows how a **server prepares itself** to accept connections.
-
 ### **Step 1: Socket()**
-
 - The server creates a **socket**.
-    
 - At this point, it’s just an empty communication endpoint.
-    
 - Think of it as **creating a phone**, but not dialing or receiving calls yet.
-    
-
 ---
 
 ### **Step 2: Bind()**
