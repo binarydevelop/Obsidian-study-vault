@@ -7,7 +7,7 @@
 - Interacts with **stateful systems**
 - Returns **responses** with latency, reliability, and security guarantees
 ---
-A **server is not hardware** — it’s a **process bound to ports and resources**.
+A **server is not hardware** — it’s a **process bound to [[Ports]] and resources**.
 
 What Actually Happens When a Request Hits a Server ?
 

@@ -1,0 +1,1 @@
+A **port** is a **numbered endpoint** on a computer that identifies **which application or service** should receive incoming network data.
