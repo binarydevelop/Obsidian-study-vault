@@ -46,36 +46,24 @@ This shows how a **client initiates a connection**.
 - The client also creates a socket.
 - Again, just creating a communication endpoint.
 ---
-
 ### **Step 2: Connect()**
-
 - The client calls `connect()` using:
-    
     - Server IP address
-        
     - Server port number
-        
 - Example:
-    
-    ```
+    ```yaml
     connect(192.168.1.10, 8080)
     ```
-    
 
-📌 This triggers a connection request to the server’s listening socket.
+ This triggers a connection request to the server’s listening socket.
 
 ---
 
-## 3️⃣ Established Connection (Middle of the diagram)
-
+## Established Connection (Middle of the diagram)
 Once:
-
 - Client calls `connect()`
-    
 - Server calls `accept()`
-    
-
-👉 A **dedicated socket pair** is created:
+A **dedicated socket pair** is created:
 
 ```
 Client Socket  <======>  Server Socket
