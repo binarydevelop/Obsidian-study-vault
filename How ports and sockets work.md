@@ -11,31 +11,20 @@ This shows how a **server prepares itself** to accept connections.
 - At this point, it’s just an empty communication endpoint.
 - Think of it as **creating a phone**, but not dialing or receiving calls yet.
 ---
-
 ### **Step 2: Bind()**
 
 - The socket is **bound to a specific port number** (and IP address).
-    
 - Example:
-    
-    ```
+- ```yaml
     IP: 192.168.1.10
     Port: 8080
     ```
-    
 - This tells the OS:
-    
     > “Any data coming to port 8080 should be delivered to this socket.”
-    
-
-📌 This is where **ports** come into play.
-
 ---
 
 ### **Step 3: Listen()**
-
 - The server puts the socket into **listening mode**.
-    
 - Now it waits for incoming connection requests from clients.
     
 - The socket is called a **listening socket**.
