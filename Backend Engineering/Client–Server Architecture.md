@@ -32,7 +32,6 @@
 ---
 
 ### Architectural Tiers
-
 1. **Two-Tier Architecture**
     - Client communicates directly with the server (often a database).
     - Simple to implement, limited scalability.

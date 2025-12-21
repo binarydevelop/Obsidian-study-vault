@@ -37,6 +37,20 @@
               "icon": "lucide-file",
               "title": "Client–Server Architecture"
             }
+          },
+          {
+            "id": "66b7e7832ef3854d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering/Stateful and stateless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stateful and stateless"
+            }
           }
         ],
         "currentTab": 1
@@ -227,9 +241,10 @@
   },
   "active": "40b5ffaef8ff201a",
   "lastOpenFiles": [
+    "Backend Engineering/Stateful and stateless.md",
+    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Untitled.base",
@@ -245,7 +260,6 @@
     "SSL",
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Request–Response Pattern.md",
-    "Backend Engineering/Stateful and stateless.md",
     "Pasted image 20251215161127.png",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
