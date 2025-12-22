@@ -74,15 +74,12 @@ Each socket is uniquely identified by:
 This pair is what we call a **socket connection**.
 
 ---
-
 ## Data Transfer Phase
-
 - Both sides can now:
     - **Send data**
     - **Receive data**
 - This continues until one side closes the connection.
 ---
-
 ## Close()
 
 - Either client or server can close the socket.
