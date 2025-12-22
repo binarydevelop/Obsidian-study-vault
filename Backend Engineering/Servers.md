@@ -32,4 +32,4 @@ sequenceDiagram
 
 ## Types of servers 
 -  Application server
-- Web server
+-  Web server
