@@ -38,7 +38,6 @@ This shows how a **server prepares itself** to accept connections.
 
 ---
 ## Client Side
-
 This shows how a **client initiates a connection**.
 ### **Step 1: Socket()**
 - The client also creates a socket.
