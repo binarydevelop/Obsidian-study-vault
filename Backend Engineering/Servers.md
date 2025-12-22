@@ -28,3 +28,8 @@ sequenceDiagram
     APP-->>C: HTTP Response
 
 ```
+
+
+## Types of servers 
+-  Application server
+- Web server
