@@ -55,8 +55,7 @@ This shows how a **client initiates a connection**.
  This triggers a connection request to the server’s listening socket.
 
 ---
-
-## Established Connection (Middle of the diagram)
+## Established Connection 
 Once:
 - Client calls `connect()`
 - Server calls `accept()`
