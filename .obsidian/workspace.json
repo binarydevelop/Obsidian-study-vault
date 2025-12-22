@@ -65,9 +65,23 @@
               "icon": "lucide-file",
               "title": "Ports & Sockets"
             }
+          },
+          {
+            "id": "65c7db1360ad7368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How ports and sockets work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How ports and sockets work"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Ports & Sockets.md",
+                "file": "How ports and sockets work.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ports & Sockets"
+              "title": "Outgoing links from How ports and sockets work"
             }
           },
           {
@@ -253,11 +267,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d51d660899188310",
+  "active": "65c7db1360ad7368",
   "lastOpenFiles": [
+    "Backend Engineering/Ports & Sockets.md",
     "Backend Engineering/Servers.md",
     "Backend Engineering/Client–Server Architecture.md",
-    "Backend Engineering/Ports & Sockets.md",
     "How ports and sockets work.md",
     "Untitled.base",
     "Backend Engineering/_roadmap_backend_engineering.canvas",

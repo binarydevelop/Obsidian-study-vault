@@ -2,8 +2,7 @@
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20220330131350/StatediagramforserverandclientmodelofSocketdrawio2-448x660.png?utm_source=chatgpt.com)
 
 ---
-
-## 1.Server Side (Left side of the diagram)
+## 1.Server Side
 
 This shows how a **server prepares itself** to accept connections.
 ### **Step 1: Socket()**
