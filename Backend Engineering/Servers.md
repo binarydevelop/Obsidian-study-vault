@@ -31,5 +31,5 @@ sequenceDiagram
 
 
 ## Types of servers 
--  Application server
--  Web server
+-  [[Application Servers]]
+-  [[Web Servers]]

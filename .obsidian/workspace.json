@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Web Servers.md",
+                "file": "Backend Engineering/Servers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Web Servers"
+              "title": "Outgoing links from Servers"
             }
           },
           {
@@ -253,20 +253,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2d2e5f8927624af",
+  "active": "17b29c0e792fe059",
   "lastOpenFiles": [
+    "Backend Engineering/Client–Server Architecture.md",
+    "Backend Engineering/Web Servers.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Servers.md",
     "Backend Engineering/Ports & Sockets.md",
     "How ports and sockets work.md",
-    "Backend Engineering/Client–Server Architecture.md",
     "Untitled.base",
     "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/__To learn.md",
-    "Backend Engineering/Web Servers.md",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/Application Servers.md",
     "Backend Engineering/Reverse Proxying.md",
