@@ -37,7 +37,6 @@ This shows how a **server prepares itself** to accept connections.
 📌 This is why many clients can connect to **the same port** simultaneously.
 
 ---
-
 ## Client Side
 
 This shows how a **client initiates a connection**.
