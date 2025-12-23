@@ -11,7 +11,7 @@ created: 2025-12-23
 
 ## Why this matters
 ==Software architecture determines how well a system can **scale, evolve, remain reliable, and be understood over time**.== 
-- Architectural descisons are basically expensive or impossible to change later
+- Architectural decision are basically expensive or impossible to change later
 ## Core idea
 **Software architecture is the set of fundamental structural decisions** about a system:
 - How responsibilities are divided
@@ -22,7 +22,6 @@ created: 2025-12-23
 Architecture is less about *frameworks* and more about **trade-offs under constraints**.
 
 ---
-
 ## Detailed technical explanation
 
 ### What architecture actually defines
