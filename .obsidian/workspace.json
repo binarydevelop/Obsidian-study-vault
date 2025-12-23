@@ -15,8 +15,8 @@
               "state": {
                 "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -1647.4922422285779,
-                  "y": -132.66203842573262,
+                  "x": -342.83967536523755,
+                  "y": -84.20695282766063,
                   "zoom": -0.5985754984399974
                 }
               },
@@ -66,8 +66,7 @@
               "title": "Web Servers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Stateful and stateless.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stateful and stateless"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
@@ -253,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40b5ffaef8ff201a",
+  "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
+    "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Web Servers.md",
     "Backend Engineering/Servers.md",
@@ -264,7 +264,6 @@
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "How ports and sockets work.md",
     "Untitled.base",
-    "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/_index_backend_engineering.md",
