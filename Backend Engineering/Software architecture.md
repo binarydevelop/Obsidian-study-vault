@@ -70,3 +70,4 @@ flowchart LR
     ServiceA --> DB1[(Primary DB)]
     ServiceB --> Cache[(Cache)]
     ServiceA --> MQ[(Message Queue)]
+```
