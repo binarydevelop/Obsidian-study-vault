@@ -13,3 +13,11 @@ Web servers handle incoming HTTP/HTTPS requests and serve static contents or for
 - **Apache HTTP Server**
 - **Nginx**
 - **Microsoft IIS**
+### A web server is optimized for:
+1. **Connection handling**
+2. **Static file delivery**
+3. **Request routing**
+4. **Security (TLS/HTTPS)**
+5. **Reverse proxying**
+6. **Load balancing**
+7. **Caching**
