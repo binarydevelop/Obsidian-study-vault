@@ -1,6 +1,9 @@
 ---
 id: 20251223-stateful-vs-stateless
-tags: [backend, architecture, systems, zettel]
+tags:
+  - backend
+  - architecture
+  - systems
 created: 2025-12-23
 ---
 
