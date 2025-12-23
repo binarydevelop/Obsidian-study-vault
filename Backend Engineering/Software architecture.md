@@ -45,7 +45,6 @@ These decisions shape **non-functional properties** far more than business logic
 - Regulatory or latency requirements
 
 ---
-
 ### Architecture vs Design
 
 | Aspect | Architecture | Design |
