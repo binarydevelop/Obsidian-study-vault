@@ -15,8 +15,8 @@
               "state": {
                 "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": 8.156757504247949,
-                  "y": -223.57204423687648,
+                  "x": -810.0545272263862,
+                  "y": -157.23062143025408,
                   "zoom": -0.26524216510666404
                 }
               },
@@ -38,8 +38,7 @@
               "title": "Software architecture"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineering/Software architecture.md",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Software architecture"
+              "title": "Outgoing links from _roadmap_backend_engineering"
             }
           },
           {
@@ -226,8 +225,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06f4747a8f99040b",
+  "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
+    "Backend Engineering/Communication protocols.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architecture.md",
     "Backend Engineering/Web Servers.md",
@@ -239,7 +239,6 @@
     "Backend Engineering/Ports & Sockets.md",
     "How ports and sockets work.md",
     "Untitled.base",
-    "Backend Engineering/Communication protocols.md",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Software architectures.md",
     "Backend Engineering/Reverse Proxying.md",
