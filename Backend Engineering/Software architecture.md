@@ -39,7 +39,6 @@ These decisions shape **non-functional properties** far more than business logic
 #### Connectors
 - Mechanisms of interaction
 - Examples: HTTP, gRPC, message queues, shared memory
-
 #### Constraints
 - Technology choices
 - Organizational structure
