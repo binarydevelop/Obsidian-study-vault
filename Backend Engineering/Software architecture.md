@@ -10,8 +10,8 @@ created: 2025-12-23
 # Software Architecture
 
 ## Why this matters
-==Software architecture determines how well a system can **scale, evolve, remain reliable, and be understood over time**.== For backend engineers, architectural decisions often matter more than code-level optimizations because they are expensive (or impossible) to change later.
-
+==Software architecture determines how well a system can **scale, evolve, remain reliable, and be understood over time**.== 
+- Architectural descisons are basically expensive or impossible to change later
 ## Core idea
 **Software architecture is the set of fundamental structural decisions** about a system:
 - How responsibilities are divided
