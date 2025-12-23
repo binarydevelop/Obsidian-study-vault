@@ -24,24 +24,18 @@ Architecture is less about *frameworks* and more about **trade-offs under constr
 ---
 ### What architecture actually defines
 At its core, architecture answers these questions:
-
 - **Decomposition**: How is the system split into components?
 - **Communication**: How do components interact?
 - **Data ownership**: Who owns which data?
 - **State management**: Where does state live?
 - **Failure boundaries**: What fails independently?
 - **Change boundaries**: What can change without breaking the system?
-
 These decisions shape **non-functional properties** far more than business logic does.
-
 ---
-
 ### Architectural building blocks
-
 #### Components
 - Independently deployable or logical units
 - Examples: services, modules, workers, databases
-
 #### Connectors
 - Mechanisms of interaction
 - Examples: HTTP, gRPC, message queues, shared memory
