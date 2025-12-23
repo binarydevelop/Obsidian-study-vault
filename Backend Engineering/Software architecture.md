@@ -1,112 +1,84 @@
+---
+id: 20251223-software-architecture
+tags:
+  - backend
+  - architecture
+  - systemdesign
+created: 2025-12-23
+---
 
+# Software Architecture
 
-This diagram shows:
+## Why this matters
+Software architecture determines how well a system can **scale, evolve, remain reliable, and be understood over time**. For backend engineers, architectural decisions often matter more than code-level optimizations because they are expensive (or impossible) to change later.
 
-- Clear responsibility separation
-    
-- Explicit communication paths
-    
-- Independent data stores
-    
+## Core idea
+**Software architecture is the set of fundamental structural decisions** about a system:
+- How responsibilities are divided
+- How components communicate
+- Where data and state live
+- What constraints guide evolution
+
+Architecture is less about *frameworks* and more about **trade-offs under constraints**.
 
 ---
 
-## Architectural styles (not patterns)
+## Detailed technical explanation
 
-Architectural styles are **constraints**, not templates.
+### What architecture actually defines
 
-- Monolithic
-    
-- Layered
-    
-- Event-driven
-    
-- Microservices
-    
-- Serverless
-    
+At its core, architecture answers these questions:
 
-A system usually combines **multiple styles**, not one pure form.
+- **Decomposition**: How is the system split into components?
+- **Communication**: How do components interact?
+- **Data ownership**: Who owns which data?
+- **State management**: Where does state live?
+- **Failure boundaries**: What fails independently?
+- **Change boundaries**: What can change without breaking the system?
+
+These decisions shape **non-functional properties** far more than business logic does.
 
 ---
 
-## Quality attributes driven by architecture
+### Architectural building blocks
 
-Architecture primarily governs:
+#### Components
+- Independently deployable or logical units
+- Examples: services, modules, workers, databases
 
-- Scalability
-    
-- Availability
-    
-- Consistency
-    
-- Latency
-    
-- Security
-    
-- Observability
-    
-- Maintainability
-    
+#### Connectors
+- Mechanisms of interaction
+- Examples: HTTP, gRPC, message queues, shared memory
 
-Example:
-
-> Choosing synchronous RPC improves simplicity but increases coupling and tail latency.
+#### Constraints
+- Technology choices
+- Organizational structure
+- Regulatory or latency requirements
 
 ---
 
-## Practical implications for backend engineers
+### Architecture vs Design
 
-- APIs define **architectural boundaries**
-    
-- Database schemas encode **ownership and coupling**
-    
-- Deployment topology is an architectural concern
-    
-- Logging, metrics, and tracing must be architected, not added later
-    
-- Poor architecture amplifies team communication problems
-    
+| Aspect | Architecture | Design |
+|------|-------------|--------|
+| Scope | System-wide | Component-level |
+| Longevity | Long-term | Evolves frequently |
+| Focus | Structure & boundaries | Algorithms & logic |
+| Cost of change | Very high | Relatively low |
+
+Architecture **enables or limits** design choices.
 
 ---
 
-## Common pitfalls
+## Diagram
 
-- Confusing frameworks with architecture
-    
-- Over-architecting for hypothetical scale
-    
-- Ignoring failure modes
-    
-- Shared databases across services
-    
-- Letting organizational structure accidentally define architecture
-    
-- Treating architecture as a one-time decision
-    
+### High-level architectural view
 
----
-
-## Related notes
-
-- [[Monolithic Architecture]]
-    
-- [[Microservices Architecture]]
-    
-- [[Event-Driven Architecture]]
-    
-- [[Stateful and Stateless Architecture]]
-    
-- [[System Design Trade-offs]]
-    
-- [[Non-Functional Requirements]]
-    
-
-```
-
-If you want, next we can drill into:
-- **Architectural styles vs patterns**
-- **How architecture evolves over time**
-- **Architecture decision records (ADRs)**
-- **Real-world architecture trade-offs (monolith → microservices)**
-```
+```mermaid
+flowchart LR
+    Client --> API[API Layer]
+    API --> ServiceA[Core Service]
+    API --> ServiceB[Aux Service]
+    ServiceA --> DB1[(Primary DB)]
+    ServiceB --> Cache[(Cache)]
+    ServiceA --> MQ[(Message Queue)]

@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#architecture",
+                "query": "tag:systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36238a366d489db4",
+  "active": "06f4747a8f99040b",
   "lastOpenFiles": [
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Software architecture.md",
