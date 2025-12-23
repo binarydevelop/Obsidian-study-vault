@@ -22,10 +22,7 @@ created: 2025-12-23
 Architecture is less about *frameworks* and more about **trade-offs under constraints**.
 
 ---
-## Detailed technical explanation
-
 ### What architecture actually defines
-
 At its core, architecture answers these questions:
 
 - **Decomposition**: How is the system split into components?
