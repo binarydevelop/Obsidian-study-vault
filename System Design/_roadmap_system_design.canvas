@@ -1,10 +1,13 @@
 {
 	"nodes":[
 		{"id":"d8554d99e727cb54","type":"text","text":"System Design","x":-160,"y":-220,"width":160,"height":50},
-		{"id":"f42d02a03a3212f2","type":"text","text":"[[Software architecture]]","x":-337,"y":-67,"width":250,"height":60},
-		{"id":"c6deb569679ae101","x":-380,"y":-160,"width":188,"height":50,"type":"text","text":"High Level Design"}
+		{"id":"c6deb569679ae101","x":-380,"y":-160,"width":188,"height":50,"type":"text","text":"High Level Design"},
+		{"id":"53993f598dec78cf","x":20,"y":-160,"width":180,"height":50,"type":"text","text":"Low Level Design"},
+		{"id":"f42d02a03a3212f2","type":"text","text":"[[Software architecture]]","x":-740,"y":-40,"width":200,"height":60}
 	],
 	"edges":[
-		{"id":"f25aa865a56f113c","fromNode":"d8554d99e727cb54","fromSide":"left","toNode":"c6deb569679ae101","toSide":"top"}
+		{"id":"f25aa865a56f113c","fromNode":"d8554d99e727cb54","fromSide":"left","toNode":"c6deb569679ae101","toSide":"top"},
+		{"id":"a23cbb053adaa9d2","fromNode":"c6deb569679ae101","fromSide":"bottom","toNode":"f42d02a03a3212f2","toSide":"top"},
+		{"id":"0b904c5dcd77802f","fromNode":"d8554d99e727cb54","fromSide":"right","toNode":"53993f598dec78cf","toSide":"top"}
 	]
 }
