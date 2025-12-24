@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d65736ac26b3b6a",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication protocols.md",
@@ -234,7 +233,7 @@
     "Backend Engineering/__To learn.md",
     "Backend Engineering/Application Servers.md",
     "Backend Engineering/Ports & Sockets.md",
-    "How ports and sockets work.md",
+    "Backend Engineering/How ports and sockets work.md",
     "Untitled.base",
     "Backend Engineering/_index_backend_engineering.md",
     "Backend Engineering/Software architectures.md",
