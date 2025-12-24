@@ -169,7 +169,6 @@ Encapsulation prevents:
 ## 9. Composition Over Inheritance (Early Insight)
 
 > Prefer **has-a** over **is-a**
-
 ### Example
 
 ❌ Bad:
@@ -181,10 +180,7 @@ ElectricCar extends Car extends Vehicle extends Object
 Problems:
 
 - Rigid hierarchy
-    
 - Hard to change behavior
-    
-
 ✅ Better:
 
 ```text
@@ -195,7 +191,6 @@ ElectricCar has Battery
 Behavior changes via **composition**, not inheritance.
 
 ---
-
 ## 10. Minimal Code Example (Mental Model)
 
 ```java
@@ -217,14 +212,9 @@ class Ticket {
 Notice:
 
 - No extra logic
-    
 - One responsibility
-    
 - Immutable where possible
-    
-
 ---
-
 ## 11. Common Beginner Mistakes (Avoid These)
 
 ❌ God classes (`Manager`, `Helper`, `Utils`)  
@@ -234,13 +224,10 @@ Notice:
 ❌ Thinking in database tables
 
 ---
-
 ## 12. Mental Checklist While Designing
 
 Before writing any class, ask:
-
 1. What responsibility does this have?
-    
 2. Does it have more than one reason to change?
     
 3. Who should own this behavior?
