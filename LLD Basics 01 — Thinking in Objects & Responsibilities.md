@@ -16,30 +16,18 @@ LLD helps you design code that is:
 - **Testable**
 > LLD is not about writing code fast  
 > LLD is about **designing code that survives change**
-
 ---
-
 ## 2. The Fundamental Unit of LLD: Responsibility
-
 ### Key Rule (Golden Rule of LLD)
-
 > **Design around responsibilities, not classes**
 
 A **responsibility** is:
-
 - A reason for a piece of code to exist
-    
 - A specific behavior the system must perform
-    
-
 ### Examples of responsibilities:
-
 - Calculate price
-    
 - Validate input
-    
 - Persist data
-    
 - Send notification
     
 - Allocate resources
