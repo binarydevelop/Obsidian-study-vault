@@ -61,9 +61,7 @@ A **class** is just:
 In LLD:
 - Classes are **containers for responsibilities**
 - Classes should be **small and focused**
-
 ---
-
 ## 5. Single Responsibility Principle (SRP) — From Day 1
 
 > **A class should have exactly one reason to change**
