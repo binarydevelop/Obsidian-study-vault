@@ -116,13 +116,9 @@ Each class has **one responsibility**.
 - `Ticket` → represents parking record
 - `ParkingLot` → manages slots
 ---
-
 ## 7. Object Interaction (Core LLD Skill)
-
 Objects should:
-
 - **Collaborate**
-    
 - **Not control each other internally**
     
 
