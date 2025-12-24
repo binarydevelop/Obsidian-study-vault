@@ -57,6 +57,7 @@ These decisions shape **non-functional properties** far more than business logic
 Architecture **enables or limits** design choices.
 
 ---
+
 ## Diagram
 
 ### High-level architectural view
