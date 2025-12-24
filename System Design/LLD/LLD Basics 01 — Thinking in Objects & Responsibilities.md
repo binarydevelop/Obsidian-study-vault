@@ -103,24 +103,14 @@ Each class has **one responsibility**.
 ---
 ### Example Problem
 > “A system issues tickets to cars entering a parking lot”
-
 - Nouns:
-    
     - Car
-        
     - Ticket
-        
     - ParkingLot
-        
 - Verbs:
-    
     - issue
-        
     - enter
-        
     - park
-        
-
 ### Resulting Objects
 
 - `Car` → represents vehicle
