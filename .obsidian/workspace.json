@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/LLD/System Desin.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -168.5,
+                  "y": -113.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "System Desin"
+              "title": "_roadmap_system_design"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/LLD/System Desin.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from System Desin"
+              "title": "Outgoing links from _roadmap_system_design"
             }
           },
           {
@@ -242,6 +242,7 @@
   "active": "1bdfc014bf1c0d4c",
   "lastOpenFiles": [
     "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
+    "System Design/_index_system_design.md",
     "System Design/LLD/System Desin.canvas",
     "System Design/HLD",
     "System Design/LLD",
@@ -267,8 +268,7 @@
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Pasted image 20251215161127.png",
-    "System Design/HLD/_roadmap_system_design.canvas",
-    "System Design/HLD/_index_system_design.md",
+    "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/Web sockets.md",
     "Backend Engineering/Publish–Subscribe Pattern.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",

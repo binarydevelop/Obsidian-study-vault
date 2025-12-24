@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d8554d99e727cb54","type":"text","text":"System Design","x":-160,"y":-220,"width":160,"height":50},
+		{"id":"f42d02a03a3212f2","type":"text","text":"[[Software architecture]]","x":-337,"y":-67,"width":250,"height":60},
+		{"id":"c6deb569679ae101","x":-380,"y":-160,"width":188,"height":50,"type":"text","text":"High Level Design"}
+	],
+	"edges":[
+		{"id":"f25aa865a56f113c","fromNode":"d8554d99e727cb54","fromSide":"left","toNode":"c6deb569679ae101","toSide":"top"}
+	]
+}
