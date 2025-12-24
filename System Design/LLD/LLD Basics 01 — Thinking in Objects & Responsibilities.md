@@ -123,7 +123,6 @@ Objects should:
 ### Rule:
 > Objects **talk via methods**, not by accessing internal data
 ---
-
 ### Example Flow
 
 ```mermaid
