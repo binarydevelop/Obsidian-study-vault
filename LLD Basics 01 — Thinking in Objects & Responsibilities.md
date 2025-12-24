@@ -1,32 +1,19 @@
 **Tags:** #lld #oop #backend #software-design`  
-**Context:** Foundation note for Low-Level Design interviews
 
 ---
 
 ## 1. What Problem Does LLD Actually Solve?
 
 LLD solves **code-level complexity**.
-
 As systems grow:
-
 - Logic gets scattered
-    
 - Changes become risky
-    
 - One feature breaks another
-    
-
 LLD helps you design code that is:
-
 - **Readable**
-    
 - **Maintainable**
-    
 - **Extensible**
-    
 - **Testable**
-    
-
 > LLD is not about writing code fast  
 > LLD is about **designing code that survives change**
 
