@@ -29,16 +29,12 @@ A **responsibility** is:
 - Validate input
 - Persist data
 - Send notification
-    
 - Allocate resources
     
-
 ❌ Wrong thinking:
-
 > “I need a `UserManager` class”
 
 ✅ Correct thinking:
-
 > “Someone must validate users”  
 > “Someone must store users”  
 > “Someone must authenticate users”
