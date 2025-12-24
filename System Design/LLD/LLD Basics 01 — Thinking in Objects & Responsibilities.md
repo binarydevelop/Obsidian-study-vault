@@ -112,14 +112,9 @@ Each class has **one responsibility**.
     - enter
     - park
 ### Resulting Objects
-
 - `Car` → represents vehicle
-    
 - `Ticket` → represents parking record
-    
 - `ParkingLot` → manages slots
-    
-
 ---
 
 ## 7. Object Interaction (Core LLD Skill)
