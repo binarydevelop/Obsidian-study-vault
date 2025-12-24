@@ -79,12 +79,8 @@ UserService
 ❌ Problems:
 
 - Validation change → class changes
-    
 - DB change → class changes
-    
 - Email change → class changes
-    
-
 ### Improved Design
 
 ```text
