@@ -229,18 +229,12 @@ Notice:
 Before writing any class, ask:
 1. What responsibility does this have?
 2. Does it have more than one reason to change?
-    
 3. Who should own this behavior?
-    
 4. Can this change independently?
-    
-
 ---
-
 ## 13. Key Takeaway (Lock This In)
 
 > **LLD = Assigning the right responsibility to the right object**
-
 Everything else (patterns, SOLID, diagrams) builds on this.
 
 ---
