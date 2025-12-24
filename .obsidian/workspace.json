@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLD Basics 01 — Thinking in Objects & Responsibilities.md",
+                "file": "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLD Basics 01 — Thinking in Objects & Responsibilities.md",
+                "file": "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -236,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bdfc014bf1c0d4c",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
+    "System Design/LLD",
     "Backend Engineering/Software architecture.md",
-    "LLD Basics 01 — Thinking in Objects & Responsibilities.md",
+    "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Web Servers.md",
@@ -268,8 +269,6 @@
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Backend Engineering/Event-Driven Architecture.md",
     "Backend Engineering/Event Driven architecture.md",
-    "Backend Engineering/Microservices Architecture.md",
-    "Untitled",
     "Artificial Intelligence",
     "Frontend Engineering",
     "System Design",
