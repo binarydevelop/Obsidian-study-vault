@@ -122,7 +122,6 @@ Objects should:
 - **Not control each other internally**
 ### Rule:
 > Objects **talk via methods**, not by accessing internal data
-
 ---
 
 ### Example Flow
