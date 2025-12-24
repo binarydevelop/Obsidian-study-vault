@@ -166,7 +166,6 @@ Encapsulation prevents:
 - Tight coupling
 - Debug nightmares
 ---
-
 ## 9. Composition Over Inheritance (Early Insight)
 
 > Prefer **has-a** over **is-a**
