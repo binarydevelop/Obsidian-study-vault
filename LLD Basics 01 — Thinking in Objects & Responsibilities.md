@@ -40,26 +40,18 @@ A **responsibility** is:
 > “Someone must authenticate users”
 
 ---
-
 ## 3. What Is an Object (LLD Definition)?
 
 An **object** is:
-
 > A unit that **owns data** and **performs behavior** related to that data
 
 ### Object = Data + Behavior + Responsibility
-
 Example:
 
 - `Car`
-    
     - Data: number, type
-        
     - Behavior: assignSlot(), releaseSlot()
-        
     - Responsibility: represent a vehicle
-        
-
 ---
 
 ## 4. What Is a Class Then?
