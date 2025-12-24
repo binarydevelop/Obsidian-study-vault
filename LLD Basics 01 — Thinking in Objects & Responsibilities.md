@@ -47,7 +47,6 @@ An **object** is:
 
 ### Object = Data + Behavior + Responsibility
 Example:
-
 - `Car`
     - Data: number, type
     - Behavior: assignSlot(), releaseSlot()
@@ -57,15 +56,11 @@ Example:
 ## 4. What Is a Class Then?
 
 A **class** is just:
-
 > A blueprint to create objects with the same responsibilities
 
 In LLD:
-
 - Classes are **containers for responsibilities**
-    
 - Classes should be **small and focused**
-    
 
 ---
 
