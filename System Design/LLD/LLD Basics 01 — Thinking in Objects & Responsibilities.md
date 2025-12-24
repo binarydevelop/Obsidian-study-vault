@@ -238,11 +238,8 @@ Before writing any class, ask:
 Everything else (patterns, SOLID, diagrams) builds on this.
 
 ---
-
 ### Next Note Options (Choose One)
 
 1️⃣ **What makes a “good class” (data vs behavior)**  
 2️⃣ **Relationships between objects (association, composition, dependency)**  
 3️⃣ **Interfaces vs abstract classes (from scratch)**
-
-Reply with the number — we’ll continue in the same **LLD-first, interview-focused** way.
