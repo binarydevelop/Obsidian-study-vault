@@ -138,27 +138,18 @@ sequenceDiagram
 ```
 
 Key idea:
-
 - `Car` does NOT create `Ticket`
-    
 - Responsibility belongs to `ParkingLot`
-    
-
 ---
 
 ## 8. Encapsulation (Why It Exists)
 
 Encapsulation means:
-
 - Internal state is hidden
-    
-- Only valid operations are allowed
-    
-
+- Only valid operations are allowe
 ### Example
 
 ❌ Bad:
-
 ```java
 ticket.entryTime = -100;
 ```
@@ -172,12 +163,8 @@ ticket.markEntryTime(now);
 Encapsulation prevents:
 
 - Invalid states
-    
 - Tight coupling
-    
 - Debug nightmares
-    
-
 ---
 
 ## 9. Composition Over Inheritance (Early Insight)
