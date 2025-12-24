@@ -120,10 +120,7 @@ Each class has **one responsibility**.
 Objects should:
 - **Collaborate**
 - **Not control each other internally**
-    
-
 ### Rule:
-
 > Objects **talk via methods**, not by accessing internal data
 
 ---
