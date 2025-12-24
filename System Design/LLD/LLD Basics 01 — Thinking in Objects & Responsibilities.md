@@ -93,7 +93,6 @@ UserService        → orchestrates flow
 Each class has **one responsibility**.
 
 ---
-
 ## 6. Identifying Objects from a Problem Statement
 
 ### Step-by-step method (VERY IMPORTANT):
@@ -101,12 +100,8 @@ Each class has **one responsibility**.
 2. **Underline verbs** → candidates for responsibilities
 3. Group responsibilities logically
 4. Assign one group → one class
-    
-
 ---
-
 ### Example Problem
-
 > “A system issues tickets to cars entering a parking lot”
 
 - Nouns:
