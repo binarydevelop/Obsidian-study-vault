@@ -11,17 +11,14 @@
             "id": "6cc95a5693f95227",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -11,
-                  "y": -71.5,
-                  "zoom": 0
-                }
+                "file": "System Design/Low Level Design/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -212,10 +209,11 @@
   },
   "active": "6cc95a5693f95227",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/Low Level Design/Untitled.md",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "System Design/Low Level Design/002_Classes and Objects.md",
-    "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Low Level Design",
     "System Design",
@@ -246,8 +244,6 @@
     "Backend Engineering/Request–Response Pattern.md",
     "Pasted image 20251215161127.png",
     "Backend Engineering/Web sockets.md",
-    "Backend Engineering/Publish–Subscribe Pattern.md",
-    "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Artificial Intelligence",
     "Frontend Engineering",
     "System Design",
