@@ -49,7 +49,6 @@ with a strong focus on:
 - Essential for interviews & real systems
 
 ---
-
 ## Mental Model
 
 "Each class should have **one reason to change**  
@@ -57,17 +56,6 @@ Each object should **own its data**
 Each dependency should be **replaceable**"
 
 ---
-
-## Python as LLD Language
-
-Python is ideal because:
-- Minimal syntax
-- Explicit object modeling
-- Strong typing (via type hints)
-- Widely used in backend systems
-
----
-
 ## First Principle
 LLD starts with **behavior**, not classes.
 
