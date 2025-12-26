@@ -132,11 +132,6 @@ OOP isn’t always the best tool—but it’s a **powerful way to manage complex
 
 > **OOP exists to manage complexity by organizing software around objects that mirror real-world entities, making large systems easier to build, understand, and maintain.**
 
-If you want, I can also explain:
-
-- OOP vs Functional Programming
-    
-- When _not_ to use OOP
-    
-- OOP concepts with simple code examples
-- 
+### Four pillars of OOPs:
+- [[Encapsulation]]
+- [[Abstraction]]
