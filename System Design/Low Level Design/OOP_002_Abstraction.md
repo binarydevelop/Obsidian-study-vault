@@ -8,29 +8,17 @@ In Python, abstraction is mainly achieved using:
 2. **Abstract methods**
 ---
 ## Why Abstraction?
-
 - Reduces complexity
 - Improves code readability and maintainability
 - Enforces a consistent interface for subclasses
-    
 - Helps in large-scale application design
-    
-
 ---
-
 ## Abstraction in Python using `abc` module
-
 Python provides the `abc` (Abstract Base Class) module to implement abstraction.
-
 ### Key Components
-
 - `ABC` → Base class for defining abstract classes
-    
 - `@abstractmethod` → Decorator to define abstract methods
-    
-
 ---
-
 ## Example 1: Basic Abstraction
 
 ```python
@@ -52,7 +40,6 @@ class Vehicle(ABC):
 🔹 Any subclass **must implement** all abstract methods
 
 ---
-
 ## Example 2: Implementing the Abstract Class
 
 ```python
