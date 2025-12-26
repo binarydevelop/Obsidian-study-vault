@@ -1,4 +1,4 @@
-***Tags***: #lld #systemdesign #lfundamentals
+***Tags***: #lld #systemdesign 
 
 ## Context
 Classes and objects are the *core building blocks* of Low Level Design.
@@ -11,7 +11,6 @@ Poor understanding here leads to:
 LLD is not about creating many classes — it’s about creating the *right* ones.
 
 ---
-
 ## Definitions
 
 ### Class
