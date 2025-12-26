@@ -133,5 +133,7 @@ OOP isn’t always the best tool—but it’s a **powerful way to manage complex
 > **OOP exists to manage complexity by organizing software around objects that mirror real-world entities, making large systems easier to build, understand, and maintain.**
 
 ### Four pillars of OOPs:
-- [[Encapsulation]]
 - [[Abstraction]]
+- [[Encapsulation]]
+- [[Inheritance]]
+- [[Polymorphism]]
