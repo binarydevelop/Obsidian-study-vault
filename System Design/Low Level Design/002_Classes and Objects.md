@@ -52,7 +52,5 @@ class Order:
 ### Observations
 
 - `Order` **owns** `order_id` and `amount`
-    
 - Logic (`is_high_value`) lives _with_ the data
-    
 - No external function decides order behavior
