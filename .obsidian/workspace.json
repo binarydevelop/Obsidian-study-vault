@@ -11,17 +11,14 @@
             "id": "6cc95a5693f95227",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -11,
-                  "y": -71.5,
-                  "zoom": 0
-                }
+                "file": "System Design/Low Level Design/OOP_001 Why OOPs exists.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "OOP_001 Why OOPs exists"
             }
           }
         ]
@@ -212,11 +209,12 @@
   },
   "active": "c4e651b935417cfc",
   "lastOpenFiles": [
-    "Untitled 1",
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/Low Level Design/OOP_001 Why OOPs exists.md",
+    "Why OO",
     "Untitled",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/Untitled.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "System Design/Low Level Design/002_Classes and Objects.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
@@ -248,9 +246,7 @@
     "Backend Engineering/WebSockets.md",
     "Backend Engineering/Request–Response Pattern.md",
     "Pasted image 20251215161127.png",
-    "Backend Engineering/Web sockets.md",
     "Artificial Intelligence",
-    "Frontend Engineering",
-    "System Design"
+    "Frontend Engineering"
   ]
 }
