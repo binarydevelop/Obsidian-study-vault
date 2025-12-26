@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "file": "System Design/System Design.canvas",
                 "viewState": {
-                  "x": -1462.6801244394494,
-                  "y": -75.16737242265683,
-                  "zoom": -1.333333333333333
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "title": "System Design"
             }
           }
         ]
@@ -212,6 +212,10 @@
   },
   "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "System Design/System Design.canvas",
+    "System Design/Low Level Design",
+    "System Design",
     "Backend Engineering/__To learn.md",
     "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
     "Backend Engineering/Software architecture.md",
@@ -220,7 +224,6 @@
     "System Design/LLD/System Desin.canvas",
     "System Design/HLD",
     "System Design/LLD",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Communication protocols.md",
     "Backend Engineering/Web Servers.md",
     "Backend Engineering/Stateful and stateless.md",
@@ -248,7 +251,6 @@
     "Artificial Intelligence",
     "Frontend Engineering",
     "System Design",
-    "Excalidraw",
-    "Backend Engineering"
+    "Excalidraw"
   ]
 }
