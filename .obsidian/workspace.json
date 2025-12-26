@@ -11,17 +11,14 @@
             "id": "8d65736ac26b3b6a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "System Design/Low Level Design/Roadmap.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "Roadmap"
             }
           }
         ]
@@ -212,14 +209,14 @@
   },
   "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/_roadmap_system_design.canvas",
+    "System Design/Low Level Design/Roadmap.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Low Level Design",
     "System Design",
     "Backend Engineering/__To learn.md",
     "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
     "Backend Engineering/Software architecture.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
     "System Design/LLD/System Desin.canvas",
     "System Design/HLD",
@@ -247,7 +244,6 @@
     "Backend Engineering/Publish–Subscribe Pattern.md",
     "Backend Engineering/Service-Oriented Architecture (SOA).md",
     "Backend Engineering/Event-Driven Architecture.md",
-    "Backend Engineering/Event Driven architecture.md",
     "Artificial Intelligence",
     "Frontend Engineering",
     "System Design",
