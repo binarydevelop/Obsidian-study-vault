@@ -128,16 +128,10 @@ class Rectangle(Shape):
 ## Real-World Analogy
 
 Think of a **TV remote**:
-
 - You know what buttons do (volume, power)
-    
 - You don’t know the internal electronics
-    
-
 That’s **abstraction**.
-
 ---
-
 ## Summary
 
 |Feature|Description|
@@ -149,16 +143,3 @@ That’s **abstraction**.
 |Object creation|Not allowed for abstract classes|
 
 ---
-
-If you want, I can also explain:
-
-- Abstraction vs Encapsulation
-    
-- Real-world project example
-    
-- Interview questions on abstraction
-    
-- UML diagrams
-    
-
-Just tell me 👍
