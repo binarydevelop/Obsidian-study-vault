@@ -18,7 +18,6 @@ A **class** is a blueprint that defines:
 - What data an object owns (state)
 - What behavior it exposes (methods)
 - What invariants it maintains
-
 ### Object
 An **object** is a runtime instance of a class with:
 - Identity
