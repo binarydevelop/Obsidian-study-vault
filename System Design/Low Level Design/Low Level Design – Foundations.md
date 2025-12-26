@@ -1,4 +1,4 @@
-***Tags***: #lld 
+***Tags***: #lld #systemdesign 
 ## Context
 Low Level Design (LLD) focuses on *how* a system is implemented at the code level.
 It translates high-level architecture into:
@@ -29,15 +29,14 @@ with a strong focus on:
 - Testability
 
 ---
-
 ## LLD vs HLD
 
-| Aspect | HLD | LLD |
-|-----|-----|-----|
-| Focus | System components | Code structure |
-| Scope | Services, databases | Classes, methods |
-| Audience | Architects | Developers |
-| Output | Diagrams | Code & class diagrams |
+| Aspect   | HLD                 | LLD                   |
+| -------- | ------------------- | --------------------- |
+| Focus    | System components   | Code structure        |
+| Scope    | Services, databases | Classes, methods      |
+| Audience | Architects          | Developers            |
+| Output   | Diagrams            | Code & class diagrams |
 
 ---
 
