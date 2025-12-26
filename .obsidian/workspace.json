@@ -11,10 +11,17 @@
             "id": "8d65736ac26b3b6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -1155.2662269722437,
+                  "y": -172.08548117506473,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -203,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
-    "Backend Engineering/Software architecture.md",
+    "Backend Engineering/__To learn.md",
     "System Design/LLD/LLD Basics 01 — Thinking in Objects & Responsibilities.md",
+    "Backend Engineering/Software architecture.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_index_system_design.md",
     "System Design/LLD/System Desin.canvas",
@@ -218,7 +226,6 @@
     "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Servers.md",
-    "Backend Engineering/__To learn.md",
     "Backend Engineering/Application Servers.md",
     "Backend Engineering/Ports & Sockets.md",
     "Backend Engineering/How ports and sockets work.md",
