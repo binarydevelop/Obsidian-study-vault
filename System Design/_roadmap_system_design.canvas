@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"04a151428f0b2baa","x":-93,"y":-155,"width":153,"height":50,"type":"text","text":"System Design"},
+		{"id":"448e1d8981008f8f","x":-342,"y":-45,"width":250,"height":60,"type":"text","text":"Low Level Design [LLD]"}
+	],
+	"edges":[
+		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"}
+	]
+}

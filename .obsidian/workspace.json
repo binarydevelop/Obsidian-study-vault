@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/System Design.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "System Design"
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -213,7 +213,7 @@
   "active": "8d65736ac26b3b6a",
   "lastOpenFiles": [
     "Backend Engineering/_roadmap_backend_engineering.canvas",
-    "System Design/System Design.canvas",
+    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design",
     "System Design",
     "Backend Engineering/__To learn.md",
