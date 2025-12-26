@@ -47,3 +47,12 @@ class Order:
 
     def is_high_value(self) -> bool:
         return self.amount > 10_000
+        ```
+
+### Observations
+
+- `Order` **owns** `order_id` and `amount`
+    
+- Logic (`is_high_value`) lives _with_ the data
+    
+- No external function decides order behavior
