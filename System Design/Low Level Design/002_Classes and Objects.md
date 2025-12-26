@@ -26,7 +26,7 @@ An **object** is a runtime instance of a class with:
 
 ---
 
-## Mental Model (Very Important)
+## Mental Model
 
 > A **class models a responsibility**,  
 > an **object performs that responsibility**.
