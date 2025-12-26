@@ -1,9 +1,10 @@
+***TAGS***: #lld #systemdesign #oops
+
 **OOP (Object-Oriented Programming)** exists to make **software easier to design, understand, maintain, and scale** as programs grow in size and complexity.
 
 Here’s the idea step by step.
 
 ---
-
 ## The problem OOP tries to solve
 
 Early programs were written as long sequences of instructions and functions. As software grew:
@@ -138,3 +139,4 @@ If you want, I can also explain:
 - When _not_ to use OOP
     
 - OOP concepts with simple code examples
+- 
