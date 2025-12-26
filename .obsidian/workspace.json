@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/Low Level Design – Foundations.md",
+                "file": "System Design/Low Level Design/001_Low Level Design – Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Low Level Design – Foundations"
+              "title": "001_Low Level Design – Foundations"
             }
           }
         ],
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "e7f5c7fcc0a4a34f",
   "lastOpenFiles": [
     "System Design/Low Level Design/Roadmap.md",
-    "System Design/Low Level Design/Low Level Design – Foundations.md",
+    "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Low Level Design",

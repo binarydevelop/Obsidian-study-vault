@@ -63,8 +63,3 @@ LLD starts with **behavior**, not classes.
 ✅ "I need these responsibilities fulfilled"
 
 ---
-
-## Next Zettels (Forward Links)
-- Zettel-LLD-002: Classes and Objects
-- Zettel-LLD-003: Encapsulation
-- Zettel-LLD-004: Responsibility-Driven Design
