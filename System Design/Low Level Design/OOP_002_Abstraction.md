@@ -60,9 +60,7 @@ class Bike(Vehicle):
     def stop(self):
         print("Bike engine stopped")
 ```
-
 ---
-
 ## Using the Classes
 
 ```python
@@ -103,7 +101,6 @@ TypeError: Can't instantiate abstract class Truck with abstract method stop
 ➡️ Python **forces abstraction strictly**.
 
 ---
-
 ## Abstract Class with Concrete Methods
 
 Abstract classes can also have **normal methods**.
