@@ -134,6 +134,6 @@ OOP isn’t always the best tool—but it’s a **powerful way to manage complex
 
 ### Four pillars of OOPs:
 - [[OOP_002_Abstraction]]
-- [[Encapsulation]]
+- [[OOP_003_Encapsulation]]
 - [[Inheritance]]
 - [[Polymorphism]]
