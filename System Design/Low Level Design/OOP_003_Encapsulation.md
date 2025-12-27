@@ -67,23 +67,25 @@ print(s.marks)     # Direct access
 ```python
 print(s.__marks)
 
-
+❌ Error:
 AttributeError: 'Student' object has no attribute '__marks'
 ```
-
-
-
-
 
 This is due to **name mangling**:
 
 `print(s._Student__marks)  # Works, but NOT recommended`
 
 ---
-
 ## Example 3: Protected Members
 
-`class BankAccount:     def __init__(self, balance):         self._balance = balance      def show_balance(self):         return self._balance`
+```python
+class BankAccount:
+    def __init__(self, balance):
+        self._balance = balance
+
+    def show_balance(self):
+        return self._balance
+```
 
 🔹 `_balance` should only be used inside the class or subclasses  
 🔹 Python trusts the developer to follow conventions
