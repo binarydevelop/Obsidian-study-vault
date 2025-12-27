@@ -78,11 +78,21 @@ Cat meows
 
 `super()` is used to call the parent class method or constructor.
 
+```python
+class Animal:
+    def __init__(self):
+        print("Animal created")
 
+class Dog(Animal):
+    def __init__(self):
+        super().__init__()
+        print("Dog created")
 
-**Output**
+#Output
+Animal created
+Dog created
 
-`Animal created Dog created`
+```
 
 ---
 
@@ -92,7 +102,14 @@ Cat meows
 
 One parent → one child
 
-`class A:     pass  class B(A):     pass`
+```python
+class A:
+    pass
+
+class B(A):
+    pass
+
+```
 
 ---
 
