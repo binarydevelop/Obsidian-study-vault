@@ -115,19 +115,35 @@ class B(A):
 
 ### 2. Multilevel Inheritance
 
-Grandparent → Parent → Child
+```python
+class A:
+    pass
 
-`class A:     pass  class B(A):     pass  class C(B):     pass`
+class B(A):
+    pass
 
+class C(B):
+    pass
+
+```
 ---
 
 ### 3. Multiple Inheritance
 
 One child inherits from **multiple parents**
+```python
+class Father:
+    def skills(self):
+        print("Driving")
 
-`class Father:     def skills(self):         print("Driving")  class Mother:     def skills(self):         print("Cooking")  class Child(Father, Mother):     pass`
+class Mother:
+    def skills(self):
+        print("Cooking")
 
-`c = Child() c.skills()`
+class Child(Father, Mother):
+    pass
+
+```
 
 ✔ Python follows **Method Resolution Order (MRO)**
 
