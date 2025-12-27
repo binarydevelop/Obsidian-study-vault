@@ -158,13 +158,21 @@ print(Child.mro())
 Python checks classes **left to right**.
 
 ---
-
 ### 4. Hierarchical Inheritance
 
 One parent → multiple children
 
-`class Animal:     pass  class Dog(Animal):     pass  class Cat(Animal):     pass`
+```python
+class Animal:
+    pass
 
+class Dog(Animal):
+    pass
+
+class Cat(Animal):
+    pass
+
+```
 ---
 
 ### 5. Hybrid Inheritance
