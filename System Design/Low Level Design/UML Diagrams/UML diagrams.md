@@ -1,4 +1,7 @@
 ***Tags***: #lld #oops #uml #diagrams 
+
+**UML (Unified Modeling Language)** is a **visual language** used to **design, explain, and document software systems**.
+
 UML diagrams are split into two main types: ***Structural Diagrams***, showing static system parts (Class, Component, Deployment, Object, Package, Composite Structure, Profile), and ***Behavioral Diagrams***, showing dynamic system functions (Use Case, Activity, State Machine, Sequence, Communication, Interaction Overview, Timing). Structural diagrams focus on _what_ the system is, while behavioral diagrams focus on _how_ it works and interacts over time.
 
 ## Structural Diagrams (Static View)
