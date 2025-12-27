@@ -51,20 +51,26 @@ Animal makes a sound
 Dog barks
 ```
 
-
 ---
 
 ## Example 2: Method Overriding
+```python
+class Animal:
+    def speak(self):
+        print("Animal sound")
 
-Child class can **override** parent class methods.
+class Cat(Animal):
+    def speak(self):
+        print("Cat meows")
+        
+c = Cat()
+c.speak()
 
-`class Animal:     def speak(self):         print("Animal sound")  class Cat(Animal):     def speak(self):         print("Cat meows")`
 
-`c = Cat() c.speak()`
+#Output
+Cat meows
 
-**Output**
-
-`Cat meows`
+```
 
 ---
 
@@ -72,7 +78,7 @@ Child class can **override** parent class methods.
 
 `super()` is used to call the parent class method or constructor.
 
-`class Animal:     def __init__(self):         print("Animal created")  class Dog(Animal):     def __init__(self):         super().__init__()         print("Dog created")`
+
 
 **Output**
 
