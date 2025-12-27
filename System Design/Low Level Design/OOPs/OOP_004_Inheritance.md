@@ -16,14 +16,20 @@ In simple terms:
 
 ## Basic Syntax
 
+```python
+class Parent:
+    # parent class code
+    pass
 
+class Child(Parent):
+    # child class code
+    pass
+
+```
 ---
 
 ## Example 1: Single Inheritance
 
-`class Animal:     def speak(self):         print("Animal makes a sound")  class Dog(Animal):     def bark(self):         print("Dog barks")`
-
-`d = Dog() d.speak()   # Inherited method d.bark()    # Child's own method`
 
 **Output**
 
