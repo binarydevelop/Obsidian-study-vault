@@ -1,4 +1,4 @@
-***Tags***: #lld #oops #uml
+***Tags***: #lld #oops #uml #diagrams 
 UML diagrams are split into two main types: ***Structural Diagrams***, showing static system parts (Class, Component, Deployment, Object, Package, Composite Structure, Profile), and ***Behavioral Diagrams***, showing dynamic system functions (Use Case, Activity, State Machine, Sequence, Communication, Interaction Overview, Timing). Structural diagrams focus on _what_ the system is, while behavioral diagrams focus on _how_ it works and interacts over time.
 
 ## Structural Diagrams (Static View)
@@ -10,12 +10,9 @@ These diagrams represent the physical structure and relationships within a syste
 - Object Diagram: A snapshot of instances (objects) at a specific time, like a class diagram with real data.
 - Package Diagram: Organizes model elements into groups (packages).
 - Composite Structure Diagram: Details the internal structure of classifiers (like classes).
-- Profile Diagram: Extends UML for specific domains (profiles/stereotypes). [[2](https://creately.com/blog/diagrams/uml-diagram-types-examples/), [4](https://www.figma.com/resource-library/what-is-a-uml-diagram/), [6](https://www.smartdraw.com/uml-diagram/), [7](https://www.youtube.com/watch?v=WqT_qGgoZbw), [8](https://www.gliffy.com/blog/uml-2-5-diagram-types-and-templates), [9](https://www.softwareideas.net/c/1059/uml-diagrams)]
+- Profile Diagram: Extends UML for specific domains (profiles/stereotypes).
 
-Behavioral Diagrams (Dynamic View)
-
-  
-
+## Behavioral Diagrams (Dynamic View)
 These illustrate the dynamic aspects and flow of control or data in a system.
 
 - Use Case Diagram: Shows actors (users) and their interactions (use cases) with the system.
