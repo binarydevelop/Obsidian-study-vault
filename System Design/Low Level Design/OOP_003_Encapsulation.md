@@ -58,9 +58,7 @@ print(s.marks)     # Direct access
 
  ```
 
-`s = Student("Rahul", 85)  print(s.get_marks())   # 85 s.set_marks(90) print(s.get_marks())   # 90`
-
-✔ Data is accessed **only through methods**  
+✔ Data is accessed **only through methods**  _getter and setter methods_
 ✔ Validation logic is enforced
 
 ---
