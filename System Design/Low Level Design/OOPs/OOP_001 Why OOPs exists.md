@@ -70,31 +70,10 @@ Most real-world software is built by teams, not individuals.
 ## Real-world analogy
 
 Think of a **TV remote**:
-
 - You press buttons (methods)
-    
 - You don’t see the circuitry (data)
-    
 - The interface stays the same even if internals change
-    
-
 That’s OOP in action.
-
----
-
-## Why OOP still matters today
-
-Even with functional and procedural programming:
-
-- **Enterprise systems** use OOP heavily
-    
-- Popular languages (Java, C++, C#, Python) support it
-    
-- Most design patterns are OOP-based
-    
-
-OOP isn’t always the best tool—but it’s a **powerful way to manage complexity**.
-
 ---
 
 ## One-line summary
