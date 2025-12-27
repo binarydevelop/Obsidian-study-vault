@@ -45,10 +45,7 @@ Just like driving a car without knowing engine mechanics, developers can use com
 ### 3. **Reusability – avoid rewriting code**
 
 - Classes can be reused across projects
-    
 - Inheritance and composition enable extension
-    
-
 **Why it matters:**  
 Less code, fewer bugs, faster development.
 
