@@ -10,9 +10,7 @@ In simple terms:
 ## Why Inheritance?
 
 - Promotes **code reusability**
-    
 - Reduces redundancy
-    
 - Makes code easier to maintain
     
 - Supports hierarchical classification
