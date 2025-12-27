@@ -7,15 +7,12 @@ In simple words:
 👉 _“One interface, many implementations.”_
 
 ---
-
 ## Why Polymorphism?
-
 - Improves flexibility and scalability
 - Makes code more reusable and clean
 - Reduces conditional logic (`if-else`)
 - Supports dynamic behavior at runtime
 ---
-
 ## Types of Polymorphism in Python
 
 Python mainly supports:
