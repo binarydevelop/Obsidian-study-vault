@@ -25,26 +25,18 @@ You think:
 ---
 
 ## Key goals of OOP (the “why”)
-
 ### 1. **Encapsulation – control complexity**
 
 - Data and methods are wrapped together
-    
 - Internal details are hidden
-    
 - Objects expose only what’s necessary
-    
 
 **Why it matters:**  
 You can change the internal implementation without breaking the rest of the program.
 
 ---
-
 ### 2. **Abstraction – reduce mental load**
-
 - You work with _what_ an object does, not _how_ it does it
-    
-
 **Why it matters:**  
 Just like driving a car without knowing engine mechanics, developers can use components without understanding their internals.
 
