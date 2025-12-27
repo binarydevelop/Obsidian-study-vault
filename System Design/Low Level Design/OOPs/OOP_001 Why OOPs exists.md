@@ -2,36 +2,24 @@
 
 **OOP (Object-Oriented Programming)** exists to make **software easier to design, understand, maintain, and scale** as programs grow in size and complexity.
 
-Here’s the idea step by step.
-
 ---
 ## The problem OOP tries to solve
 
 Early programs were written as long sequences of instructions and functions. As software grew:
-
 - Code became **hard to understand**
-    
 - Changes in one place **broke other parts**
-    
 - Reusing code was difficult
-    
 - Large teams struggled to work on the same codebase
-    
-
 OOP was created to **manage complexity** by modeling software the way we think about the real world.
 
 ---
-
 ## Core reason OOP exists
 
-👉 **To organize code around “objects” that bundle data + behavior together.**
+ **To organize code around “objects” that bundle data + behavior together.**
 
 Instead of thinking:
-
 > “What functions do I call?”
-
 You think:
-
 > “What objects exist, and what can they do?”
 
 ---
