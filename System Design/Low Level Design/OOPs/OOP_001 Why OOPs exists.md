@@ -83,5 +83,5 @@ That’s OOP in action.
 ### Four pillars of OOPs:
 - [[OOP_002_Abstraction]]
 - [[OOP_003_Encapsulation]]
-- [[Inheritance]]
-- [[Polymorphism]]
+- [[OOP_004_Inheritance]]
+- [[OOP_005_Polymorphism]]
