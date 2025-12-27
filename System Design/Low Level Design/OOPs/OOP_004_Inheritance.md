@@ -12,9 +12,7 @@ In simple terms:
 - Promotes **code reusability**
 - Reduces redundancy
 - Makes code easier to maintain
-    
 - Supports hierarchical classification
-    
 
 ---
 
