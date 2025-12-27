@@ -1,11 +1,5 @@
-UML diagrams are split into two main types: ***Structural Diagrams***, showing static system parts (Class, Component, Deployment, Object, Package, Composite Structure, Profile), and ***Behavioral Diagrams, showing dynamic system functions (Use Case, Activity, State Machine, Sequence, Communication, Interaction Overview, Timing). Structural diagrams focus on _what_ the system is, while behavioral diagrams focus on _how_ it works and interacts over time. [[1](https://miro.com/diagramming/what-is-a-uml-diagram/), [2](https://creately.com/blog/diagrams/uml-diagram-types-examples/), [3](https://www.youtube.com/watch?v=WnMQ8HlmeXc), [4](https://www.figma.com/resource-library/what-is-a-uml-diagram/), [5](https://www.uml-diagrams.org/uml-25-diagrams.html)]
-
+UML diagrams are split into two main types: ***Structural Diagrams***, showing static system parts (Class, Component, Deployment, Object, Package, Composite Structure, Profile), and ***Behavioral Diagrams***, showing dynamic system functions (Use Case, Activity, State Machine, Sequence, Communication, Interaction Overview, Timing). Structural diagrams focus on _what_ the system is, while behavioral diagrams focus on _how_ it works and interacts over time.
   
-
-Structural Diagrams (Static View)
-
-  
-
 These diagrams represent the physical structure and relationships within a system.
 
 - Class Diagram: Shows classes, attributes, operations, and relationships (most common).
