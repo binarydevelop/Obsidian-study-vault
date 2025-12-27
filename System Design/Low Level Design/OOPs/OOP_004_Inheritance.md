@@ -29,11 +29,28 @@ class Child(Parent):
 ---
 
 ## Example 1: Single Inheritance
+```python
+class Animal:
+    def speak(self):
+        print("Animal makes a sound")
 
+class Dog(Animal):
+    def bark(self):
+        print("Dog barks")
+        
+d = Dog()
+d.speak()   # Inherited method
+d.bark()    # Child's own method
+
+
+```
 
 **Output**
+```python
+Animal makes a sound
+Dog barks
+```
 
-`Animal makes a sound Dog barks`
 
 ---
 
