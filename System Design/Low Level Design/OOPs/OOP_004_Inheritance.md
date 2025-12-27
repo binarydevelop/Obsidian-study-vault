@@ -16,7 +16,6 @@ In simple terms:
 
 ## Basic Syntax
 
-`class Parent:     # parent class code     pass  class Child(Parent):     # child class code     pass`
 
 ---
 
