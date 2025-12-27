@@ -3,11 +3,13 @@
 		{"id":"04a151428f0b2baa","type":"text","text":"System Design","x":-93,"y":-155,"width":153,"height":50},
 		{"id":"448e1d8981008f8f","type":"text","text":"Low Level Design [LLD]","x":-342,"y":-45,"width":202,"height":57},
 		{"id":"a3667d028c166678","type":"text","text":"High Level Design [HLD]","x":115,"y":-48,"width":205,"height":60},
-		{"id":"5383aa80211550a5","x":-440,"y":60,"width":98,"height":50,"type":"text","text":"OOPs"}
+		{"id":"5383aa80211550a5","type":"text","text":"OOPs","x":-440,"y":60,"width":98,"height":50},
+		{"id":"5b803fc631e77713","x":-680,"y":12,"width":166,"height":50,"type":"text","text":"UML Diagrams"}
 	],
 	"edges":[
 		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"},
 		{"id":"bf6c82b1f1b911cc","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"a3667d028c166678","toSide":"top"},
-		{"id":"1db8572fcf4eb824","fromNode":"448e1d8981008f8f","fromSide":"bottom","toNode":"5383aa80211550a5","toSide":"top"}
+		{"id":"1db8572fcf4eb824","fromNode":"448e1d8981008f8f","fromSide":"bottom","toNode":"5383aa80211550a5","toSide":"top"},
+		{"id":"f33ba9188f6fae2c","fromNode":"5383aa80211550a5","fromSide":"left","toNode":"5b803fc631e77713","toSide":"right"}
 	]
 }

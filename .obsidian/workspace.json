@@ -11,14 +11,17 @@
             "id": "6cc95a5693f95227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -448.0000305175781,
+                  "y": 138.70001220703125,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "UML diagrams"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -207,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "6cc95a5693f95227",
   "lastOpenFiles": [
-    "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
     "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
+    "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
     "System Design/Low Level Design/UML Diagrams",
     "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
