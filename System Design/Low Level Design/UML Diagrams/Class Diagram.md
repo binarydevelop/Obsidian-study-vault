@@ -1,6 +1,7 @@
-# UML Class Diagrams (Deep Dive)
+***Tags***: #lld #uml #
+## UML Class Diagrams
 
-## What is a Class Diagram?
+### What is a Class Diagram?
 A **class diagram** shows:
 - The **static structure** of a system
 - **Classes**
@@ -10,3 +11,5 @@ A **class diagram** shows:
 
 Think of it as:
 > “What are the building blocks of my system, and how are they connected?”
+
+---
