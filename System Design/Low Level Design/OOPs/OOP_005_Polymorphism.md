@@ -16,14 +16,9 @@ In simple words:
 ## Types of Polymorphism in Python
 
 Python mainly supports:
-
 1. **Compile-time polymorphism (Method overloading – simulated)**
-    
 2. **Runtime polymorphism (Method overriding)**
-    
-
 ---
-
 ## 1. Method Overriding (Runtime Polymorphism)
 
 A child class provides its **own implementation** of a parent class method.
