@@ -6,9 +6,7 @@ In simple terms:
 👉 _“Reuse existing code by building new classes from existing ones.”_
 
 ---
-
 ## Why Inheritance?
-
 - Promotes **code reusability**
 - Reduces redundancy
 - Makes code easier to maintain
