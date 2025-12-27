@@ -5,20 +5,12 @@ In simple words:
 👉 _“Protect the data and control how it is accessed or modified.”_
 
 ---
-
 ## Why Encapsulation?
-
 - Prevents accidental modification of data
-    
 - Improves security
-    
 - Makes code easier to maintain
-    
 - Helps enforce business rules
-    
-
 ---
-
 ## How Encapsulation Is Implemented in Python
 
 Python does not have strict access modifiers like `private` or `protected`.  
