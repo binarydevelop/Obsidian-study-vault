@@ -50,26 +50,18 @@ Just like driving a car without knowing engine mechanics, developers can use com
 Less code, fewer bugs, faster development.
 
 ---
-
 ### 4. **Maintainability – easier changes**
 
 - Code is modular
-    
 - Changes are localized
-    
-
 **Why it matters:**  
 Large applications evolve constantly. OOP makes change safer.
 
 ---
-
 ### 5. **Scalability – support large systems & teams**
 
 - Clear responsibilities per object
-    
 - Easier collaboration
-    
-
 **Why it matters:**  
 Most real-world software is built by teams, not individuals.
 
