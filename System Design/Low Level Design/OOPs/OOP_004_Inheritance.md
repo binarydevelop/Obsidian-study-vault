@@ -183,7 +183,10 @@ Combination of multiple inheritance types.
 
 ## `isinstance()` and `issubclass()`
 
-`isinstance(d, Dog)      # True issubclass(Dog, Animal) # True`
+```python
+isinstance(d, Dog)      # True 
+issubclass(Dog, Animal) # True
+```
 
 ---
 
