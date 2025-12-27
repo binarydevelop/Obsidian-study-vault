@@ -58,18 +58,22 @@ print(s.marks)     # Direct access
 
  ```
 
-✔ Data is accessed **only through methods**  _getter and setter methods_
+✔ Data is accessed **only through methods** ***getter and setter methods***
 ✔ Validation logic is enforced
 
 ---
-
 ## What Happens If You Try Direct Access?
 
-`print(s.__marks)`
+```python
+print(s.__marks)
 
-❌ Error:
 
-`AttributeError: 'Student' object has no attribute '__marks'`
+AttributeError: 'Student' object has no attribute '__marks'
+```
+
+
+
+
 
 This is due to **name mangling**:
 
