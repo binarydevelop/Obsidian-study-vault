@@ -26,7 +26,16 @@ Instead, it uses **naming conventions**:
 
 ## Example 1: Public Members (No Encapsulation)
 
-`class Student:     def __init__(self, name, marks):         self.name = name         self.marks = marks  s = Student("Rahul", 85) print(s.marks)     # Direct access`
+```python
+class Student:
+    def __init__(self, name, marks):
+        self.name = name
+        self.marks = marks
+
+s = Student("Rahul", 85)
+print(s.marks)     # Direct access
+
+```
 
 ❌ No protection — data can be changed freely.
 
@@ -34,7 +43,20 @@ Instead, it uses **naming conventions**:
 
 ## Example 2: Private Variables (Encapsulation)
 
-`class Student:     def __init__(self, name, marks):         self.__name = name      # private         self.__marks = marks   # private      def get_marks(self):         return self.__marks      def set_marks(self, marks):         if marks >= 0:             self.__marks = marks`
+ ```python
+ class Student:
+    def __init__(self, name, marks):
+        self.__name = name      # private
+        self.__marks = marks   # private
+
+    def get_marks(self):
+        return self.__marks
+
+    def set_marks(self, marks):
+        if marks >= 0:
+            self.__marks = marks
+
+ ```
 
 `s = Student("Rahul", 85)  print(s.get_marks())   # 85 s.set_marks(90) print(s.get_marks())   # 90`
 
