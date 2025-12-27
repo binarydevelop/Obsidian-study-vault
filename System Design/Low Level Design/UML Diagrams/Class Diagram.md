@@ -1,4 +1,4 @@
-***Tags***: #lld #uml #
+***Tags***: #lld #uml #oops #uml 
 ## UML Class Diagrams
 
 ### What is a Class Diagram?
@@ -13,3 +13,5 @@ Think of it as:
 > “What are the building blocks of my system, and how are they connected?”
 
 ---
+A class is drawn as a **rectangle divided into 3 parts**:
+``
