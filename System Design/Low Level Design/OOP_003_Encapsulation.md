@@ -111,52 +111,18 @@ class Employee:
             
 e = Employee(50000)
 print(e.salary)     # Getter
-e.salary = 60000    # Setter`
+e.salary = 60000    # Setter
 
 ```
-
-
-
 ✔ Looks like variable access  
 ✔ Actually controlled through methods
 
 ---
-
 ## Real-World Analogy
-
 Think of an **ATM machine**:
-
 - You cannot access cash directly
-    
 - You must use buttons (methods)
-    
 - Balance is protected (data)
-    
-
 That is **encapsulation**.
 
 ---
-
-## Encapsulation vs Abstraction (Quick Comparison)
-
-|Feature|Encapsulation|Abstraction|
-|---|---|---|
-|Focus|Data protection|Hiding complexity|
-|Achieved by|Access control|Abstract classes/interfaces|
-|Example|Private variables|Abstract methods|
-
----
-
-## Summary
-
-- Encapsulation = **Data hiding + controlled access**
-    
-- Implemented using:
-    
-    - Private variables (`__`)
-        
-    - Getter & Setter methods
-        
-    - `@property` decorator
-        
-- Improves security and maintainability
