@@ -14,4 +14,12 @@ Think of it as:
 
 ---
 A class is drawn as a **rectangle divided into 3 parts**:
-``
+```markdown
+-----------------
+| Class Name    |
+-----------------
+| Attributes    |
+-----------------
+| Methods       |
+-----------------
+```
