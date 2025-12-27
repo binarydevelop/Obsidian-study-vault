@@ -95,10 +95,27 @@ class BankAccount:
 ## Example 4: Encapsulation Using `@property`
 
 Python provides a **clean and Pythonic way** using properties.
+```python
+class Employee:
+    def __init__(self, salary):
+        self.__salary = salary
 
-`class Employee:     def __init__(self, salary):         self.__salary = salary      @property     def salary(self):         return self.__salary      @salary.setter     def salary(self, amount):         if amount > 0:             self.__salary = amount`
+    @property
+    def salary(self):
+        return self.__salary
 
-`e = Employee(50000) print(e.salary)     # Getter e.salary = 60000    # Setter`
+    @salary.setter
+    def salary(self, amount):
+        if amount > 0:
+            self.__salary = amount
+            
+e = Employee(50000)
+print(e.salary)     # Getter
+e.salary = 60000    # Setter`
+
+```
+
+
 
 ✔ Looks like variable access  
 ✔ Actually controlled through methods
