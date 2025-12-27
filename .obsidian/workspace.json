@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
+                "file": "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequence Diagram"
+              "title": "Class Diagram"
             }
           }
         ]
@@ -207,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "6cc95a5693f95227",
   "lastOpenFiles": [
-    "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
+    "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
