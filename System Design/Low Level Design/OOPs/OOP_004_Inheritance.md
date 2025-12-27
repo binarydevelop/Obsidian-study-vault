@@ -151,7 +151,9 @@ class Child(Father, Mother):
 
 ### Method Resolution Order (MRO)
 
-`print(Child.mro())`
+```python
+print(Child.mro())
+```
 
 Python checks classes **left to right**.
 
