@@ -4,7 +4,7 @@ UML diagrams are split into two main types: ***Structural Diagrams***, showing s
 ## Structural Diagrams (Static View)
 These diagrams represent the physical structure and relationships within a system.
 
-- Class Diagram: Shows classes, attributes, operations, and relationships (most common).
+- [[Class Diagram: Shows classes, attributes, operations, and relationships (most common).
 - Component Diagram: Views the system's physical components and their dependencies.
 - Deployment Diagram: Maps software artifacts to hardware nodes (physical environment).
 - Object Diagram: A snapshot of instances (objects) at a specific time, like a class diagram with real data.
