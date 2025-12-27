@@ -179,11 +179,8 @@ print(p1 + p2)
 - **Payment** system:
     
     - Credit Card → pay()
-        
     - UPI → pay()
-        
     - Cash → pay()
-        
 
 Same method name, different implementations.
 
