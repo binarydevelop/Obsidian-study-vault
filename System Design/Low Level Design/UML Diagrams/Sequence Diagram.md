@@ -54,7 +54,7 @@ UML Meaning
 ---
 
 #### Activation (Execution Specification)
-
+![[activation.png]]
 
 
 **Shows:** when an instance is actively executing  
