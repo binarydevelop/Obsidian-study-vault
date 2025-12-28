@@ -35,7 +35,13 @@ sequenceDiagram
 
 ```mermaid
 sequenceDiagram
-    Actor->>System: request()
+    participant Actor
+    participant System
+    participant Database
+
+    Actor->>System: submitReq
+
+
 ```
 
 **Meaning:** caller waits until execution completes  
