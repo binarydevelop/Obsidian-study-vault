@@ -37,3 +37,36 @@ d.speak()  # Inherited from Animal
 d.bark()   # Defined in Dog
 
 ```
+---
+## 2. Association ("uses-a")
+
+### ➤ Meaning:
+
+- One class **uses** another class without owning it.
+- No lifecycle dependency.
+
+### 🔧 Example:
+
+```python
+class Engine:
+    def start(self):
+        print("Engine started")
+
+class Car:
+    def __init__(self, engine):
+        self.engine = engine  # uses Engine, doesn't own it
+
+    def drive(self):
+        self.engine.start()
+        print("Car is driving")
+
+```
+
+### ✅ Usage:
+
+```python
+e = Engine()
+c = Car(e)  # Car uses Engine
+c.drive()
+
+```
