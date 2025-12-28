@@ -34,17 +34,12 @@ sequenceDiagram
 ## Synchronous Message (Call)
 
 ```mermaid
-sequenceDiagram
-    participant Actor
-    participant System
-    participant Database
-
-    Actor->>System: submitReq
 
 
 ```
 
-**Meaning:** caller waits until execution completes  
+- Caller **waits** until the operation completes
+- Most common message type
 **Arrow:** solid line, filled arrowhead
 
 ---
