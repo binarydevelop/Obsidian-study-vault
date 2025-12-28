@@ -43,33 +43,19 @@ graph TD
 ---
 
 # 3. Open–Closed Principle (OCP)
-
-## Definition
-
+#### Definition
 > **Software entities should be open for extension but closed for modification.**
-
----
-
 ## Meaning
-
 - You **add new behavior**
-    
 - Without **changing existing, tested code**
-    
-
 This reduces **regression bugs**.
-
----
-
-## OCP Violation (Rigid Design)
-
+#### OCP Violation (Rigid Design)
 ```mermaid
 classDiagram
     class PaymentProcessor {
         +process(paymentType)
     }
 ```
-
 Internally:
 
 - `if paymentType == "CARD"`
