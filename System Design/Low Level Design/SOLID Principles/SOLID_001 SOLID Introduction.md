@@ -101,29 +101,14 @@ classDiagram
 
     WalletPayment ..|> PaymentMethod
 ```
-
----
-
-## Key Insight
-
+#### Key Insight
 OCP relies on:
-
 - **Abstraction**
-    
 - **Polymorphism**
-    
 - **Dependency Inversion**
-    
-
----
-
 ## OCP Tradeoff
-
 - Slight increase in class count
-    
 - Massive gain in flexibility
-    
-
 ---
 
 # 4. Liskov Substitution Principle (LSP)
