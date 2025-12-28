@@ -17,6 +17,6 @@ It answers this question:
 
 ```mermaid
 sequenceDiagram
-    Controller->>Order: create()
+    Note right of Service: Validates credentials\nChecks password hash
 
 ```
