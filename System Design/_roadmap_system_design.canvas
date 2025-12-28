@@ -4,7 +4,7 @@
 		{"id":"448e1d8981008f8f","type":"text","text":"Low Level Design [LLD]","x":-342,"y":-45,"width":202,"height":57},
 		{"id":"a3667d028c166678","type":"text","text":"High Level Design [HLD]","x":115,"y":-48,"width":205,"height":60},
 		{"id":"5383aa80211550a5","type":"text","text":"OOPs","x":-440,"y":60,"width":98,"height":50},
-		{"id":"5b803fc631e77713","x":-680,"y":12,"width":166,"height":50,"type":"text","text":"UML Diagrams"}
+		{"id":"5b803fc631e77713","type":"text","text":"UML Diagrams","x":-800,"y":-48,"width":166,"height":50}
 	],
 	"edges":[
 		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"},

@@ -25,14 +25,17 @@
             "id": "b3126127a6b650c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID principles.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": -22.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "SOLID principles"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ],
@@ -224,8 +227,8 @@
   },
   "active": "b3126127a6b650c2",
   "lastOpenFiles": [
-    "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/SOLID Principles/SOLID principles.md",
+    "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/SOLID Principles",
     "alt.png",
     "Unconfirmed 449269.crdownload",
