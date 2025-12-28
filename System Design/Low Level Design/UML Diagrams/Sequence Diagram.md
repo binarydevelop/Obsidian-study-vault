@@ -17,12 +17,6 @@ It answers this question:
 
 ```mermaid
 sequenceDiagram
-    participant Service
-
-    alt Valid Credentials
-        Service-->>User: Login Success
-    else Invalid Credentials
-        Service-->>User: Login Failed
-    end
+    Controller->>Order: create()
 
 ```
