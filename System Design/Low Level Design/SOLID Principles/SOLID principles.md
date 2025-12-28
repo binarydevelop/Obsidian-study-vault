@@ -62,19 +62,11 @@ classDiagram
         +sendEmail()
     }
 ```
-
-### Problems
-
+#### Problems
 - Business logic + persistence + communication are mixed
-    
 - Changes in DB, pricing rules, or email all affect same class
-    
 - Hard to test in isolation
-    
-
----
-
-## SRP-Compliant Design
+#### SRP-Compliant Design
 
 ```mermaid
 classDiagram
