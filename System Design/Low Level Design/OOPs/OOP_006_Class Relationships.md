@@ -38,7 +38,7 @@ d.bark()   # Defined in Dog
 
 ```
 ---
-## 2. Association ("uses-a")
+### 2. Association ("uses-a")
 
 ### ➤ Meaning:
 
