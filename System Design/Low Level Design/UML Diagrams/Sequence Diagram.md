@@ -24,6 +24,8 @@ Sequence diagrams are used to:
 sequenceDiagram
     participant Actor
     participant System
+    participant Database
+
 ```
 
 **Represents:** object / actor / external system  
