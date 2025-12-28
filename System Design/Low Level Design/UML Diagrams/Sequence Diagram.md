@@ -9,3 +9,7 @@ A **sequence diagram** shows:
 It answers this question:
 
 > “When a feature runs, which objects interact, and in what exact sequence?”
+
+---
+#### Example
+![[Pasted image 20251228161158.png]]
