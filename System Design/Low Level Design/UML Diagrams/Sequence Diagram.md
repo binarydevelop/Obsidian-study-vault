@@ -25,7 +25,11 @@ Sequence diagrams are used to:
 - Exists over time
 ### Visual
 ```mermaid
+sequenceDiagram
+    participant User
+    participant System
 ```
 🧠 UML takeaway:
-
 > These are **objects / actors**, not classes.
+
+---
