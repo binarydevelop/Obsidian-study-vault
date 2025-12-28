@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
+                "file": "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID_003 OCP"
+              "title": "SOLID_001 SOLID Introduction"
             }
           }
         ],
@@ -224,9 +224,9 @@
   },
   "active": "2d2ad9afd241ca7f",
   "lastOpenFiles": [
+    "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "Synchronous calls.png",
     "response.png",
     "Pasted image 20251228161158.png",
