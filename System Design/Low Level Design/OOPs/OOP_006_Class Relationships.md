@@ -10,3 +10,4 @@
 |**Association**|"Uses-a" relationship|Object of one class is used by another|
 |**Aggregation**|"Has-a (but loosely bound)"|A special type of Association|
 |**Composition**|"Has-a (strong ownership)"|A special type of Association|
+---
