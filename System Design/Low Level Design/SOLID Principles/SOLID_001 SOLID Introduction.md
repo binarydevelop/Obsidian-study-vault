@@ -66,21 +66,40 @@ Internally:
 #### OCP-Compliant Design (Polymorphism)
 ```mermaid
 classDiagram
-    class PaymentProcessor {
-        +process()
-    }
 
-    <<interface>> PaymentMethod
-    PaymentMethod : +pay()
+    class PaymentProcessor {
 
-    class CardPayment
-    class UpiPayment
-    class WalletPayment
+        +process()
 
-    PaymentProcessor --> PaymentMethod
-    CardPayment ..|> PaymentMethod
-    UpiPayment ..|> PaymentMethod
-    WalletPayment ..|> PaymentMethod
+    }
+
+  
+
+    class PaymentMethod {
+
+        <<interface>>
+
+        +pay()
+
+    }
+
+  
+
+    class CardPayment
+
+    class UpiPayment
+
+    class WalletPayment
+
+  
+
+    PaymentProcessor --> PaymentMethod
+
+    CardPayment ..|> PaymentMethod
+
+    UpiPayment ..|> PaymentMethod
+
+    WalletPayment ..|> PaymentMethod
 ```
 
 ---
