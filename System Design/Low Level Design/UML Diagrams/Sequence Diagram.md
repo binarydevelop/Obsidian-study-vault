@@ -16,38 +16,9 @@ Sequence diagrams are used to:
 ![[Pasted image 20251228161158.png]]
 
 ---
-Below is a **1-page, visual UML Sequence Diagram cheat sheet**.  
-It’s compact, scannable, and designed so you can **recognize every UML element at a glance**.
 
----
 
-# UML Sequence Diagram — 1-Page Visual Cheat Sheet
-
----
-
-## 1️⃣ Diagram Purpose
-
-**Shows interactions between instances over time**
-
-- Focus: **behavior**
-    
-- Scope: **one scenario / one use case**
-    
-
----
-
-## 2️⃣ Time & Layout Rules
-
-- **Top → Bottom** → time
-    
-- **Left → Right** → participants
-    
-- Vertical dashed line → **lifeline**
-    
-
----
-
-## 3️⃣ Lifelines (Participants)
+##  Lifelines (Participants)
 
 ```mermaid
 sequenceDiagram
@@ -60,7 +31,7 @@ sequenceDiagram
 
 ---
 
-## 4️⃣ Synchronous Message (Call)
+## Synchronous Message (Call)
 
 ```mermaid
 sequenceDiagram
@@ -72,7 +43,7 @@ sequenceDiagram
 
 ---
 
-## 5️⃣ Reply (Return Message)
+## Reply (Return Message)
 
 ```mermaid
 sequenceDiagram
