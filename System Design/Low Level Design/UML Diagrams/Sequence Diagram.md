@@ -35,11 +35,8 @@ UML Meaning
 
 ---
 ## Synchronous Message (Call)
+![[Synchronous calls.png]]
 
-```mermaid
-sequenceDiagram
-    Actor->>System: submitRequest
-```
 
 - Caller **waits** until the operation completes
 - Most common message type
