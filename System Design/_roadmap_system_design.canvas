@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"04a151428f0b2baa","type":"text","text":"System Design","x":-93,"y":-155,"width":153,"height":50},
 		{"id":"a3667d028c166678","type":"text","text":"High Level Design [HLD]","x":115,"y":-48,"width":205,"height":60},
-		{"id":"5383aa80211550a5","type":"text","text":"Object Oriented Prograamming [OOPS]","x":-657,"y":-48,"width":217,"height":50},
+		{"id":"5383aa80211550a5","type":"text","text":"Object Oriented Programming [OOPS]","x":-657,"y":-48,"width":217,"height":50},
 		{"id":"448e1d8981008f8f","type":"text","text":"Low Level Design [LLD]","x":-400,"y":-48,"width":220,"height":50},
 		{"id":"fb53ac8283d77bb9","x":-1040,"y":-48,"width":169,"height":50,"type":"text","text":"SOLID Principles"},
 		{"id":"5b803fc631e77713","type":"text","text":"UML Diagrams","x":-840,"y":-48,"width":166,"height":50}
