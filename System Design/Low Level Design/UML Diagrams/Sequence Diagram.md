@@ -17,6 +17,26 @@ It answers this question:
 
 ```mermaid
 sequenceDiagram
-    Note right of Service: Validates credentials\nChecks password hash
+    participant User
+    participant API
+    participant OrderService
+    participant PaymentService
+    participant DB
+
+    User->>API: placeOrder()
+    API->>OrderService: createOrder()
+    OrderService->>PaymentService: processPayment()
+
+    alt Payment Successful
+        PaymentService-->>OrderService: ok
+        OrderService->>DB: saveOrder()
+        DB-->>OrderService: saved
+        OrderService-->>API: confirmed
+        API-->>User: Order Confirmed
+    else Payment Failed
+        PaymentService-->>OrderService: failed
+        OrderService-->>API: error
+        API-->>User: Payment Failed
+    end
 
 ```
