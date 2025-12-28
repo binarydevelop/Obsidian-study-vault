@@ -95,13 +95,9 @@ classDiagram
 SRP is **not about number of methods**  
 It’s about **cohesion of responsibility**
 ## SRP Checklist
-
 Ask:
-
 - Who requests changes to this class?
-    
 - Can multiple teams argue ownership?
-    
 - Does this class change for unrelated reasons?
     
 
