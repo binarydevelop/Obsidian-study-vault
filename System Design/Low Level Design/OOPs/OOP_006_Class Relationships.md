@@ -67,3 +67,69 @@ c = Car(e)  # Car uses Engine
 c.drive()
 
 ```
+
+## 3. Aggregation ("has-a", weak ownership)
+
+### ➤ Meaning:
+
+- A class **has** another class, but it doesn’t control its lifecycle.
+- If container is destroyed, contained object **can still exist**.
+### Example:
+
+```python
+class Department:
+    def __init__(self, name):
+        self.name = name
+
+class University:
+    def __init__(self):
+        self.departments = []  # Aggregates departments
+
+    def add_department(self, dept):
+        self.departments.append(dept)
+
+```
+### Usage:
+
+```python
+d1 = Department("Computer Science")
+uni = University()
+uni.add_department(d1)
+
+print(d1.name)  # d1 exists independently of University
+
+```
+---
+## 4. 🧩 Composition ("has-a", strong ownership)
+
+### ➤ Meaning:
+
+- A class **owns** another class.
+- If the container is destroyed, the contained object **is also destroyed**.
+- Stronger than aggregation.
+
+### 🔧 Example:
+
+```python
+class Brain:
+    def think(self):
+        print("Thinking...")
+
+class Human:
+    def __init__(self):
+        self.brain = Brain()  # Composed inside Human
+
+    def act(self):
+        self.brain.think()
+
+```
+
+### ✅ Usage:
+
+```python
+h = Human()
+h.act()
+
+```
+
+In this case, the `Brain` object **doesn't exist outside** the `Human` object.
