@@ -133,3 +133,5 @@ h.act()
 ```
 
 In this case, the `Brain` object **doesn't exist outside** the `Human` object.
+
+![[Pasted image 20251228105734.png]]
