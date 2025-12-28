@@ -61,13 +61,9 @@ Internally:
 - `else if paymentType == "UPI"`
 - `else if paymentType == "WALLET"`
 #### Problems
-
 - Every new payment → modify class
 - High risk of breaking existing logic
----
-
-## OCP-Compliant Design (Polymorphism)
-
+#### OCP-Compliant Design (Polymorphism)
 ```mermaid
 classDiagram
     class PaymentProcessor {
