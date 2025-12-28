@@ -1,9 +1,7 @@
 ***Tags***: #lld #oops #SOLID #designpatterns
 
 ---
-
-# SOLID Principles — Deep Technical Notes
-
+# SOLID Principles
 ## 1. Introduction to SOLID
 
 **SOLID** is an acronym representing **five object-oriented design principles** introduced and popularized by **Robert C. Martin (Uncle Bob)**.  
