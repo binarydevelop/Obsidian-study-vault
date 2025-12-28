@@ -17,6 +17,9 @@ It answers this question:
 
 ```mermaid
 sequenceDiagram
-    User->>Service: request()
+    User->>Service: process()
+    activate Service
+    Service-->>User: done
+    deactivate Service
 
 ```
