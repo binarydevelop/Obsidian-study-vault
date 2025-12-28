@@ -1,3 +1,4 @@
+***TAGS***: #lld #systemdesign #oops
 ## Encapsulation in OOP
 **Encapsulation** is an Object-Oriented Programming (OOP) principle that **bundles data (variables) and methods (functions) together** and **restricts direct access to the data** from outside the class.
 

@@ -1,3 +1,4 @@
+***TAGS***: #lld #systemdesign #oops
 ## Inheritance in OOP
 
 **Inheritance** is an Object-Oriented Programming (OOP) concept where a **child class (subclass)** acquires the **properties and methods** of a **parent class (superclass)**.
