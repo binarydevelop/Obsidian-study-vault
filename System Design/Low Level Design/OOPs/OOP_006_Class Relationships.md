@@ -17,7 +17,7 @@
 ### ➤ Meaning:
 - One class **inherits** properties and methods of another class.
 - Represents **generalization/specialization**.
-### 🔧 Syntax:
+##### Syntax:
 
 ```python
 class Animal:
@@ -30,7 +30,7 @@ class Dog(Animal):  # Dog IS-A Animal
 
 ```
 
-### ✅ Usage:
+##### Usage:
 
 ```python
 d = Dog()
