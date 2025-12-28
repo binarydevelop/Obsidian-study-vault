@@ -22,12 +22,8 @@ Sequence diagrams are used to:
 ### UML Concept
 
 - A **lifeline** represents an **instance** participating in an interaction
-    
 - Drawn as a rectangle with a dashed vertical line
-    
 - Exists over time
-    
-
 ### Visual
 
 `sequenceDiagram     participant User     participant System`
