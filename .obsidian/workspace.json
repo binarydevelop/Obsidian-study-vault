@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
+                "file": "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP_006_Class Relationships"
+              "title": "Sequence Diagram"
             }
           }
         ]
@@ -209,12 +209,12 @@
   },
   "active": "6cc95a5693f95227",
   "lastOpenFiles": [
+    "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "Pasted image 20251228105734.png",
     "Pasted image 20251228105729.png",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "Pasted image 20251228105525.png",
     "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
-    "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
