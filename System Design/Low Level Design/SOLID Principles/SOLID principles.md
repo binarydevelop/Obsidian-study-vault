@@ -90,16 +90,10 @@ classDiagram
     OrderService --> OrderRepository
     OrderService --> EmailService
 ```
-
----
-
 ## Key Insight
 
 SRP is **not about number of methods**  
 It’s about **cohesion of responsibility**
-
----
-
 ## SRP Checklist
 
 Ask:
