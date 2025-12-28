@@ -17,25 +17,18 @@ In real systems:
 - Features grow
 - Teams scale
 - Bugs appear in unexpected places
-SOLID minimizes **change impact** by guiding **class responsibilities, dependencies, and abstractions**.
+SOLID minimizes **change impact** by guiding **class responsibilities, dependencies, and abstractions**
 
 ---
-
 ## What SOLID Is _Not_
 
 - ❌ Not a framework
-    
 - ❌ Not a language feature
-    
 - ❌ Not about performance optimization
-    
 - ❌ Not only for “large systems”
-    
-
 SOLID is about **design stability under change**.
 
 ---
-
 ## High-Level View of SOLID
 
 ```mermaid
