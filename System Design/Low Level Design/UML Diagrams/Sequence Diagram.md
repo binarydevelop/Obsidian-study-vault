@@ -20,14 +20,12 @@ Sequence diagrams are used to:
 ### Concepts
 #### 1️⃣ Lifelines (Participants)
 ### UML Concept
-
 - A **lifeline** represents an **instance** participating in an interaction
 - Drawn as a rectangle with a dashed vertical line
 - Exists over time
 ### Visual
-
-`sequenceDiagram     participant User     participant System`
-
+```mermaid
+```
 🧠 UML takeaway:
 
 > These are **objects / actors**, not classes.
