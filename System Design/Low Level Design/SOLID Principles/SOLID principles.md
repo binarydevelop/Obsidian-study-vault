@@ -6,31 +6,17 @@
 
 **SOLID** is an acronym representing **five object-oriented design principles** introduced and popularized by **Robert C. Martin (Uncle Bob)**.  
 These principles help engineers design systems that are:
-
 - **Maintainable**
-    
 - **Extensible**
-    
 - **Testable**
-    
 - **Robust to change**
-    
 - **Loosely coupled**
-    
-
 ### Why SOLID Exists
-
 In real systems:
-
 - Requirements change
-    
 - Features grow
-    
 - Teams scale
-    
 - Bugs appear in unexpected places
-    
-
 SOLID minimizes **change impact** by guiding **class responsibilities, dependencies, and abstractions**.
 
 ---
