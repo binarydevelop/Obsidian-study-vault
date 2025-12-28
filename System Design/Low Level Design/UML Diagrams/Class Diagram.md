@@ -1,4 +1,4 @@
-***Tags***: #lld #uml #oops #uml 
+***Tags***: #lld #uml #oops #diagrams 
 ## UML Class Diagrams
 
 ### What is a Class Diagram?
