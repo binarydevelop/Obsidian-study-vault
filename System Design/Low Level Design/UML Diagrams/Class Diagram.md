@@ -25,5 +25,7 @@ A class is drawn as a **rectangle divided into 3 parts**:
 ```
 
 ---
+#### Class Relationship Diagrams
+
 ![[Pasted image 20251228105525.png]]
 
