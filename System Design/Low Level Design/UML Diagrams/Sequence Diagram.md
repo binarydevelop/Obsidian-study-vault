@@ -13,3 +13,10 @@ It answers this question:
 ---
 #### Example
 ![[Pasted image 20251228161158.png]]
+
+
+```mermaid
+sequenceDiagram
+    User->>Service: request()
+
+```
