@@ -93,14 +93,14 @@ sequenceDiagram
 
 #### `alt` Fragment (If–Else)
 
-
+![[alt.png]]
 
 **Rule:** only one path executes  
 **Guards:** logical conditions
 
 ---
 
-## 🔟 `opt` Fragment (Optional)
+#### `opt` Fragment (Optional)
 
 ```mermaid
 sequenceDiagram
@@ -113,7 +113,7 @@ sequenceDiagram
 
 ---
 
-## 🔁 11️⃣ `loop` Fragment (Repetition)
+#### `loop` Fragment (Repetition)
 
 ```mermaid
 sequenceDiagram
@@ -126,7 +126,7 @@ sequenceDiagram
 
 ---
 
-## 🔀 12️⃣ `par` Fragment (Parallel)
+#### `par` Fragment (Parallel)
 
 ```mermaid
 sequenceDiagram
@@ -141,7 +141,7 @@ sequenceDiagram
 
 ---
 
-## 13️⃣ Object Creation
+#### Object Creation
 
 ```mermaid
 sequenceDiagram
@@ -152,7 +152,7 @@ sequenceDiagram
 
 ---
 
-## 14️⃣ Object Destruction
+#### Object Destruction
 
 ```mermaid
 sequenceDiagram
@@ -164,7 +164,7 @@ sequenceDiagram
 
 ---
 
-## 15️⃣ Notes (Documentation)
+#### Notes (Documentation)
 
 ```mermaid
 sequenceDiagram
