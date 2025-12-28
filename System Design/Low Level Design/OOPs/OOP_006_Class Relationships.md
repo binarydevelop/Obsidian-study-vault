@@ -100,7 +100,7 @@ print(d1.name)  # d1 exists independently of University
 
 ```
 ---
-## 4. 🧩 Composition ("has-a", strong ownership)
+## 4.Composition ("has-a", strong ownership)
 
 ### ➤ Meaning:
 
@@ -108,7 +108,7 @@ print(d1.name)  # d1 exists independently of University
 - If the container is destroyed, the contained object **is also destroyed**.
 - Stronger than aggregation.
 
-### 🔧 Example:
+### Example:
 
 ```python
 class Brain:
