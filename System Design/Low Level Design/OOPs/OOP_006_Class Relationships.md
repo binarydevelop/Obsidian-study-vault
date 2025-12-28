@@ -124,7 +124,7 @@ class Human:
 
 ```
 
-### ✅ Usage:
+### Usage:
 
 ```python
 h = Human()
