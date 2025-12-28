@@ -17,9 +17,12 @@ It answers this question:
 
 ```mermaid
 sequenceDiagram
-    User->>Service: process()
-    activate Service
-    Service-->>User: done
-    deactivate Service
+    participant Service
+
+    alt Valid Credentials
+        Service-->>User: Login Success
+    else Invalid Credentials
+        Service-->>User: Login Failed
+    end
 
 ```
