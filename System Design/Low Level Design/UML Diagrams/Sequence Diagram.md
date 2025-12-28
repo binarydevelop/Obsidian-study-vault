@@ -62,7 +62,7 @@ UML Meaning
 
 ---
 
-## 7️⃣ Self Message
+#### Self Message
 
 ```mermaid
 sequenceDiagram
@@ -73,7 +73,7 @@ sequenceDiagram
 
 ---
 
-## 8️⃣ Interaction Chain (Multiple Lifelines)
+#### Interaction Chain (Multiple Lifelines)
 
 ```mermaid
 sequenceDiagram
@@ -91,16 +91,9 @@ sequenceDiagram
 
 ---
 
-## 9️⃣ `alt` Fragment (If–Else)
+#### `alt` Fragment (If–Else)
 
-```mermaid
-sequenceDiagram
-    alt Condition True
-        System-->>Actor: Success
-    else Condition False
-        System-->>Actor: Failure
-    end
-```
+
 
 **Rule:** only one path executes  
 **Guards:** logical conditions
