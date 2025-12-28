@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6866ab6bbbc50f54",
+        "id": "1111fc550a509fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc95a5693f95227",
+            "id": "3e1ec31af7d812b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sequence Diagram"
-            }
-          },
-          {
-            "id": "b3126127a6b650c2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -658.4000854492188,
-                  "y": -69.699951171875,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3126127a6b650c2",
+  "active": "3e1ec31af7d812b4",
   "lastOpenFiles": [
-    "System Design/Low Level Design/SOLID Principles/SOLID principles.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/Low Level Design/SOLID Principles/SOLID principles.md",
     "System Design/Low Level Design/SOLID Principles",
     "alt.png",
     "Unconfirmed 449269.crdownload",
@@ -253,7 +232,6 @@
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
     "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
     "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/UML Diagrams",
     "System Design/Low Level Design/OOPs",
     "Why OO",
@@ -274,7 +252,6 @@
     "Backend Engineering/Client–Server Architecture.md",
     "Backend Engineering/Servers.md",
     "Backend Engineering/Application Servers.md",
-    "Backend Engineering/Ports & Sockets.md",
     "Pasted image 20251215161127.png"
   ]
 }
