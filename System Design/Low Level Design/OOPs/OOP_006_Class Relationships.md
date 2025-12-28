@@ -41,11 +41,9 @@ d.bark()   # Defined in Dog
 ### 2. Association ("uses-a")
 
 ### ➤ Meaning:
-
 - One class **uses** another class without owning it.
 - No lifecycle dependency.
-
-### 🔧 Example:
+##### Example:
 
 ```python
 class Engine:
