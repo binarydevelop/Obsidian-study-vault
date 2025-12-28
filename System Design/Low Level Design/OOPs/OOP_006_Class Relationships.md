@@ -29,7 +29,6 @@ class Dog(Animal):  # Dog IS-A Animal
         print("Dog barks")
 
 ```
-
 ##### Usage:
 
 ```python
