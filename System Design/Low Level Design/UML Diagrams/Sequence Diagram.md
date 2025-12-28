@@ -39,9 +39,10 @@ UML Meaning
 
 
 - Caller **waits** until the operation completes
-- Most common message type
-**Arrow:** solid line, filled arrowhead
-
+#### Arrow Explanation
+- `->>` = synchronous call
+- Solid line
+- Filled arrowhead
 ---
 
 ## Reply (Return Message)
