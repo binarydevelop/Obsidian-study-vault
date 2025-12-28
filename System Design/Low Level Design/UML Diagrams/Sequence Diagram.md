@@ -39,10 +39,8 @@ sequenceDiagram
     participant System
     participant Database
 
-Actor->>System: submitReq
-    System->>Database: saveData
-    Database-->>System: success
-    System-->>Actor: confirmation
+    Actor->>System: submitReq
+
 
 ```
 
