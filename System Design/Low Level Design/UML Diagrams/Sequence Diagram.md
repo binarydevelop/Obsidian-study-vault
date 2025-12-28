@@ -46,26 +46,16 @@ UML Meaning
 ---
 
 ## Reply (Return Message)
-
-```mermaid
-sequenceDiagram
-    System-->>Actor: response
-```
+![[response.png]]
 
 **Meaning:** return of control or data  
 **Arrow:** dashed line
 
 ---
 
-## 6️⃣ Activation (Execution Specification)
+#### Activation (Execution Specification)
 
-```mermaid
-sequenceDiagram
-    Actor->>System: process()
-    activate System
-    System-->>Actor: done
-    deactivate System
-```
+
 
 **Shows:** when an instance is actively executing  
 **Also called:** focus of control
