@@ -23,3 +23,7 @@ A class is drawn as a **rectangle divided into 3 parts**:
 | Methods       |
 -----------------
 ```
+
+---
+![[Pasted image 20251228105525.png]]
+
