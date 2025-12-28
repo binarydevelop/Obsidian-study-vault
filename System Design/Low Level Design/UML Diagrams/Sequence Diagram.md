@@ -29,15 +29,16 @@ sequenceDiagram
 ```
 
 **Represents:** object / actor / external system  
-**Notation:** `objectName : ClassName` (optional)
+UML Meaning
+- Rectangle = instance name
+- Dashed vertical line = lifeline
 
 ---
-
 ## Synchronous Message (Call)
 
 ```mermaid
-
-
+sequenceDiagram
+    Actor->>System: submitRequest
 ```
 
 - Caller **waits** until the operation completes
