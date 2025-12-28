@@ -41,33 +41,17 @@ graph TD
 ```
 
 ---
-
 # 2. Single Responsibility Principle (SRP)
-
-## Definition
-
+#### Definition
 > **A class should have only one reason to change.**
-
 This means:
-
 - One **primary responsibility**
-    
 - One **axis of change**
-    
 - One **actor/stakeholder**
-    
-
----
-
-## Core Idea
-
+#### Core Idea
 A class should **do one thing**, and **do it well**.
-
 If a class changes for **multiple reasons**, it violates SRP.
-
----
-
-## SRP Violation Example (Conceptual)
+#### SRP Violation Example (Conceptual)
 
 ```mermaid
 classDiagram
