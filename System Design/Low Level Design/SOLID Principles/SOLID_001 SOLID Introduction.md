@@ -57,21 +57,13 @@ classDiagram
     }
 ```
 Internally:
-
 - `if paymentType == "CARD"`
-    
 - `else if paymentType == "UPI"`
-    
 - `else if paymentType == "WALLET"`
-    
-
-### Problems
+#### Problems
 
 - Every new payment → modify class
-    
 - High risk of breaking existing logic
-    
-
 ---
 
 ## OCP-Compliant Design (Polymorphism)
