@@ -35,7 +35,6 @@ sequenceDiagram
 
 ```mermaid
 sequenceDiagram
-
     Actor->>System: request()
 ```
 
