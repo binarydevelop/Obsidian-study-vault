@@ -75,7 +75,6 @@ An **interface** defines:
 - **What** methods a class must implement
 - **Not how** they are implemented
 It is a **contract**.
-
 **Analogy**
 - Charging port standard (USB-C)
 - Device decides internal wiring
