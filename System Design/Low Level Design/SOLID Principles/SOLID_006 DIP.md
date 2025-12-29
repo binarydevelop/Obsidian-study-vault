@@ -54,3 +54,31 @@ DIP often enables:
 - Mocking
 - Clean Architecture
 - Hexagonal Architecture
+
+❌ **Bad (tight coupling)**
+```python
+class MySQLDatabase:
+    def save(self):
+        print("Saved to MySQL")
+
+class OrderService:
+    def __init__(self):
+        self.db = MySQLDatabase()
+
+```
+
+✅ **Good (depend on abstraction)**
+```python
+class Database:
+    def save(self):
+        pass
+
+class MySQLDatabase(Database):
+    def save(self):
+        print("Saved to MySQL")
+
+class OrderService:
+    def __init__(self, db):
+        self.db = db
+
+```
