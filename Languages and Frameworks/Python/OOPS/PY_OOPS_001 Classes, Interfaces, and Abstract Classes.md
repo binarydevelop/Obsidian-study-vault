@@ -216,7 +216,6 @@ LLD win:
 - Closed for modification
 ---
 ## 7. Common Mistakes (Interview Red Flags)
-
 ❌ Using concrete classes everywhere  
 ❌ Not enforcing contracts  
 ❌ Overusing inheritance  
@@ -224,42 +223,18 @@ LLD win:
 ❌ Mixing responsibilities in one class
 
 ---
-
 ## 8. Interview Expectations (Very Important)
 
 When explaining:
-
 - Say **“contract”**, **“loose coupling”**, **“polymorphism”**
-    
 - Mention **why ABC exists in Python**
-    
 - Explain **why client code depends on abstractions**
-    
 - Keep examples simple and realistic
-    
-
 ---
-
-# 9. Mental Model to Remember
+## 9. Mental Model to Remember
 
 - **Class** → “I know exactly how it works”
-    
 - **Interface** → “I only care what it can do”
-    
 - **Abstract Class** → “Some parts are fixed, some are customizable”
-    
-
 ---
 
-## Next Recommended Topics (Phase 1 Flow)
-
-1. Encapsulation & Access Modifiers (Python reality)
-    
-2. Inheritance vs Composition (VERY IMPORTANT)
-    
-3. Polymorphism (runtime vs compile-time)
-    
-4. SOLID principles (starting with SRP & OCP)
-    
-
-👉 Send the **next topic** when ready.
