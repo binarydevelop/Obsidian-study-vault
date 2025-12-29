@@ -37,23 +37,46 @@ classDiagram
 
 ```mermaid
 classDiagram
-    <<interface>> Workable
-    Workable : +work()
 
-    <<interface>> Eatable
-    Eatable : +eat()
+    class Workable {
 
-    <<interface>> Sleepable
-    Sleepable : +sleep()
+        +work()
 
-    class Human
-    class Robot
+    }
 
-    Human ..|> Workable
-    Human ..|> Eatable
-    Human ..|> Sleepable
+  
 
-    Robot ..|> Workable
+    class Eatable {
+
+        +eat()
+
+    }
+
+  
+
+    class Sleepable {
+
+        +sleep()
+
+    }
+
+  
+
+    class Human
+
+    class Robot
+
+  
+
+    Human ..|> Workable
+
+    Human ..|> Eatable
+
+    Human ..|> Sleepable
+
+  
+
+    Robot ..|> Workable
 ```
 
 ---
