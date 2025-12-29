@@ -1,3 +1,5 @@
+***Tags***: #lld #oops #SOLID #designpatterns
+
 # 2. Single Responsibility Principle (SRP)
 #### Definition
 > **A class should have only one reason to change.**
