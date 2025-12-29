@@ -68,18 +68,12 @@ In interviews:
     - Easily testable
 - Avoid **god classes**
 ---
+## 2. Interfaces (Conceptual Understanding)
 
-# 2. Interfaces (Conceptual Understanding)
-
-## 1️⃣ What is an Interface? (Intuition)
-
+### What is an Interface? (Intuition)
 An **interface** defines:
-
 - **What** methods a class must implement
-    
 - **Not how** they are implemented
-    
-
 It is a **contract**.
 
 **Analogy**
