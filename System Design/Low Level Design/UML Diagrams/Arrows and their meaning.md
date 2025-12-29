@@ -2,25 +2,11 @@
 ## Big Picture First
 
 UML arrows answer **one core question**:
-
 > **“How strongly does one class depend on another?”**
 
 The **stronger the relationship**, the **heavier / more solid the arrow**.
 
 ---
-
-## Visual Overview of Common UML Arrows
-
-![Image](https://khalilstemmler.com/img/blog/object-oriented/uml/uml-class-diagram-cheat-sheet.png)
-
-![Image](https://images.doclify.net/gleek-web/d/38db6653-7bd2-4de8-8da6-1a0465060d71.png)
-
-![Image](https://www.herongyang.com/UML/UML-Notation-Shape-Class-Aggregation-Composition.jpg)
-
-(Use this as a visual anchor while reading below.)
-
----
-
 # 1️⃣ Association (`-->`)
 
 ### Arrow
