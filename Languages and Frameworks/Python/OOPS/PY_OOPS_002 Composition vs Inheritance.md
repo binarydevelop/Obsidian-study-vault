@@ -52,40 +52,23 @@ class Car(Vehicle):
 ```
 
 ---
-
 #### 5. Problems with Inheritance (LLD Reality)
 
 ##### ❌ Tight Coupling
-
 - Child depends heavily on parent
-    
 - Changes in parent can break child
-    
-
 ##### ❌ Fragile Base Class Problem
-
 - Parent changes → unintended side effects
-    
-
 ##### ❌ Inflexible Hierarchies
-
 - Cannot change behavior at runtime
-    
 - Deep inheritance trees are hard to manage
-    
-
 ---
-
 ### 2️ Composition (HAS-A Relationship)
 
 #### 1. Intuition (Easy Explanation)
-
 Composition means:
-
 - A class **has a reference** to another class
-    
 - Behavior is **delegated**, not inherited
-    
 
 **Real-world analogy**
 
