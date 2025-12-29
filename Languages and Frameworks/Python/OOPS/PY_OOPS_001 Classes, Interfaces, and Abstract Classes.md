@@ -46,9 +46,7 @@ class User:
 def method(self):
     pass
 ```
-
 ### Class Methods
-
 ```python
 @classmethod
 def from_string(cls, data: str):
