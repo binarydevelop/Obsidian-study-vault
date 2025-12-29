@@ -366,11 +366,8 @@ Heart is created inside Human → destroyed with it.
 ## Final Mental Shortcut (Very Important)
 
 > If you’re confused, ask:
-> 
 > - Does it **own** it? → composition / aggregation
->     
 > - Does it **use** it? → association / dependency
->     
 > - Is it a **type of** it? → inheritance
 >     
 > - Does it **promise behavior**? → interface
