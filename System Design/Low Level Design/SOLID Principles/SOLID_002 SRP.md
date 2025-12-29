@@ -49,6 +49,7 @@ classDiagram
     OrderService --> OrderRepository
     OrderService --> EmailService
 ```
+Now in the above compliant diag
 #### Key Insight
 SRP is **not about number of methods**  
 It’s about **cohesion of responsibility**
