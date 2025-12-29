@@ -105,26 +105,16 @@ An **abstract class**:
     - Abstract methods (must be implemented)
     - Concrete methods (shared logic)
 ---
-
-## 2️⃣ Why Abstract Classes Exist (LLD View)
+### Why Abstract Classes Exist (LLD View)
 
 They:
-
 - Enforce consistent APIs
-    
 - Prevent incomplete implementations
-    
 - Allow polymorphism
-    
 - Enable dependency inversion
-    
-
 ---
-
-## 3️⃣ Python Abstract Base Classes (ABC)
-
+### Python Abstract Base Classes (ABC)
 ### Basic Structure
-
 ```python
 from abc import ABC, abstractmethod
 
@@ -134,11 +124,9 @@ class PaymentProcessor(ABC):
     def pay(self, amount: float) -> None:
         pass
 ```
-
-### Key Points
+#### Key Points
 
 - Inherits from `ABC`
-    
 - Uses `@abstractmethod`
     
 - Cannot be instantiated
