@@ -73,7 +73,6 @@ Composition means:
 - Laptop **has a** Battery
 ---
 #### 2. Technical Definition
-
 Composition builds behavior by:
 - Combining smaller objects
 - Delegating responsibilities
