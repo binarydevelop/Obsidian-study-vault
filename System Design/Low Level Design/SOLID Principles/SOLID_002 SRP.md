@@ -111,3 +111,19 @@ class OrderService:
 
 
 ```
+
+#### Design 
+```mermaid
+classDiagram
+    class OrderService
+    class PriceCalculator
+    class OrderRepository
+    class EmailService
+
+    OrderService --> PriceCalculator : uses
+    OrderService --> OrderRepository : uses
+    OrderService --> EmailService : uses
+
+```
+
+The above uses Association class relationship (uses-a)
