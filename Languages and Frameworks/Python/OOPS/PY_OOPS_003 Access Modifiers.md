@@ -35,13 +35,9 @@ This is **expected knowledge** in interviews.
 ## 4 Types of Access Modifiers (Python Style)
 
 ### 1 Public (Default)
-
-### Definition
+#### Definition
 - Accessible from anywhere
-    
 - No leading underscore
-    
-
 ```python
 class User:
     def __init__(self, name):
@@ -50,31 +46,19 @@ class User:
     def get_name(self):
         return self.name
 ```
-
 ### LLD Use
-
 - APIs meant for external use
-    
 - Stable interfaces
-    
-
 ---
-
-## 2️⃣ Protected (`_variable`)
+### 2 Protected (`_variable`)
 
 ### Definition
 
 - Single underscore prefix
-    
 - **Convention-based**
-    
 - Intended for:
-    
     - Internal use
-        
     - Subclasses
-        
-
 ```python
 class Account:
     def __init__(self, balance):
