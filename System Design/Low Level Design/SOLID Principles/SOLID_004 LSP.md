@@ -3,19 +3,12 @@
 
 ## Definition
 > **Objects of a superclass should be replaceable with objects of a subclass without breaking correctness.**
-
 ---
 ## In Simple Terms
-
 If `S` is a subtype of `T`, then:
-
 - `T` can be replaced with `S`
-    
 - **Without changing expected behavior**
-    
-
 ---
-
 ## Classic LSP Violation (Behavioral)
 
 ```mermaid
