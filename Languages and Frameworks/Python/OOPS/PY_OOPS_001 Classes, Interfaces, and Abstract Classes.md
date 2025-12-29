@@ -92,12 +92,9 @@ Unlike Java/C++:
 - Interfaces are **simulated** using abstract classes
 So in Python:
 > **Interfaces = Abstract Classes with only abstract methods**
-
 ---
 ## 3. Abstract Classes (Python’s Way)
-
 ### What is an Abstract Class?
-
 An **abstract class**:
 - Cannot be instantiated
 - May contain:
