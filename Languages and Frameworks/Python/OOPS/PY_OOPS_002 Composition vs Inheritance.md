@@ -64,33 +64,21 @@ class Car(Vehicle):
 - Deep inheritance trees are hard to manage
 ---
 ### 2️ Composition (HAS-A Relationship)
-
 #### 1. Intuition (Easy Explanation)
 Composition means:
 - A class **has a reference** to another class
 - Behavior is **delegated**, not inherited
 **Real-world analogy**
-
 - Car **has an** Engine
-    
 - Laptop **has a** Battery
-    
-
 ---
-
 #### 2. Technical Definition
 
 Composition builds behavior by:
-
 - Combining smaller objects
-    
 - Delegating responsibilities
-    
 - Allowing runtime flexibility
-    
-
 ---
-
 #### 3. Python Composition Example
 
 ```python
