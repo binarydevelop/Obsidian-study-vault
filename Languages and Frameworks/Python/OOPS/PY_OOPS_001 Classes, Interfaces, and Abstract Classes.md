@@ -198,13 +198,9 @@ Here:
 ## Use **Interface-style ABC** when:
 
 - You want maximum flexibility
-    
 - You want to depend on behavior, not implementation
-    
-
 ---
-
-# 6. Polymorphism via Abstract Classes
+## 6. Polymorphism via Abstract Classes
 
 ```python
 def process_payment(processor: PaymentProcessor):
@@ -212,24 +208,14 @@ def process_payment(processor: PaymentProcessor):
 ```
 
 You can pass:
-
 - `CreditCardPayment`
-    
 - `UPIPayment`
-    
 - `WalletPayment`
-    
-
 LLD win:
-
 - Code is **open for extension**
-    
 - Closed for modification
-    
-
 ---
-
-# 7. Common Mistakes (Interview Red Flags)
+## 7. Common Mistakes (Interview Red Flags)
 
 ❌ Using concrete classes everywhere  
 ❌ Not enforcing contracts  
@@ -239,7 +225,7 @@ LLD win:
 
 ---
 
-# 8. Interview Expectations (Very Important)
+## 8. Interview Expectations (Very Important)
 
 When explaining:
 
