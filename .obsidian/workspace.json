@@ -25,14 +25,17 @@
             "id": "2d2ad9afd241ca7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -810.0040700747456,
+                  "y": 13.156244427836924,
+                  "zoom": -0.5897924183253509
+                }
               },
-              "icon": "lucide-file",
-              "title": "SOLID_005 ISP"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ],
@@ -224,13 +227,13 @@
   },
   "active": "2d2ad9afd241ca7f",
   "lastOpenFiles": [
+    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "Synchronous calls.png",
     "response.png",
