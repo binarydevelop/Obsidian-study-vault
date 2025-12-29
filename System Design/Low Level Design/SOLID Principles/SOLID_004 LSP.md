@@ -2,7 +2,6 @@
 # 4. Liskov Substitution Principle (LSP)
 
 ## Definition
-
 > **Objects of a superclass should be replaceable with objects of a subclass without breaking correctness.**
 
 ---
