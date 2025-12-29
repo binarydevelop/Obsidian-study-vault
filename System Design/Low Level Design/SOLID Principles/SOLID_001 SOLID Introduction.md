@@ -45,76 +45,7 @@ graph TD
 
 
 
-# 6. Dependency Inversion Principle (DIP)
 
-## Definition
-
-> **High-level modules should not depend on low-level modules.  
-> Both should depend on abstractions.**
-
----
-
-## What DIP Fixes
-
-- Tight coupling
-    
-- Rigid architectures
-    
-- Difficult testing
-    
-
----
-
-## DIP Violation
-
-```mermaid
-classDiagram
-    class OrderService
-    class MySQLDatabase
-
-    OrderService --> MySQLDatabase
-```
-
-### Problems
-
-- Database change impacts business logic
-    
-- Hard to mock for tests
-    
-
----
-
-## DIP-Compliant Design
-
-```mermaid
-classDiagram
-    class OrderService
-
-    <<interface>> Database
-    Database : +save()
-
-    class MySQLDatabase
-    class PostgreSQLDatabase
-
-    OrderService --> Database
-    MySQLDatabase ..|> Database
-    PostgreSQLDatabase ..|> Database
-```
-
----
-
-## Key Insight
-
-DIP often enables:
-
-- Dependency Injection
-    
-- Mocking
-    
-- Clean Architecture
-    
-- Hexagonal Architecture
-    
 
 ---
 
@@ -154,15 +85,3 @@ graph TD
 
 ---
 
-If you want, next we can:
-
-- Apply SOLID to a **real-world system**
-    
-- Show **before vs after architecture**
-    
-- Map SOLID to **Clean Architecture**
-    
-- Convert these notes into a **1-page cheat sheet**
-    
-
-Just tell me how you’d like to continue.
