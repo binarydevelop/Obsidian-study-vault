@@ -41,20 +41,18 @@ class User:
 ---
 ### Types of Methods in Python Classes
 
-### Instance Methods (Most Common)
+#### Instance Methods (Most Common)
 ```python
 def method(self):
     pass
 ```
-### Class Methods
+#### Class Methods
 ```python
 @classmethod
 def from_string(cls, data: str):
     return cls(...)
 ```
-
-### Static Methods
-
+#### Static Methods
 ```python
 @staticmethod
 def is_valid_id(user_id: int) -> bool:
