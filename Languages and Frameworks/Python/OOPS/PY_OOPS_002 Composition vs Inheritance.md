@@ -63,7 +63,7 @@ car.drive()
 
 ---
 
-### 4. Method Overriding
+#### 4. Method Overriding
 
 ```python
 class Car(Vehicle):
@@ -73,21 +73,21 @@ class Car(Vehicle):
 
 ---
 
-### 5. Problems with Inheritance (LLD Reality)
+#### 5. Problems with Inheritance (LLD Reality)
 
-#### ❌ Tight Coupling
+##### ❌ Tight Coupling
 
 - Child depends heavily on parent
     
 - Changes in parent can break child
     
 
-#### ❌ Fragile Base Class Problem
+##### ❌ Fragile Base Class Problem
 
 - Parent changes → unintended side effects
     
 
-#### ❌ Inflexible Hierarchies
+##### ❌ Inflexible Hierarchies
 
 - Cannot change behavior at runtime
     
@@ -96,7 +96,7 @@ class Car(Vehicle):
 
 ---
 
-## 2️⃣ Composition (HAS-A Relationship)
+### 2️ Composition (HAS-A Relationship)
 
 ### 1. Intuition (Easy Explanation)
 
