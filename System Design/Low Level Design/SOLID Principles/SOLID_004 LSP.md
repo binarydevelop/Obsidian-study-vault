@@ -31,44 +31,43 @@ classDiagram
 
 ```mermaid
 classDiagram
-    <<interface>> Shape
-    Shape : +area()
 
-    class Rectangle
-    class Square
+    class Shape {
 
-    Rectangle ..|> Shape
-    Square ..|> Shape
+        <<interface>>
+
+        +area()
+
+    }
+
+  
+
+    class Rectangle
+
+    class Square
+
+  
+
+    Rectangle ..|> Shape
+
+    Square ..|> Shape
 ```
 
 ---
-
 ## LSP Rules (Technical)
 
 A subclass must:
-
 - Not strengthen preconditions
-    
 - Not weaken postconditions
-    
 - Preserve invariants
-    
 - Preserve expected side effects
-    
-
 ---
-
 ## LSP Smell
 
 If you see:
-
 - `isinstance`
-    
 - `type checks`
-    
 - defensive branching for subclasses
-    
-
 You likely violated LSP.
 
 ---
