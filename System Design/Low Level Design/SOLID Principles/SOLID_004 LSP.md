@@ -3,6 +3,8 @@
 
 ## Definition
 > **Objects of a superclass should be replaceable with objects of a subclass without breaking correctness.**
+> OR
+> Subclassess
 ---
 ## In Simple Terms
 If `S` is a subtype of `T`, then:
