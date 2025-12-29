@@ -6,13 +6,10 @@
 > Both should depend on abstractions.**
 
 ---
-
 ## What DIP Fixes
 
 - Tight coupling
-    
 - Rigid architectures
-    
 - Difficult testing
     
 
