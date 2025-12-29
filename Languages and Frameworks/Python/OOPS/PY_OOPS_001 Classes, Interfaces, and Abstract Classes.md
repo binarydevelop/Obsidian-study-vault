@@ -125,22 +125,17 @@ class PaymentProcessor(ABC):
         pass
 ```
 #### Key Points
-
 - Inherits from `ABC`
 - Uses `@abstractmethod`
-    
 - Cannot be instantiated
-    
 
 ❌ This will fail:
 
 ```python
 PaymentProcessor()  # TypeError
 ```
-
 ---
-
-## 4️⃣ Implementing an Abstract Class
+### Implementing an Abstract Class
 
 ```python
 class CreditCardPayment(PaymentProcessor):
