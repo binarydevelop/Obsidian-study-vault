@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document Editor.md",
+                "file": "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document Editor"
+              "title": "SOLID_004 LSP"
             }
           }
         ],
@@ -224,14 +224,14 @@
   },
   "active": "cb10c68990e45bde",
   "lastOpenFiles": [
-    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
+    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
+    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "Document Editor.md",
+    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/Practice",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "Pasted image 20251229165416.png",
-    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "Synchronous calls.png",
     "response.png",
     "Pasted image 20251228161158.png",
