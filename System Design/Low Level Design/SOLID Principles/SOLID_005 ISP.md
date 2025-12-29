@@ -1,3 +1,4 @@
+***Tags***: #lld #oops #SOLID #designpatterns
 # 5. Interface Segregation Principle (ISP)
 ## Definition
 > **Clients should not be forced to depend on interfaces they do not use.**

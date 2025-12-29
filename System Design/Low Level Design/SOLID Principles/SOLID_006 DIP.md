@@ -1,3 +1,4 @@
+***Tags***: #lld #oops #SOLID #designpatterns
 # 6. Dependency Inversion Principle (DIP)
 
 ## Definition
