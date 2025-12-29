@@ -106,4 +106,15 @@ class PaymentProcessor:
     def process(self):
         self.payment_method.pay()
 
+
+
+payment = CardPayment()
+processor = PaymentProcessor(payment)
+processor.process()
+
+# Extend without modification
+payment = UPIPayment()
+processor = PaymentProcessor(payment)
+processor.process()
+
 ```
