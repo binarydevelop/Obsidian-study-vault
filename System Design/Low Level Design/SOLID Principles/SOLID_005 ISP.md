@@ -24,10 +24,7 @@ classDiagram
 ### Problem
 
 - Robot does not eat or sleep
-    
 - Forced to implement meaningless methods
-    
-
 ---
 
 ## ISP-Compliant Design
