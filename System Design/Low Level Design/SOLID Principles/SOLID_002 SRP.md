@@ -49,7 +49,7 @@ classDiagram
     OrderService --> OrderRepository
     OrderService --> EmailService
 ```
-Now in the above compliant diag
+Now in the above compliant diagram each class will have an instance of the order class. We're using composition. 
 #### Key Insight
 SRP is **not about number of methods**  
 It’s about **cohesion of responsibility**
