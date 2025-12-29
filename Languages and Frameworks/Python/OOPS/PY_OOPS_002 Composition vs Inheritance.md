@@ -1,7 +1,6 @@
-Below are **deep, interview-focused notes** on **Composition vs Inheritance**, explained **intuitively first**, then **technically**, and finally **from an LLD + Python interview perspective**.
+***Tags***: 
 
 ---
-
 # Composition vs Inheritance (One of the MOST Important LLD Topics)
 
 > **Golden Rule (Interview Favorite)**  
