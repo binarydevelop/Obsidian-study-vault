@@ -11,12 +11,14 @@
             "id": "3c37ae004971b0f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Synchronous calls.png"
+                "file": "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Synchronous calls"
+              "icon": "lucide-file",
+              "title": "SOLID_005 ISP"
             }
           }
         ]
@@ -207,6 +209,7 @@
   },
   "active": "3c37ae004971b0f5",
   "lastOpenFiles": [
+    "Synchronous calls.png",
     "response.png",
     "Pasted image 20251228161158.png",
     "Pasted image 20251228105734.png",
@@ -222,7 +225,6 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
-    "Synchronous calls.png",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/SOLID Principles",
     "Unconfirmed 449269.crdownload",
