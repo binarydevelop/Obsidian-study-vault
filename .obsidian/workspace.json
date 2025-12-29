@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "20f33d6e384122ab",
+        "id": "4d0c8e96427ed0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "3c37ae004971b0f5",
+            "id": "663467862885d4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
+                "file": "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrows and their meaning"
-            }
-          },
-          {
-            "id": "cb10c68990e45bde",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Synchronous calls.png"
-              },
-              "icon": "lucide-image",
-              "title": "Synchronous calls"
-            }
-          },
-          {
-            "id": "995da8f19dbd5b3a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Synchronous calls.png"
-              },
-              "icon": "lucide-image",
-              "title": "Synchronous calls"
-            }
-          },
-          {
-            "id": "e32c295d2ca7f332",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20251229165416.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251229165416"
+              "title": "Sequence Diagram"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "663467862885d4dd",
   "lastOpenFiles": [
+    "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
+    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
+    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
+    "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
+    "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
+    "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
+    "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "Document Editor.md",
@@ -253,10 +223,8 @@
     "New folder",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
-    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/Practice",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
-    "attachments/Pasted image 20251229165416.png",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "attachments/response.png",
     "attachments/Pasted image 20251228161158.png",
@@ -266,7 +234,6 @@
     "attachments/alt.png",
     "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
-    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/SOLID Principles",
@@ -278,12 +245,8 @@
     "Backend Engineering/Peer-to-Peer Architecture.md",
     "Pasted image 20251228185457.png",
     "Backend Engineering/Peer-to-Peer architecture.md",
-    "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
-    "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
-    "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
     "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
-    "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
     "System Design/Low Level Design/UML Diagrams",
     "System Design/Low Level Design/OOPs",
     "System Design/Low Level Design/Roadmap.md",
