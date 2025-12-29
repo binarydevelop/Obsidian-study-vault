@@ -50,12 +50,7 @@ classDiagram
 ## Key Insight
 
 DIP often enables:
-
 - Dependency Injection
-    
 - Mocking
-    
 - Clean Architecture
-    
 - Hexagonal Architecture
-    
