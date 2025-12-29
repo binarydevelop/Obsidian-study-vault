@@ -147,12 +147,9 @@ class CreditCardPayment(PaymentProcessor):
 processor = CreditCardPayment()
 processor.pay(100.0)
 ```
-
 ✔ Works because all abstract methods are implemented
 
----
-
-## 5️⃣ Abstract Class with Partial Implementation
+### Abstract Class with Partial Implementation
 
 ```python
 class Logger(ABC):
@@ -171,11 +168,9 @@ class Logger(ABC):
 ```
 
 Here:
-
 - `log()` is common behavior
-    
 - Subclasses decide **how to write** and **how to format**
-    
+
 
 ---
 
