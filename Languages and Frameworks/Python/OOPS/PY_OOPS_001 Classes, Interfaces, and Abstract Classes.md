@@ -77,25 +77,15 @@ An **interface** defines:
 It is a **contract**.
 
 **Analogy**
-
 - Charging port standard (USB-C)
-    
 - Device decides internal wiring
-    
-
 ---
 
-## 2️⃣ Interface Characteristics
-
+### Interface Characteristics
 - Only method signatures
-    
 - No implementation (conceptually)
-    
 - Enables **polymorphism**
-    
 - Promotes **loose coupling**
-    
-
 ---
 
 ## 3️⃣ Python Does NOT Have Interfaces (Directly)
