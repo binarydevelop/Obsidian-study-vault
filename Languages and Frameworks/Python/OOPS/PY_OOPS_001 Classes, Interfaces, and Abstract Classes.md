@@ -33,24 +33,15 @@ class User:
     def get_display_name(self) -> str:
         return f"User: {self.name}"
 ```
-
 ### Key Python Concepts
-
 - `__init__` → constructor
-    
 - `self` → current object reference
-    
 - Attributes are **instance-specific**
-    
 - Methods operate on instance state
-    
-
 ---
-
-## 4️⃣ Types of Methods in Python Classes
+### Types of Methods in Python Classes
 
 ### Instance Methods (Most Common)
-
 ```python
 def method(self):
     pass

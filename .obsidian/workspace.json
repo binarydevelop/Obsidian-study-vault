@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "PY_OOPS_001 Classes, Interfaces, and Abstract Classes"
             }
-          },
-          {
-            "id": "f78b0c08688f7c72",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:systems",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f78b0c08688f7c72",
+  "active": "b174c6ba98fae110",
   "lastOpenFiles": [
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/OOPS/Untitled 1.md",
