@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
+                "file": "System Design/Low Level Design/SOLID Principles/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID_003 OCP"
+              "title": "Untitled"
             }
           }
         ],
@@ -225,6 +225,7 @@
   "active": "2d2ad9afd241ca7f",
   "lastOpenFiles": [
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
+    "System Design/Low Level Design/SOLID Principles/Untitled.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "Synchronous calls.png",
@@ -271,7 +272,6 @@
     "Backend Engineering/Web Servers.md",
     "Backend Engineering/Stateful and stateless.md",
     "Backend Engineering/Client–Server Architecture.md",
-    "Backend Engineering/Servers.md",
     "Pasted image 20251215161127.png"
   ]
 }
