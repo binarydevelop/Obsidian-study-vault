@@ -67,5 +67,14 @@ OCP relies on:
 - Slight increase in class count
 - Massive gain in flexibility
 ---
+#### ❌ OCP Violation
+```python
+class PaymentProcessor:
+    def process(self, payment_type):
+        if payment_type == "card":
+            print("Card payment")
+        elif payment_type == "upi":
+            print("UPI payment")
+
 ```
-```
+
