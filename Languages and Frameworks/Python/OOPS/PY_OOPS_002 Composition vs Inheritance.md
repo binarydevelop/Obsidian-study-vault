@@ -40,11 +40,9 @@ car = Car()
 car.start()
 car.drive()
 ```
-
 ✔ `Car` automatically gets `start()`
 
 ---
-
 #### 4. Method Overriding
 
 ```python
