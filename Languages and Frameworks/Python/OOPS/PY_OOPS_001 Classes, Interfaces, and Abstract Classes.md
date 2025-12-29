@@ -16,21 +16,13 @@ A class bundles:
 - **Attributes** (instance variables)
 - **Methods** (functions operating on the data)
 - **Access control** (public/protected/private — conceptually)
-
 It enables:
-
 - Encapsulation
-    
 - Abstraction
-    
 - Reusability
-    
 - Modularity
-    
-
 ---
-
-## 3️⃣ Python Class Syntax
+### Python Class Syntax
 
 ```python
 class User:
