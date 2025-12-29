@@ -11,7 +11,7 @@
 ## ISP Violation
 ```mermaid
 classDiagram
-    <<interface>> Worker {
+    class Shape {
         +work()
         +eat()
         +sleep()
