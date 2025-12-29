@@ -22,18 +22,11 @@ classDiagram
     class Square
     Square --|> Rectangle
 ```
-
 ### Why This Breaks LSP
-
 - Square **changes behavior expectations**
-    
 - Width and height can no longer vary independently
-    
 - Code written for Rectangle breaks with Square
-    
-
 ---
-
 ## Correct LSP Design
 
 ```mermaid
