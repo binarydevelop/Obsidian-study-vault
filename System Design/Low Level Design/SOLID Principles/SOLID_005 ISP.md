@@ -13,9 +13,13 @@
 classDiagram
     class Shape {
 		+area
+		+volume
     }
 
-    class Square
+    class Square {
+	    +area
+
+    }
     Square ..|> Shape
 ```
 
