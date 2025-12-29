@@ -12,13 +12,11 @@
 ```mermaid
 classDiagram
     class Shape {
-        +work()
-        +eat()
-        +sleep()
+		+area
     }
 
-    class Robot
-    Robot ..|> Worker
+    class Square
+    Square ..|> Shape
 ```
 
 ### Problem
