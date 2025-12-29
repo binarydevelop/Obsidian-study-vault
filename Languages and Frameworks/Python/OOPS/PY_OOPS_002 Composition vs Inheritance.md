@@ -170,15 +170,10 @@ class Car:
 ### When Inheritance is Acceptable (Interview-Safe)
 
 Inheritance is okay **ONLY when**:
-
 - Relationship is truly IS-A
-    
 - Parent class is stable
-    
 - No need to change behavior dynamically
-    
 - Hierarchy is shallow (1–2 levels max)
-    
 
 **Good example**
 
@@ -196,17 +191,11 @@ class Square(Rectangle):
 ### 6️ When Composition is the Right Choice
 
 Use composition when:
-
 - Behavior can vary
-    
 - Multiple combinations exist
-    
 - You want to avoid deep hierarchies
-    
 - You need runtime flexibility
-    
 - You want better testability
-    
 
 ---
 
