@@ -9,21 +9,12 @@
 ### (IS-A Relationship)
 
 #### 1. Intuition (Easy Explanation)
-
 Inheritance means:
-
 - A class **is a type of** another class
-    
 - Child **inherits behavior + data** from parent
-    
-
 **Real-world analogy**
-
 - Dog **is an** Animal
-    
 - Car **is a** Vehicle
-    
-
 ---
 
 #### 2. Technical Definition
@@ -263,7 +254,7 @@ Use composition when:
 
 ### 7️⃣ Classic Interview Trap Example
 
-### ❌ Wrong (Inheritance Abuse)
+#### ❌ Wrong (Inheritance Abuse)
 
 ```python
 class Duck:
@@ -279,7 +270,7 @@ class RubberDuck(Duck):
 
 ---
 
-### ✔ Correct (Composition)
+#### ✔ Correct (Composition)
 
 ```python
 class FlyBehavior:
@@ -306,7 +297,7 @@ class Duck:
 
 ---
 
-## 8️⃣ LLD Interview Language (Use These Phrases)
+### 8 LLD Interview Language (Use These Phrases)
 
 Say things like:
 
@@ -321,7 +312,7 @@ Say things like:
 
 ---
 
-## 9️⃣ Decision Framework (Memorize This)
+### 9️ Decision Framework (Memorize This)
 
 Ask yourself:
 
@@ -338,7 +329,7 @@ If **any answer is yes → Composition**
 
 ---
 
-## 10️⃣ How Interviewers Evaluate This Topic
+### 10️ How Interviewers Evaluate This Topic
 
 They look for:
 
