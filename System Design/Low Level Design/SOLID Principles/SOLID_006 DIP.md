@@ -81,4 +81,9 @@ class OrderService:
     def __init__(self, db):
         self.db = db
 
+
+db = MySQLDatabase()
+service = OrderService(db)
+service.db.save()
+
 ```
