@@ -4,7 +4,7 @@
 ## Definition
 > **Objects of a superclass should be replaceable with objects of a subclass without breaking correctness.**
 > OR
-> Subclassess
+> Subclasses should be substitutable for other base classes. 
 ---
 ## In Simple Terms
 If `S` is a subtype of `T`, then:
