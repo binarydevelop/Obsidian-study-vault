@@ -58,19 +58,13 @@ def from_string(cls, data: str):
 def is_valid_id(user_id: int) -> bool:
     return user_id > 0
 ```
-
 ---
-
-## 5️⃣ LLD Perspective on Classes
+### LLD Perspective on Classes
 
 In interviews:
-
 - **One class = one responsibility**
-    
 - Classes should be:
-    
     - Cohesive
-        
     - Small
         
     - Easily testable
