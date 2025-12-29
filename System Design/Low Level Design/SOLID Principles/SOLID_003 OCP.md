@@ -78,3 +78,32 @@ class PaymentProcessor:
 
 ```
 
+#### OCP-Compliant Design
+
+```python
+from abc import ABC, abstractmethod
+
+class PaymentMethod(ABC):
+    @abstractmethod
+    def pay(self):
+        pass
+
+
+class CardPayment(PaymentMethod):
+    def pay(self):
+        print("Card payment")
+
+
+class UPIPayment(PaymentMethod):
+    def pay(self):
+        print("UPI payment")
+
+
+class PaymentProcessor:
+    def __init__(self, payment_method: PaymentMethod):
+        self.payment_method = payment_method
+
+    def process(self):
+        self.payment_method.pay()
+
+```
