@@ -69,7 +69,6 @@ class Car(Vehicle):
 Composition means:
 - A class **has a reference** to another class
 - Behavior is **delegated**, not inherited
-
 **Real-world analogy**
 
 - Car **has an** Engine
