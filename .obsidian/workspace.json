@@ -4,42 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1111fc550a509fe0",
+        "id": "20f33d6e384122ab",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1ec31af7d812b4",
+            "id": "3c37ae004971b0f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "Synchronous calls.png"
               },
-              "icon": "lucide-file",
-              "title": "SOLID_001 SOLID Introduction"
-            }
-          },
-          {
-            "id": "2d2ad9afd241ca7f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -810.0040700747456,
-                  "y": 13.156244427836924,
-                  "zoom": -0.5897924183253509
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-image",
+              "title": "Synchronous calls"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d2ad9afd241ca7f",
+  "active": "3c37ae004971b0f5",
   "lastOpenFiles": [
+    "response.png",
+    "Pasted image 20251228161158.png",
+    "Pasted image 20251228105734.png",
+    "Pasted image 20251228105729.png",
+    "Pasted image 20251228105525.png",
+    "alt.png",
+    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
@@ -236,15 +223,8 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "Synchronous calls.png",
-    "response.png",
-    "Pasted image 20251228161158.png",
-    "Pasted image 20251228105729.png",
-    "Pasted image 20251228105734.png",
-    "Pasted image 20251228105525.png",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles",
-    "alt.png",
     "Unconfirmed 449269.crdownload",
     "activation.png",
     "Unconfirmed 735608.crdownload",
@@ -274,7 +254,6 @@
     "System Design/_index_system_design.md",
     "System Design/LLD/System Desin.canvas",
     "Backend Engineering/Communication protocols.md",
-    "Backend Engineering/Web Servers.md",
     "Pasted image 20251215161127.png"
   ]
 }
