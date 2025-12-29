@@ -106,7 +106,8 @@ class OrderService:
 
     def create_order(self, order):
         self.calculator.calculate(order)
-        self.repository.save(order)
-        self.email_service.send_confirmation(order)
+		self.repository.save(order) 
+		self.email_service.send_confirmation(order)
+
 
 ```
