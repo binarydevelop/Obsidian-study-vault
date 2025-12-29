@@ -11,22 +11,26 @@
 ## ISP Violation
 ```mermaid
 classDiagram
-    class Shape {
-		+area
-		+volume
-    }
 
-    class Square {
-	    +area
+    class Worker {
 
-    }
-    Square ..|> Shape
+        +work()
+
+        +eat()
+
+        +sleep()
+
+    }
+
+    class Robot
+
+    Robot ..|> Worker
 ```
 
 ### Problem
 
-- Robot does not eat or sleep
-- Forced to implement meaningless methods
+- Robot does not eat or sleep but since it  inherits from Robot 
+- Forced to implement meaningless methods 
 ---
 
 ## ISP-Compliant Design
