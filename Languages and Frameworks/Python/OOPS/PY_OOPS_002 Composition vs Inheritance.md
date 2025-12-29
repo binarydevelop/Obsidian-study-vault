@@ -98,7 +98,7 @@ class Car(Vehicle):
 
 ### 2️ Composition (HAS-A Relationship)
 
-### 1. Intuition (Easy Explanation)
+#### 1. Intuition (Easy Explanation)
 
 Composition means:
 
@@ -116,7 +116,7 @@ Composition means:
 
 ---
 
-### 2. Technical Definition
+#### 2. Technical Definition
 
 Composition builds behavior by:
 
@@ -129,7 +129,7 @@ Composition builds behavior by:
 
 ---
 
-### 3. Python Composition Example
+#### 3. Python Composition Example
 
 ```python
 class Engine:
@@ -150,7 +150,7 @@ class Car:
 
 ---
 
-### 4. Swapping Behavior at Runtime (Big Win)
+#### 4. Swapping Behavior at Runtime (Big Win)
 
 ```python
 class ElectricEngine(Engine):
@@ -165,7 +165,7 @@ This is **impossible with pure inheritance**.
 
 ---
 
-## 3️⃣ Inheritance vs Composition (Side-by-Side)
+### Inheritance vs Composition (Side-by-Side)
 
 |Aspect|Inheritance|Composition|
 |---|---|---|
@@ -179,7 +179,7 @@ This is **impossible with pure inheritance**.
 
 ---
 
-## 4️⃣ Combining with Abstract Classes (Best Practice)
+### 4 Combining with Abstract Classes (Best Practice)
 
 ### Composition + Abstraction = Ideal Design
 
@@ -218,7 +218,7 @@ class Car:
 
 ---
 
-## 5️⃣ When Inheritance is Acceptable (Interview-Safe)
+### When Inheritance is Acceptable (Interview-Safe)
 
 Inheritance is okay **ONLY when**:
 
@@ -244,7 +244,7 @@ class Square(Rectangle):
 
 ---
 
-## 6️⃣ When Composition is the Right Choice
+### 6️ When Composition is the Right Choice
 
 Use composition when:
 
@@ -261,7 +261,7 @@ Use composition when:
 
 ---
 
-## 7️⃣ Classic Interview Trap Example
+### 7️⃣ Classic Interview Trap Example
 
 ### ❌ Wrong (Inheritance Abuse)
 
