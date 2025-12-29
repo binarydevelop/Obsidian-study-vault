@@ -62,4 +62,27 @@ If **yes**, SRP is violated.
 
 ---
 ### Code
-####
+#### Violation
+```python
+class OrderService:
+    def create_order(self, order):
+        self.calculate_price(order)
+        self.save_to_db(order)
+        self.send_email(order)
+
+    def calculate_price(self, order):
+        pass
+
+    def save_to_db(self, order):
+        pass
+
+    def send_email(self, order):
+        pass
+
+```
+
+#### SRP-Compliant Design
+
+### Python (Good)
+
+`class PriceCalculator:     def calculate(self, order):         pass  class OrderRepository:     def save(self, order):         pass  class EmailService:     def send_confirmation(self, order):         pass  class OrderService:     def __init__(self, calculator, repository, email_service):         self.calculator = calculator         self.repository = repository         self.email_service = email_service      def create_order(self, order):         self.calculator.calculate(order)         self.repository.save(order)         self.email_service.send_confirmation(order)`
