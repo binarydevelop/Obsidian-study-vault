@@ -256,16 +256,10 @@ Say things like:
 ### 9️ Decision Framework (Memorize This)
 
 Ask yourself:
-
 1. Is this truly an **IS-A** relationship?
-    
 2. Will behavior change in future?
-    
 3. Will multiple variants exist?
-    
 4. Do I want runtime flexibility?
-    
-
 If **any answer is yes → Composition**
 
 ---
@@ -275,20 +269,7 @@ If **any answer is yes → Composition**
 They look for:
 
 - Correct relationship identification
-    
 - Avoiding inheritance by default
-    
 - Using abstract classes with composition
-    
 - Clean, extensible Python code
-    
-
 ---
-
-## Next Logical Topic (Highly Recommended)
-
-👉 **Polymorphism (runtime vs compile-time in Python)**  
-or  
-👉 **Encapsulation & access control (Python reality)**
-
-Send the next topic when ready.
