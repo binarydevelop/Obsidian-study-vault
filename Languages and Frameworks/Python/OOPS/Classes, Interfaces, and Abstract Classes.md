@@ -9,19 +9,13 @@ An **object** is an instance created from that blueprint.
 **Real-world analogy**
 - Class → Car design
 - Object → A specific car (red Honda, blue Tesla)
-
 ---
-
-## 2️⃣ Technical Definition
+### Technical Definition
 
 A class bundles:
-
 - **Attributes** (instance variables)
-    
 - **Methods** (functions operating on the data)
-    
 - **Access control** (public/protected/private — conceptually)
-    
 
 It enables:
 
