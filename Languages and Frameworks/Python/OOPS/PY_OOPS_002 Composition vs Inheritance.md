@@ -1,16 +1,14 @@
-***Tags***: 
+***Tags***: #Python #lld #oops #systemdesign 
 
 ---
-# Composition vs Inheritance (One of the MOST Important LLD Topics)
+# Composition vs Inheritance 
 
 > **Golden Rule (Interview Favorite)**  
 > 👉 _“Favor composition over inheritance.”_
-
 ---
+### (IS-A Relationship)
 
-## 1️⃣ Inheritance (IS-A Relationship)
-
-### 1. Intuition (Easy Explanation)
+#### 1. Intuition (Easy Explanation)
 
 Inheritance means:
 
@@ -28,7 +26,7 @@ Inheritance means:
 
 ---
 
-### 2. Technical Definition
+#### 2. Technical Definition
 
 Inheritance allows a subclass to:
 
@@ -43,7 +41,7 @@ It creates a **tight coupling** between parent and child.
 
 ---
 
-### 3. Python Inheritance Example
+#### 3. Python Inheritance Example
 
 ```python
 class Vehicle:
