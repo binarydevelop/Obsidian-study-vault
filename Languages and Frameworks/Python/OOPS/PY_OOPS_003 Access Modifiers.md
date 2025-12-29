@@ -1,42 +1,24 @@
-
-#  (Encapsulation in Practice)
-
-## 1️⃣ What Are Access Modifiers? (Intuition)
+***Tags***: #Python #lld #oops #systemdesign 
+### 1️ What Are Access Modifiers? (Intuition)
 
 Access modifiers control:
-
 - **Who can access what**
-    
 - **What is exposed**
-    
 - **What is hidden**
-    
-
 They are the **core tool of Encapsulation**.
 
 **Real-world analogy**
-
 - ATM machine
-    
     - Buttons → public
-        
     - Internal circuits → private
-        
     - Service panel → protected
-        
-
 ---
-
-## 2️⃣ Why Access Control Matters in LLD
+## Why Access Control Matters in LLD
 
 In interviews, access modifiers help:
-
 - Prevent misuse of internal logic
-    
 - Reduce coupling
-    
 - Protect invariants
-    
 - Make systems easier to change safely
     
 
