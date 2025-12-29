@@ -64,7 +64,6 @@ class Account:
     def __init__(self, balance):
         self._balance = balance
 ```
-
 ### Usage in Subclass
 
 ```python
@@ -72,21 +71,13 @@ class SavingsAccount(Account):
     def apply_interest(self):
         self._balance += self._balance * 0.05
 ```
-
 ### Interview Note
-
 > “Protected members are accessible but discouraged for external use.”
-
 ---
-
 ## 3️⃣ Private (`__variable`) – Name Mangling
-
 ### Definition
-
 - Double underscore prefix
-    
 - Triggers **name mangling**
-    
 
 ```python
 class Account:
