@@ -73,3 +73,37 @@ If you see:
 You likely violated LSP.
 
 ---
+```python
+from abc import ABC, abstractmethod
+
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+
+
+class Rectangle(Shape):
+    def __init__(self, w, h):
+        self.w = w
+        self.h = h
+
+    def area(self):
+        return self.w * self.h
+
+
+class Square(Shape):
+    def __init__(self, side):
+        self.side = side
+
+    def area(self):
+        return self.side * self.side
+
+
+def print_area(shape: Shape):
+    print(shape.area())
+
+print_area(Rectangle(4, 5))
+print_area(Square(4))
+
+
+```
