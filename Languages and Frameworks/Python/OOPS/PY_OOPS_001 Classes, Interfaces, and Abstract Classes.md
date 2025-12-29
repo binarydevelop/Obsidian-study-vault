@@ -171,10 +171,7 @@ Here:
 - `log()` is common behavior
 - Subclasses decide **how to write** and **how to format**
 
-
----
-
-# 4. Interface vs Abstract Class (Important Interview Comparison)
+## 4. Interface vs Abstract Class (Important Interview Comparison)
 
 |Aspect|Interface (Conceptual)|Abstract Class|
 |---|---|---|
@@ -191,21 +188,13 @@ Here:
 ## Use a **Class** when:
 
 - You have concrete behavior
-    
 - You are modeling a real entity
-    
 - No need for enforcement
-    
-
 ## Use an **Abstract Class** when:
 
 - You want to enforce method implementation
-    
 - You have shared logic
-    
 - You expect multiple implementations
-    
-
 ## Use **Interface-style ABC** when:
 
 - You want maximum flexibility
