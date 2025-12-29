@@ -32,8 +32,9 @@ classDiagram
 classDiagram
     class OrderService
 
-    <<interface>> Database
-    Database : +save()
+    class Database {
+        +save()
+    }
 
     class MySQLDatabase
     class PostgreSQLDatabase
@@ -41,6 +42,7 @@ classDiagram
     OrderService --> Database
     MySQLDatabase ..|> Database
     PostgreSQLDatabase ..|> Database
+
 ```
 
 ---
