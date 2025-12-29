@@ -80,44 +80,30 @@ It is a **contract**.
 - Charging port standard (USB-C)
 - Device decides internal wiring
 ---
-
 ### Interface Characteristics
 - Only method signatures
 - No implementation (conceptually)
 - Enables **polymorphism**
 - Promotes **loose coupling**
 ---
-
-## 3️⃣ Python Does NOT Have Interfaces (Directly)
+### Python Does NOT Have Interfaces (Directly)
 
 Unlike Java/C++:
-
 - Python uses **Abstract Base Classes (ABC)**
-    
 - Interfaces are **simulated** using abstract classes
-    
-
 So in Python:
-
 > **Interfaces = Abstract Classes with only abstract methods**
 
 ---
+## 3. Abstract Classes (Python’s Way)
 
-# 3. Abstract Classes (Python’s Way)
-
-## 1️⃣ What is an Abstract Class?
+### What is an Abstract Class?
 
 An **abstract class**:
-
 - Cannot be instantiated
-    
 - May contain:
-    
     - Abstract methods (must be implemented)
-        
     - Concrete methods (shared logic)
-        
-
 ---
 
 ## 2️⃣ Why Abstract Classes Exist (LLD View)
