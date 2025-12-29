@@ -196,10 +196,9 @@ Use composition when:
 - You want to avoid deep hierarchies
 - You need runtime flexibility
 - You want better testability
-
 ---
 
-### 7️⃣ Classic Interview Trap Example
+#### 7 Classic Interview Trap Example
 
 #### ❌ Wrong (Inheritance Abuse)
 
@@ -249,14 +248,9 @@ class Duck:
 Say things like:
 
 - “Composition provides loose coupling”
-    
 - “We can change behavior at runtime”
-    
 - “This avoids fragile base class issues”
-    
 - “We depend on abstractions, not concrete classes”
-    
-
 ---
 
 ### 9️ Decision Framework (Memorize This)
