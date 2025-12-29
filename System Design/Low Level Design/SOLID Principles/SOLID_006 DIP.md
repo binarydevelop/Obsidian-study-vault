@@ -7,14 +7,10 @@
 
 ---
 ## What DIP Fixes
-
 - Tight coupling
 - Rigid architectures
 - Difficult testing
-    
-
 ---
-
 ## DIP Violation
 
 ```mermaid
@@ -28,12 +24,8 @@ classDiagram
 ### Problems
 
 - Database change impacts business logic
-    
 - Hard to mock for tests
-    
-
 ---
-
 ## DIP-Compliant Design
 
 ```mermaid
