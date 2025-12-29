@@ -14,41 +14,29 @@ They are the **core tool of Encapsulation**.
     - Service panel → protected
 ---
 ## Why Access Control Matters in LLD
-
 In interviews, access modifiers help:
 - Prevent misuse of internal logic
 - Reduce coupling
 - Protect invariants
 - Make systems easier to change safely
-    
-
 > Encapsulation = **Hide internal details, expose only what is necessary**
 
 ---
-
-## 3️⃣ Python Reality (Very Important)
-
+### Python Reality (Very Important)
 ⚠️ **Python does NOT enforce access modifiers** like Java/C++.
-
 Instead, Python uses:
-
 - **Naming conventions**
-    
 - **Name mangling**
-    
 - **Developer discipline**
-    
-
 This is **expected knowledge** in interviews.
 
 ---
 
-# 4️⃣ Types of Access Modifiers (Python Style)
+## 4 Types of Access Modifiers (Python Style)
 
-## 1️⃣ Public (Default)
+### 1 Public (Default)
 
 ### Definition
-
 - Accessible from anywhere
     
 - No leading underscore
