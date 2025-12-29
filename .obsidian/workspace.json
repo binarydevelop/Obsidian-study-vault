@@ -25,18 +25,40 @@
             "id": "cb10c68990e45bde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/Synchronous calls.png"
               },
-              "icon": "lucide-file",
-              "title": "SOLID_006 DIP"
+              "icon": "lucide-image",
+              "title": "Synchronous calls"
+            }
+          },
+          {
+            "id": "995da8f19dbd5b3a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Synchronous calls.png"
+              },
+              "icon": "lucide-image",
+              "title": "Synchronous calls"
+            }
+          },
+          {
+            "id": "e32c295d2ca7f332",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20251229165416.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251229165416"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,26 +244,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb10c68990e45bde",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
+    "attachments/Synchronous calls.png",
+    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
+    "Document Editor.md",
     "attachments",
     "New folder",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
-    "Document Editor.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/Practice",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
-    "Pasted image 20251229165416.png",
+    "attachments/Pasted image 20251229165416.png",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
-    "Synchronous calls.png",
-    "response.png",
-    "Pasted image 20251228161158.png",
-    "Pasted image 20251228105734.png",
-    "Pasted image 20251228105729.png",
-    "Pasted image 20251228105525.png",
-    "alt.png",
+    "attachments/response.png",
+    "attachments/Pasted image 20251228161158.png",
+    "attachments/Pasted image 20251228105734.png",
+    "attachments/Pasted image 20251228105729.png",
+    "attachments/Pasted image 20251228105525.png",
+    "attachments/alt.png",
     "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
@@ -249,7 +271,7 @@
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/SOLID Principles",
     "Unconfirmed 449269.crdownload",
-    "activation.png",
+    "attachments/activation.png",
     "Unconfirmed 735608.crdownload",
     "Unconfirmed 522105.crdownload",
     "Unconfirmed 293188.crdownload",
@@ -264,7 +286,6 @@
     "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
     "System Design/Low Level Design/UML Diagrams",
     "System Design/Low Level Design/OOPs",
-    "Why OO",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "System Design/Low Level Design/002_Classes and Objects.md",
