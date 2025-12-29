@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages and Frameworks/Python/OOPS/PY_OOPS_002 Composition vs Inheritance.md",
+                "file": "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PY_OOPS_002 Composition vs Inheritance"
+              "title": "OOP_006_Class Relationships"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "b174c6ba98fae110",
   "lastOpenFiles": [
-    "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_002 Composition vs Inheritance.md",
+    "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/OOPS/Untitled 1.md",
     "Backend Engineering/Communication protocols.md",
     "Languages and Frameworks/Python/OOPS",
