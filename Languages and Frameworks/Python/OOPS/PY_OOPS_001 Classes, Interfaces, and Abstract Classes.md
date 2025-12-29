@@ -60,18 +60,13 @@ def is_valid_id(user_id: int) -> bool:
 ```
 ---
 ### LLD Perspective on Classes
-
 In interviews:
 - **One class = one responsibility**
 - Classes should be:
     - Cohesive
     - Small
-        
     - Easily testable
-        
 - Avoid **god classes**
-    
-
 ---
 
 # 2. Interfaces (Conceptual Understanding)
