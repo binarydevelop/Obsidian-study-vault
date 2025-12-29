@@ -1,7 +1,8 @@
 # 5. Interface Segregation Principle (ISP)
 ## Definition
 > **Clients should not be forced to depend on interfaces they do not use.**
-> They should not be forced to
+> They should not be forced to implement methods which they dont use. 
+> Many client specific interfac
 ---
 ## Core Idea
 - Prefer **small, role-specific interfaces**
