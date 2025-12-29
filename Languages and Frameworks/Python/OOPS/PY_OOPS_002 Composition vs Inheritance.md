@@ -16,22 +16,13 @@ Inheritance means:
 - Dog **is an** Animal
 - Car **is a** Vehicle
 ---
-
 #### 2. Technical Definition
-
 Inheritance allows a subclass to:
-
 - Reuse parent class code
-    
 - Override behavior
-    
 - Extend functionality
-    
-
 It creates a **tight coupling** between parent and child.
-
 ---
-
 #### 3. Python Inheritance Example
 
 ```python
