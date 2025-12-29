@@ -1,26 +1,14 @@
-Below are **detailed, interview-ready notes** on , explained **from first principles**, then mapped **cleanly to Python**, and finally tied back to **LLD expectations**.
-
----
-
+***Tags***: #Python #lld #oops #systemdesign 
 # 1. Classes (Foundation of LLD)
-
-## 1️⃣ What is a Class? (Intuition)
+### What is a Class? (Intuition)
 
 A **class** is a **blueprint** that defines:
-
 - **Data** → attributes (state)
-    
 - **Behavior** → methods (functions)
-    
-
 An **object** is an instance created from that blueprint.
-
 **Real-world analogy**
-
 - Class → Car design
-    
 - Object → A specific car (red Honda, blue Tesla)
-    
 
 ---
 
