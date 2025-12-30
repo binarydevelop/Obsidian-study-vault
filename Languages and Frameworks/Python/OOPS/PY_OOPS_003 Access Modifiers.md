@@ -74,7 +74,7 @@ class SavingsAccount(Account):
 ### Interview Note
 > “Protected members are accessible but discouraged for external use.”
 ---
-## 3️⃣ Private (`__variable`) – Name Mangling
+### Private (`__variable`) – Name Mangling
 ### Definition
 - Double underscore prefix
 - Triggers **name mangling**
@@ -84,7 +84,6 @@ class Account:
     def __init__(self):
         self.__pin = 1234
 ```
-
 Internally becomes:
 
 ```python
