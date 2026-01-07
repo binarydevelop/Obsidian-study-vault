@@ -21,14 +21,11 @@ You think:
 > “What objects exist, and what can they do?”
 
 ---
-
 ## Key goals of OOP (the “why”)
 ### 1. **Encapsulation – control complexity**
-
 - Data and methods are wrapped together
 - Internal details are hidden
 - Objects expose only what’s necessary
-
 **Why it matters:**  
 You can change the internal implementation without breaking the rest of the program.
 
