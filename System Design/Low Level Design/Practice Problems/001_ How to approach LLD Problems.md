@@ -20,20 +20,23 @@ From requirements:
 - unpark vehicle
 - display free/occupied slots
 These usually become **methods in services/managers**.
-
-### Step 3: Identify Variations (Enums / Polymorphism)
+---
+#### Step 3: Identify Variations (Enums / Polymorphism)
 
 Whenever you see:
-
 - “different types”
-    
 - “rules based on type”
-    
-
 → Use **enum or inheritance**
 
 Examples:
-
 - VehicleType: CAR, BIKE, TRUCK
-    
 - SlotType: CAR, BIKE, TRUCK
+---
+#### Step 4: Decide Responsibility (SOLID Thinking)
+
+Ask:
+- Who owns slots? → Floor
+- Who owns floors? → ParkingLot
+- Who decides parking logic? → ParkingLotService
+- Who generates tickets? → TicketService
+Avoid god objects.
