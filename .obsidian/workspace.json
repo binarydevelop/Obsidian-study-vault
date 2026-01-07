@@ -11,17 +11,14 @@
             "id": "9d492200d3f0900d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": -17.5,
-                  "zoom": -0.2837929660005915
-                }
+                "file": "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "OOP_001 Why OOPs exists"
             }
           }
         ]
@@ -212,6 +209,7 @@
   },
   "active": "9d492200d3f0900d",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_003 Access Modifiers.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_002 Composition vs Inheritance.md",
@@ -244,7 +242,6 @@
     "attachments/Pasted image 20251228105729.png",
     "attachments/Pasted image 20251228105525.png",
     "attachments/alt.png",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles",
@@ -258,7 +255,6 @@
     "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
-    "System Design/Low Level Design/002_Classes and Objects.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/LLD/System Desin.canvas"
   ]
