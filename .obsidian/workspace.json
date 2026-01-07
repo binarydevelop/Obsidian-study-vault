@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
+                "file": "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP_002_Abstraction"
+              "title": "OOP_003_Encapsulation"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "9d492200d3f0900d",
   "lastOpenFiles": [
+    "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
     "System Design/Low Level Design/OOPs/OOP_001 Why OOPs exists.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
@@ -252,7 +253,6 @@
     "Pasted image 20251228185457.png",
     "Backend Engineering/Peer-to-Peer architecture.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
-    "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
