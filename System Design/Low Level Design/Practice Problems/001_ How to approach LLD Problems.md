@@ -40,3 +40,9 @@ Ask:
 - Who decides parking logic? → ParkingLotService
 - Who generates tickets? → TicketService
 Avoid god objects.
+---
+#### Step 5: Data Structures (Important for Interviews)
+Choosing the **right DS** is critical:
+- Floors in a list (ordered)
+- Slots in a list (slot number = index + 1)
+- Active tickets in a map `<ticketId, Ticket>`
