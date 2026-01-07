@@ -36,9 +36,7 @@ You can change the internal implementation without breaking the rest of the prog
 Just like driving a car without knowing engine mechanics, developers can use components without understanding their internals.
 
 ---
-
 ### 3. **Reusability – avoid rewriting code**
-
 - Classes can be reused across projects
 - Inheritance and composition enable extension
 **Why it matters:**  
@@ -46,7 +44,6 @@ Less code, fewer bugs, faster development.
 
 ---
 ### 4. **Maintainability – easier changes**
-
 - Code is modular
 - Changes are localized
 **Why it matters:**  
@@ -54,23 +51,19 @@ Large applications evolve constantly. OOP makes change safer.
 
 ---
 ### 5. **Scalability – support large systems & teams**
-
 - Clear responsibilities per object
 - Easier collaboration
 **Why it matters:**  
 Most real-world software is built by teams, not individuals.
 
 ---
-
 ## Real-world analogy
-
 Think of a **TV remote**:
 - You press buttons (methods)
 - You don’t see the circuitry (data)
 - The interface stays the same even if internals change
 That’s OOP in action.
 ---
-
 ## One-line summary
 
 > **OOP exists to manage complexity by organizing software around objects that mirror real-world entities, making large systems easier to build, understand, and maintain.**
