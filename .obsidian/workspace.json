@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": 1066.2506865980013,
-                  "y": 385.9290353216426,
-                  "zoom": -1.2746485230637343
+                  "x": -562.6756530911437,
+                  "y": -50.67402954600624,
+                  "zoom": -0.6863033829479261
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "2e98aabc37a9b47a",
   "lastOpenFiles": [
-    "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
+    "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/_roadmap_system_design.canvas",
     "Untitled.canvas",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
@@ -260,7 +260,6 @@
     "Pasted image 20251228185457.png",
     "Backend Engineering/Peer-to-Peer architecture.md",
     "System Design/Low Level Design/Roadmap.md",
-    "System Design/Low Level Design/001_Low Level Design – Foundations.md",
     "System Design/LLD/System Desin.canvas"
   ]
 }
