@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
+                "file": "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001_ How to approach LLD Problems"
+              "title": "OOP_006_Class Relationships"
             }
           }
         ],
@@ -225,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "dac5bf0030f6a70e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
+    "Untitled.canvas",
     "System Design/Low Level Design/Practice Problems",
     "Untitled",
     "System Design/_roadmap_system_design.canvas",
@@ -237,7 +238,6 @@
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
-    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
