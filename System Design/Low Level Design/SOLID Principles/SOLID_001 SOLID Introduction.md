@@ -55,14 +55,9 @@ graph TD
 
 - SRP improves clarity
 - OCP enables safe change
-    
 - LSP ensures correctness
-    
 - ISP reduces coupling
-    
 - DIP inverts dependency flow
-    
-
 ---
 
 # 8. Final Mental Model
