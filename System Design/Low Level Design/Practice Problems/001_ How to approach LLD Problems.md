@@ -1,4 +1,4 @@
-#### Example: Parking Lot
+#### Example: Parking Lot https://workat.tech/machine-coding/practice/design-parking-lot-qm6hwq4wkhp8
 
 #### Step 1: Identify Core Entities (Nouns → Classes)
 Underline nouns in the problem statement:
@@ -13,18 +13,27 @@ Each usually becomes a **class**.
 #### Step 2: Identify Behaviors (Verbs → Methods)
 
 From requirements:
-
 - create parking lot
-    
 - add floors
-    
 - add slots
-    
 - park vehicle
-    
 - unpark vehicle
-    
 - display free/occupied slots
+These usually become **methods in services/managers**.
+
+### Step 3: Identify Variations (Enums / Polymorphism)
+
+Whenever you see:
+
+- “different types”
+    
+- “rules based on type”
     
 
-These usually become **methods in services/managers**.
+→ Use **enum or inheritance**
+
+Examples:
+
+- VehicleType: CAR, BIKE, TRUCK
+    
+- SlotType: CAR, BIKE, TRUCK
