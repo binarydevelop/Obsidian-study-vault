@@ -1,23 +1,4 @@
 {
-	"nodes":[
-		{"id":"35eb3f0d1093b0c6","type":"text","text":"System Design","x":297,"y":-112,"width":153,"height":50,"color":"1"},
-		{"id":"a9cf02ba91a71bc5","type":"text","text":"High Level Design [HLD]","x":505,"y":-5,"width":205,"height":60},
-		{"id":"3bf61e1cfc0876e9","type":"text","text":"Low Level Design [LLD]","x":-10,"y":-5,"width":220,"height":50,"color":"2"},
-		{"id":"5e004d1f27447e05","type":"text","text":"UML Diagrams","x":-481,"y":63,"width":151,"height":50,"color":"4"},
-		{"id":"2eaf3d3ac51ec646","type":"text","text":"Object Oriented Programming [OOPS]","x":-250,"y":55,"width":217,"height":50,"color":"4"},
-		{"id":"24bdb78a7d6a08a5","type":"text","text":"SOLID Principles","x":-710,"y":63,"width":180,"height":50,"color":"4"},
-		{"id":"50672e96cf6610e6","x":-1053,"y":-95,"width":153,"height":50,"type":"text","text":"LLD PRACTICE"},
-		{"id":"2d4e18c27c37c14b","x":-900,"y":260,"width":100,"height":50,"type":"text","text":"Python"},
-		{"id":"faef6ff1ba5156d1","x":-780,"y":3,"width":250,"height":60,"type":"text","text":"Languages and Frameworks"}
-	],
-	"edges":[
-		{"id":"c508d7143185e8cc","fromNode":"35eb3f0d1093b0c6","fromSide":"bottom","toNode":"3bf61e1cfc0876e9","toSide":"top"},
-		{"id":"84b2419c094c3fc2","fromNode":"35eb3f0d1093b0c6","fromSide":"bottom","toNode":"a9cf02ba91a71bc5","toSide":"top"},
-		{"id":"04592e52734938a9","fromNode":"3bf61e1cfc0876e9","fromSide":"left","toNode":"2eaf3d3ac51ec646","toSide":"right"},
-		{"id":"2e5072e3ef1ccd8e","fromNode":"5e004d1f27447e05","fromSide":"left","toNode":"24bdb78a7d6a08a5","toSide":"right"},
-		{"id":"1d10ec1f75d42a38","fromNode":"2eaf3d3ac51ec646","fromSide":"left","toNode":"5e004d1f27447e05","toSide":"right"},
-		{"id":"0cdaf9cf5d6a75aa","fromNode":"faef6ff1ba5156d1","fromSide":"left","toNode":"2d4e18c27c37c14b","toSide":"right"},
-		{"id":"549469b052bc4278","fromNode":"24bdb78a7d6a08a5","fromSide":"left","toNode":"2d4e18c27c37c14b","toSide":"right"},
-		{"id":"88f9b641bbeec670","fromNode":"2d4e18c27c37c14b","fromSide":"left","toNode":"50672e96cf6610e6","toSide":"right"}
-	]
+	"nodes":[],
+	"edges":[]
 }

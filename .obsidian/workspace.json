@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": -458.4414044309618,
-                  "y": -41.90737808323334,
-                  "zoom": -0.6666666666666666
+                  "x": -390,
+                  "y": -42.5,
+                  "zoom": -0.304257068560307
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "7462dcae74c87f46",
   "lastOpenFiles": [
-    "System Design/_roadmap_system_design.canvas",
     "Untitled.canvas",
+    "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
