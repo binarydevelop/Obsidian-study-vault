@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
+                "file": "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID_004 LSP"
+              "title": "SOLID_005 ISP"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "9d492200d3f0900d",
   "lastOpenFiles": [
+    "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
@@ -238,7 +239,6 @@
     "attachments",
     "New folder",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/Practice",
     "attachments/response.png",
     "attachments/Pasted image 20251228161158.png",
