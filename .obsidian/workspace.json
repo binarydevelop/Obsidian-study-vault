@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c2456c82b07fa31b",
+        "id": "b9990f2413f064f4",
         "type": "tabs",
         "children": [
           {
-            "id": "9d492200d3f0900d",
+            "id": "7462dcae74c87f46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -42.5,
+                  "zoom": -0.304257068560307
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sequence Diagram"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -207,10 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d492200d3f0900d",
+  "active": "7462dcae74c87f46",
   "lastOpenFiles": [
-    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
+    "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
+    "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
+    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
@@ -232,8 +237,6 @@
     "Languages and Frameworks/Python",
     "Languages and Frameworks",
     "Untitled",
-    "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
-    "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "Document Editor.md",
