@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
+                "file": "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP_005_Polymorphism"
+              "title": "OOP_006_Class Relationships"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "9d492200d3f0900d",
   "lastOpenFiles": [
+    "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
     "System Design/Low Level Design/OOPs/OOP_002_Abstraction.md",
@@ -227,7 +228,6 @@
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
-    "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",

@@ -178,11 +178,9 @@ print(p1 + p2)
 ## Real-World Analogy
 
 - **Payment** system:
-    
     - Credit Card → pay()
     - UPI → pay()
     - Cash → pay()
-
 Same method name, different implementations.
 
 ---
