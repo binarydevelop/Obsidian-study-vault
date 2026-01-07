@@ -193,14 +193,9 @@ issubclass(Dog, Animal) # True
 ## Real-World Analogy
 
 - Parent: **Vehicle**
-    
 - Child: **Car, Bike**
-    
 - All vehicles have engines, but each works differently
-    
-
 ---
-
 ## Inheritance vs Composition (Quick Note)
 
 |Inheritance|Composition|
@@ -214,19 +209,13 @@ issubclass(Dog, Animal) # True
 ## Summary
 
 - Inheritance allows **code reuse**
-    
 - Child class can:
-    
     - Use parent methods
-        
     - Override them
-        
 - Python supports:
-    
     - Single
-        
     - Multilevel
-        
+
     - Multiple
         
     - Hierarchical
