@@ -42,13 +42,6 @@ graph TD
 
 ---
 
-
-
-
-
-
----
-
 # 7. How SOLID Principles Work Together
 
 ```mermaid
@@ -61,7 +54,6 @@ graph TD
 ```
 
 - SRP improves clarity
-    
 - OCP enables safe change
     
 - LSP ensures correctness
