@@ -14,7 +14,6 @@ In simple terms:
 - Supports hierarchical classification
 
 ---
-
 ## Basic Syntax
 
 ```python
