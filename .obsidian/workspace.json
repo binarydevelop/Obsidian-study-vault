@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b9990f2413f064f4",
+        "id": "84cab076039b2761",
         "type": "tabs",
         "children": [
           {
-            "id": "7462dcae74c87f46",
+            "id": "2e98aabc37a9b47a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
+                "file": "Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -390,
-                  "y": -42.5,
-                  "zoom": -0.304257068560307
+                  "x": -1523.4737195747036,
+                  "y": -283.76041594311914,
+                  "zoom": -0.2746485230637345
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "title": "_roadmap_backend_engineering"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 269.5
   },
   "right": {
     "id": "6ca05cb2701d8058",
@@ -210,10 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7462dcae74c87f46",
+  "active": "2e98aabc37a9b47a",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
+    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/_roadmap_system_design.canvas",
+    "Untitled.canvas",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
@@ -259,7 +261,6 @@
     "Backend Engineering/Peer-to-Peer architecture.md",
     "System Design/Low Level Design/Roadmap.md",
     "System Design/Low Level Design/001_Low Level Design – Foundations.md",
-    "Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/LLD/System Desin.canvas"
   ]
 }
