@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "984c8e3be4f517b3",
+        "id": "c2456c82b07fa31b",
         "type": "tabs",
         "children": [
           {
-            "id": "b174c6ba98fae110",
+            "id": "9d492200d3f0900d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": -17.5,
+                  "zoom": -0.2837929660005915
+                }
               },
-              "icon": "lucide-file",
-              "title": "Arrows and their meaning"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -207,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b174c6ba98fae110",
+  "active": "9d492200d3f0900d",
   "lastOpenFiles": [
+    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_003 Access Modifiers.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_002 Composition vs Inheritance.md",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
@@ -220,7 +224,6 @@
     "Untitled",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/UML diagrams.md",
-    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
