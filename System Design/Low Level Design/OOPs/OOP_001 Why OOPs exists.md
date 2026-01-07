@@ -11,12 +11,10 @@ Early programs were written as long sequences of instructions and functions. As 
 - Reusing code was difficult
 - Large teams struggled to work on the same codebase
 OOP was created to **manage complexity** by modeling software the way we think about the real world.
-
 ---
 ## Core reason OOP exists
 
  **To organize code around “objects” that bundle data + behavior together.**
-
 Instead of thinking:
 > “What functions do I call?”
 You think:
