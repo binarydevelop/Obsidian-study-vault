@@ -87,12 +87,8 @@ classDiagram
 ISP is about **client perspective**, not implementation convenience.
 
 ---
-
 ## ISP Smell
 
 - Interfaces with many unrelated methods
-    
 - Frequent “empty” method implementations
-    
-
 ---
