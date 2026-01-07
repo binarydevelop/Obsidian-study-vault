@@ -2,7 +2,6 @@
 
 **Abstraction** is an Object-Oriented Programming (OOP) concept that focuses on **hiding implementation details** and **showing only what is essential** to the user.  
 It answers the question: **“What an object does” rather than “How it does it.”**
-
 In Python, abstraction is mainly achieved using:
 1. **Abstract Base Classes (ABCs)**
 2. **Abstract methods**
