@@ -3,6 +3,7 @@
 # 2. Single Responsibility Principle (SRP)
 #### Definition
 > **A class should have only one reason to change.**
+
 This means:
 - One **primary responsibility**
 - One **axis of change**
