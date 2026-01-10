@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
+                "file": "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID_002 SRP"
+              "title": "SOLID_003 OCP"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "dac5bf0030f6a70e",
   "lastOpenFiles": [
+    "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
@@ -244,7 +245,6 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
