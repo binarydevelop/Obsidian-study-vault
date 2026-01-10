@@ -15,9 +15,9 @@
               "state": {
                 "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": -585.3684034692739,
-                  "y": -42.5,
-                  "zoom": -0.5070036782870138
+                  "x": -985.5084906258832,
+                  "y": 229.84733566284012,
+                  "zoom": -0.17367034495368067
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "2c1042298eb315ac",
   "lastOpenFiles": [
     "Languages and Frameworks/Python/Classes and Objects",
     "System Design/_roadmap_system_design.canvas",
