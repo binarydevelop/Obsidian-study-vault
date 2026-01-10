@@ -12,14 +12,9 @@ It is called **before** `__init__`.
 __new__  →  creates the object
 __init__ →  initializes the object
 ```
-
 - `__new__` **must return an object**
-    
 - `__init__` **returns nothing**
-    
-
 ---
-
 ## Basic idea with an example
 
 ```python
