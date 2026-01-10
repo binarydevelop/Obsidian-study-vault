@@ -145,18 +145,11 @@ I am not an A instance <class 'str'>
 ---
 
 ## Key rules you MUST remember
-
 1. `__new__` is a **class method** (first argument is `cls`)
-    
 2. It **must return an object**
-    
 3. If it returns an instance of `cls` → `__init__` runs
-    
 4. If it returns something else → `__init__` is skipped
-    
 5. Needed mainly for **immutables and design patterns**
-    
-
 ---
 
 ## When should YOU use `__new__`?
