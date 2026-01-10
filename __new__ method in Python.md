@@ -46,18 +46,11 @@ __init__ called
 
 Most of the time, **you do NOT need `__new__`**.  
 You override it only when you want to:
-
 1. Control **object creation**
-    
 2. Return **an existing object**
-    
 3. Work with **immutable types**
-    
 4. Implement **Singleton / Flyweight**
-    
 5. Modify what class actually gets instantiated
-    
-
 ---
 
 ## Example 1: `__new__` with arguments
