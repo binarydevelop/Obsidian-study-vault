@@ -15,7 +15,7 @@
               "state": {
                 "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": -470,
+                  "x": -585.3684034692739,
                   "y": -42.5,
                   "zoom": -0.5070036782870138
                 }
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "2c1042298eb315ac",
   "lastOpenFiles": [
     "System Design/_roadmap_system_design.canvas",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
