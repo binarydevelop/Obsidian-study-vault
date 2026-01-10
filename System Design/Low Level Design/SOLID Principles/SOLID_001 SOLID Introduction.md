@@ -1,5 +1,4 @@
 ***Tags***: #lld #oops #SOLID #designpatterns
-
 ---
 # SOLID Principles
 ## 1. Introduction to SOLID
