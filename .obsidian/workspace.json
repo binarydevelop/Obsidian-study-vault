@@ -4,42 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "84cab076039b2761",
+        "id": "0d6e245c580aa933",
         "type": "tabs",
         "children": [
           {
-            "id": "2e98aabc37a9b47a",
+            "id": "2c1042298eb315ac",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": -562.6756530911437,
-                  "y": -50.67402954600624,
-                  "zoom": -0.6863033829479261
+                  "x": -470,
+                  "y": -42.5,
+                  "zoom": -0.5070036782870138
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "_roadmap_system_design"
             }
-          },
-          {
-            "id": "dac5bf0030f6a70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOLID_005 ISP"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dac5bf0030f6a70e",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
+    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
@@ -237,14 +225,11 @@
     "Untitled.canvas",
     "System Design/Low Level Design/Practice Problems",
     "Untitled",
-    "System Design/_roadmap_system_design.canvas",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "System Design/Low Level Design/OOPs/OOP_004_Inheritance.md",
     "System Design/Low Level Design/OOPs/OOP_003_Encapsulation.md",
