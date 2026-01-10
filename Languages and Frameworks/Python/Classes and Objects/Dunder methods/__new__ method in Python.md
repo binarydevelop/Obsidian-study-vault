@@ -155,32 +155,8 @@ I am not an A instance <class 'str'>
 ## When should YOU use `__new__`?
 
 Use `__new__` **only if**:
-
 - You are implementing **design patterns**
-    
 - You are subclassing **immutable types**
-    
 - You need **strict control over object creation**
-    
-
 Otherwise → **use `__init__`**
-
 ---
-
-## Next step (hands-on path)
-
-Since you said you want to **learn design patterns in Python**, the natural next step is:
-
-👉 **Singleton pattern using `__new__` vs metaclass**  
-👉 Then **Factory pattern** (where `__new__` concepts help)
-
-If you want, I can:
-
-- Give **exercises**
-    
-- Compare `__new__` vs `__init__` visually
-    
-- Jump straight into **design patterns roadmap**
-    
-
-Just tell me how you want to proceed.
