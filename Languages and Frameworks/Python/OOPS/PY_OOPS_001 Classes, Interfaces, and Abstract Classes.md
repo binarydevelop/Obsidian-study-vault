@@ -48,7 +48,6 @@ def method(self):
 - Class methods are not instance specific. 
 - Define a class method using @classmethod decorator, the first argument must be a reference to itself conventionally ``cls`` . 
 - Class methods can access class attributes (variables defined directly in the class body)
-- 
 ```python
 from datetime import date
 
