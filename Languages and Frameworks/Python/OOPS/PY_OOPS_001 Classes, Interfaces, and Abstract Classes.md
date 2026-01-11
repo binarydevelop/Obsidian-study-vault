@@ -88,6 +88,9 @@ print(Person.display_user_count())
 
 ```
 #### Static Methods
+- belongs to a class rather than an instance of the class
+- Unlike instance methods (which receive `self`) and class methods (which receive `cls`), a static method receives no implicit first argument.
+- Cannot modify instance specific or c
 ```python
 @staticmethod
 def is_valid_id(user_id: int) -> bool:
