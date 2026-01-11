@@ -11,7 +11,6 @@ An **object** is an instance created from that blueprint.
 - Object → A specific car (red Honda, blue Tesla)
 ---
 ### Technical Definition
-
 A class bundles:
 - **Attributes** (instance variables)
 - **Methods** (functions operating on the data)
