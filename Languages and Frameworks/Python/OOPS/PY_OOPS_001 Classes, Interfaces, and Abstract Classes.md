@@ -39,7 +39,6 @@ class User:
 - Methods operate on instance state
 ---
 ### Types of Methods in Python Classes
-
 #### Instance Methods (Most Common)
 ```python
 def method(self):
