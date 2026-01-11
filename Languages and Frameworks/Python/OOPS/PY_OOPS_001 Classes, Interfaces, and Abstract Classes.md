@@ -45,10 +45,45 @@ def method(self):
     pass
 ```
 #### Class Methods
+- Class methods are not instance specific. 
 ```python
-@classmethod
-def from_string(cls, data: str):
-    return cls(...)
+from datetime import date
+
+class Person:
+    # A class attribute (shared by all instances)
+    active_users = 0
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        Person.active_users += 1
+
+    def display(self):
+        return f"{self.name}'s age is: {self.age}"
+
+    # A class method to create a Person instance from a birth year
+    @classmethod
+    def from_birth_year(cls, name, birthYear):
+        # Calculate age and return a new instance of the class (cls)
+        age = date.today().year - birthYear
+        return cls(name, age) # Equivalent to Person(name, age)
+
+    # Another class method to access and modify a class variable
+    @classmethod
+    def display_user_count(cls):
+        return f"There are currently {cls.active_users} active users."
+
+# Normal instance creation using __init__
+person1 = Person('Adam', 19)
+print(person1.display())
+
+# Instance creation using the class method (factory method)
+person2 = Person.from_birth_year('John', 1985)
+print(person2.display())
+
+# Calling a class method to get class-level info
+print(Person.display_user_count())
+
 ```
 #### Static Methods
 ```python
