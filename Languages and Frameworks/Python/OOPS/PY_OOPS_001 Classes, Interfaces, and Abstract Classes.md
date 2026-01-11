@@ -46,6 +46,7 @@ def method(self):
 ```
 #### Class Methods
 - Class methods are not instance specific. 
+- Define a class method using @classmethod decorator, the first argument must be a re 
 ```python
 from datetime import date
 
