@@ -92,11 +92,22 @@ print(Person.display_user_count())
 - Unlike instance methods (which receive `self`) and class methods (which receive `cls`), a static method receives no implicit first argument.
 - Cannot modify instance specific or class specific data 
 - Static methods can be called directly unlike the class methods (e.g. ClassName.method() ) or the instance methods (instance.method()) without needing to create a class instance. 
-- 
 ```python
-@staticmethod
-def is_valid_id(user_id: int) -> bool:
-    return user_id > 0
+class MathOperations:
+    @staticmethod
+    def add(x, y):
+        """A static method to add two numbers."""
+        return x + y
+
+# Call the static method directly on the class
+result_class = MathOperations.add(5, 10)
+print(f"Result via class: {result_class}") # Output: Result via class: 15
+
+# You can also call it on an instance, though it's less common
+instance = MathOperations()
+result_instance = instance.add(15, 5)
+print(f"Result via instance: {result_instance}") # Output: Result via instance: 20
+
 ```
 ---
 ### LLD Perspective on Classes
