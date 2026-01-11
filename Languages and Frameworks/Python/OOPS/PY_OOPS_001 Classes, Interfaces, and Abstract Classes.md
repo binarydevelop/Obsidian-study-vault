@@ -91,7 +91,7 @@ print(Person.display_user_count())
 - belongs to a class rather than an instance of the class
 - Unlike instance methods (which receive `self`) and class methods (which receive `cls`), a static method receives no implicit first argument.
 - Cannot modify instance specific or class specific data 
-- 
+- Static methods can be called directly on the class 
 ```python
 @staticmethod
 def is_valid_id(user_id: int) -> bool:
