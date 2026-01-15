@@ -11,5 +11,8 @@
 
 - In order to copy we do the below:
 ```python
-a = [1]
+a = [1,2,3]
+b = a.copy()
+
 ```
+
