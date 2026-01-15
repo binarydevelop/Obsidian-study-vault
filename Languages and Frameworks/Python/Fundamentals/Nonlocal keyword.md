@@ -13,6 +13,7 @@
 	  inner()
 	  print(a)
 	  
-outer() #inner
+outer() 
 print(a) 
   ```
+- In the above example the value of a will be modified from the nea
