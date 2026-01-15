@@ -18,10 +18,18 @@ print(a)
   ```
 - In the above example the value of a will be modified from the nearest enclosing scope but not the global one so the value of a in the outer function is modified to inner rather than outer. 
 - `nonlocal` would only find the variable one level up and stop will not modify all of them. 
+-
 	```python
 	def outer():
 		a = "outer"
 		def inner():
-			def  deepinner():
-			
+			def deepinner():
+			 nonlocal a 
+			 a = "deepest"
+			 
+			 deepinner()
+		inner()
+		
+	outer()
+	print(a) 
 	```
