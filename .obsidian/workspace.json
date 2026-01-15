@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "tag:#internalfunctions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8e87e132349ac8",
+  "active": "06f4747a8f99040b",
   "lastOpenFiles": [
     "Untitled.md",
     "Languages and Frameworks/Python/Internal functions in python/map function in python.md",
