@@ -4,5 +4,7 @@
 -  It always returns the string
 ```python 
 
+a = input("Enter your name")
+b = int(input("Enter your age"))
 
 ```
