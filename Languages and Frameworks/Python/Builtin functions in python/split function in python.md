@@ -13,4 +13,8 @@
 sentence = "Python is a powerful language"
 words = sentence.split()
 print(words)
+
+listofFruits = "Apple,Guava,Orange"
+fruits = listofFruits.split(',')
+print
 ```
