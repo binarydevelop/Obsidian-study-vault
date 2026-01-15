@@ -33,3 +33,4 @@ print(a)
 	print(a) 
 			
 	```
+- Without `nonlocal`, attempting to assign a value to a variable with the same name in the inner function would create a new local variable, leaving the outer function's variable unchanged.
