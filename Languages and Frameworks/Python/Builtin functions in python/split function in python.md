@@ -16,5 +16,17 @@ print(words)
 
 listofFruits = "Apple,Guava,Orange"
 fruits = listofFruits.split(',')
-print
+print(fruits) 
+## delimeter separtion
+```
+
+#### Limiting the Number of Splits (`maxsplit`)
+
+The `maxsplit` parameter controls the number of splits, resulting in a list with at most `maxsplit` + 1 elements. 
+
+```python
+log_entry = "INFO:user_logged_in:2025-09-22:success"
+parts = log_entry.split(":", maxsplit=2)
+print(parts)
+# Output: ['INFO', 'user_logged_in', '2025-09-22:success']
 ```
