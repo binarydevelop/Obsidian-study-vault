@@ -10,3 +10,8 @@ a = b = c = 50
 ```python
 a, b, c = 10,20,30
 ```
+
+### Type Casting
+
+
+a = str(10)
