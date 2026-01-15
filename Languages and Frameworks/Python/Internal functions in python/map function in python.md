@@ -24,7 +24,7 @@ squared_numbers = list(result_iterator)
 print(squared_numbers)
 # Output: [2, 4, 6, 8, 10]
 ```
-```
+
 #### Key Characteristics
 - **Returns an Iterator**: In Python 3, `map()` returns a lazy iterator (a `map` object), which computes results on demand, making it memory-efficient for large datasets. You can convert it to a list, tuple, or set using their respective constructor functions (e.g., `list(result)`).
 - **Does Not Mutate Original Data**: The original iterable remains unchanged.
