@@ -7,6 +7,12 @@
 	  a = "Outer"
 	  def inner():
 		  nonlocal a 
-		  a = "inner"
-	
+			a = "inner"
+	        print(a)
+	        
+	  inner()
+	  print(a)
+	  
+outer() #inner
+print(a) 
   ```
