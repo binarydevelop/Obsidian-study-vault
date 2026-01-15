@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages and Frameworks/Python/Internals/Memory Management.md",
+                "file": "Languages and Frameworks/Python/Fundamentals/input keyword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Management"
+              "title": "input keyword"
             }
           }
         ]
@@ -209,10 +209,10 @@
   },
   "active": "182c48281c199242",
   "lastOpenFiles": [
-    "Languages and Frameworks/Python/Fundamentals/Untitled.md",
+    "Languages and Frameworks/Python/Fundamentals/Assignment.md",
+    "Languages and Frameworks/Python/Fundamentals/input keyword.md",
     "Languages and Frameworks/Python/Internals/Memory Management.md",
     "Languages and Frameworks/Python/Internals",
-    "Languages and Frameworks/Python/Fundamentals/Assignment.md",
     "Languages and Frameworks/Python/Fundamentals/Nonlocal keyword.md",
     "System Design/Low Level Design/Design Patterns/Creational/Singleton Pattern.md",
     "Languages and Frameworks/Python/Fundamentals",
