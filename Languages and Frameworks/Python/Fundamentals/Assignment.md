@@ -13,5 +13,6 @@ a, b, c = 10,20,30
 
 ### Type Casting
 
-
+```python
 a = str(10)
+```
