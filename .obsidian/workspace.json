@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
+                "file": "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split function in python"
+              "title": "map function in python"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "182c48281c199242",
   "lastOpenFiles": [
-    "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
+    "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
     "Languages and Frameworks/Python/Fundamentals/input keyword.md",
     "Untitled.md",
     "Languages and Frameworks/Python/Builtin functions in python",

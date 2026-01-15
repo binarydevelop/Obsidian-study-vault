@@ -1,4 +1,4 @@
-***tags***: #Python #fundamentals #builtinfunctions
+***tags***: #Python #fundamentals #builtinfunctions #literablefunction
 
 - The Python `map()` function ==applies a given function to each item in an iterable (like a list or tuple) and returns a **`map` object**, which is an iterator==.
 #### Syntax
