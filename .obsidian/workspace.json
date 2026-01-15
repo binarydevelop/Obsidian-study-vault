@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "Singleton Pattern"
             }
+          },
+          {
+            "id": "81d3ee93f43c6345",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "81d3ee93f43c6345",
   "lastOpenFiles": [
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods/__new__ method in Python.md",
     "System Design/Low Level Design/Design Patterns/Creational/Singleton Pattern.md",
