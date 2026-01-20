@@ -239,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac896884ced51f4a",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
+    "System Design/High Level Design/Computer Networking/Protocols",
     "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/_roadmap_system_design.canvas",
@@ -279,7 +280,6 @@
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
-    "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
