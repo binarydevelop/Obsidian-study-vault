@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "_roadmap_system_design"
             }
+          },
+          {
+            "id": "e4b15577c802a989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. How does the internet work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. How does the internet work"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +225,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "182c48281c199242",
+  "active": "e4b15577c802a989",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
+    "00. How does the internet work.md",
+    "System Design/High Level Design/Computer Networking",
+    "System Design/High Level Design",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
-    "Untitled.md",
     "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
     "Languages and Frameworks/Python/Fundamentals/input keyword.md",
     "Languages and Frameworks/Python/Builtin functions in python",
@@ -231,9 +249,7 @@
     "System Design/Low Level Design/Design Patterns/Behavioural",
     "System Design/Low Level Design/Design Patterns/Creational",
     "System Design/Low Level Design/Design Patterns",
-    "System Design/_roadmap_system_design.canvas",
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods",
-    "Languages and Frameworks/Python/Classes and Objects",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
@@ -244,13 +260,11 @@
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
     "Untitled.canvas",
-    "System Design/Low Level Design/Practice Problems",
     "Backend Engineering/_roadmap_backend_engineering.canvas",
     "Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
     "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
-    "System Design/Low Level Design/OOPs/OOP_005_Polymorphism.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
