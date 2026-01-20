@@ -42,14 +42,17 @@
             "id": "ac896884ced51f4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": 319.6651077642674,
+                  "y": -28.91481718882835,
+                  "zoom": -1.1204863998080654
+                }
               },
-              "icon": "lucide-file",
-              "title": "00. How does the internet work"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ],
@@ -239,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e651b935417cfc",
+  "active": "ac896884ced51f4a",
   "lastOpenFiles": [
+    "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Protocols",
     "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
-    "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_roadmap_system_design_resource.canvas",
     "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
@@ -267,7 +270,6 @@
     "System Design/Low Level Design/Design Patterns/Structural",
     "System Design/Low Level Design/Design Patterns/Behavioural",
     "System Design/Low Level Design/Design Patterns/Creational",
-    "System Design/Low Level Design/Design Patterns",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
