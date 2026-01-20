@@ -9,9 +9,9 @@
 		{"id":"7a2d86fe0aa41c2b","type":"text","text":"UML Diagrams","x":-520,"y":-173,"width":151,"height":50},
 		{"id":"5c3b815c42eb8a86","type":"text","text":"SOLID Principles","x":-760,"y":-173,"width":180,"height":50},
 		{"id":"f1b21d10cafa9167","type":"text","text":"Design Patterns","x":-960,"y":-173,"width":173,"height":50},
-		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-25,"y":-80,"width":145,"height":52,"color":"5"},
 		{"id":"85f0bd3c013e5d78","x":-299,"y":-267,"width":176,"height":50,"color":"5","type":"text","text":"Real Python 3 Book"},
-		{"id":"89644938f9e97437","type":"text","text":"Coder Army Playlist","x":-520,"y":-81,"width":151,"height":53,"color":"5"}
+		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-248,"y":80,"width":145,"height":52,"color":"5"},
+		{"id":"6969a6e4d2e292d0","x":-998,"y":-15,"width":250,"height":60,"type":"text","text":"Refactoring Guru\n"}
 	],
 	"edges":[
 		{"id":"16de70c01f88c35a","fromNode":"a6f46ab04bd237a3","fromSide":"bottom","toNode":"c8d32ad1b68bd33f","toSide":"top"},
@@ -24,6 +24,10 @@
 		{"id":"23234d1a98ad9155","fromNode":"5c3b815c42eb8a86","fromSide":"left","toNode":"f1b21d10cafa9167","toSide":"right"},
 		{"id":"d490005c9bdfe9ed","fromNode":"c8d32ad1b68bd33f","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
 		{"id":"3b2478d586a76e8b","fromNode":"cebe478aa382c3f1","fromSide":"top","toNode":"85f0bd3c013e5d78","toSide":"bottom"},
-		{"id":"8c517b5bc36145d1","fromNode":"7a2d86fe0aa41c2b","fromSide":"bottom","toNode":"89644938f9e97437","toSide":"top"}
+		{"id":"76faf832bd2ea9f9","fromNode":"5c3b815c42eb8a86","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
+		{"id":"4e3ff451b729eeae","fromNode":"7a2d86fe0aa41c2b","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
+		{"id":"76f11ea9d238831b","fromNode":"cebe478aa382c3f1","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
+		{"id":"fd37debed0f14225","fromNode":"f1b21d10cafa9167","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
+		{"id":"ed99c057f618b2a4","fromNode":"f1b21d10cafa9167","fromSide":"bottom","toNode":"6969a6e4d2e292d0","toSide":"top"}
 	]
 }
