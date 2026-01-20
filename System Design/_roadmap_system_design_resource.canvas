@@ -9,7 +9,8 @@
 		{"id":"7a2d86fe0aa41c2b","type":"text","text":"UML Diagrams","x":-520,"y":-173,"width":151,"height":50},
 		{"id":"5c3b815c42eb8a86","type":"text","text":"SOLID Principles","x":-760,"y":-173,"width":180,"height":50},
 		{"id":"f1b21d10cafa9167","type":"text","text":"Design Patterns","x":-960,"y":-173,"width":173,"height":50},
-		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-25,"y":-80,"width":190,"height":52,"color":"5"}
+		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-25,"y":-80,"width":190,"height":52,"color":"5"},
+		{"id":"85f0bd3c013e5d78","x":-336,"y":-269,"width":176,"height":50,"type":"text","text":"Real Python 3 Book"}
 	],
 	"edges":[
 		{"id":"16de70c01f88c35a","fromNode":"a6f46ab04bd237a3","fromSide":"bottom","toNode":"c8d32ad1b68bd33f","toSide":"top"},
@@ -20,6 +21,7 @@
 		{"id":"7cfaf26467f4f7a3","fromNode":"7a2d86fe0aa41c2b","fromSide":"left","toNode":"5c3b815c42eb8a86","toSide":"right"},
 		{"id":"ae137cd81c93dec4","fromNode":"cebe478aa382c3f1","fromSide":"left","toNode":"7a2d86fe0aa41c2b","toSide":"right"},
 		{"id":"23234d1a98ad9155","fromNode":"5c3b815c42eb8a86","fromSide":"left","toNode":"f1b21d10cafa9167","toSide":"right"},
-		{"id":"d490005c9bdfe9ed","fromNode":"c8d32ad1b68bd33f","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"}
+		{"id":"d490005c9bdfe9ed","fromNode":"c8d32ad1b68bd33f","fromSide":"bottom","toNode":"c20f815331ae6f02","toSide":"top"},
+		{"id":"3b2478d586a76e8b","fromNode":"cebe478aa382c3f1","fromSide":"top","toNode":"85f0bd3c013e5d78","toSide":"bottom"}
 	]
 }
