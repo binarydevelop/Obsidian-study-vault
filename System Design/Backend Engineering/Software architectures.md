@@ -1,5 +1,5 @@
 [[Client–Server Architecture]]
-[[Peer-to-Peer architecture]]
+[[Peer-to-Peer Architecture]]
 [[Multi-Tier (N-Tier) Architecture]]
 [[Event-Driven Architecture]]
 [[Monolithic architecture]]
