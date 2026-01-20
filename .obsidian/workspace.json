@@ -40,9 +40,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "_roadmap_system_design"
             }
+          },
+          {
+            "id": "3906fb65c9eda2e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-20 17.09.28.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +240,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4b15577c802a989",
+  "active": "3906fb65c9eda2e8",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Fundamentals",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/High Level Design/Computer Networking",
     "System Design/High Level Design",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
@@ -267,7 +280,6 @@
     "System Design/Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "System Design/Low Level Design/UML Diagrams/Arrows and their meaning.md",
-    "System Design/Low Level Design/UML Diagrams/001_ UML diagrams.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
