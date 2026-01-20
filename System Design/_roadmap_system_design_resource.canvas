@@ -3,13 +3,13 @@
 		{"id":"a6f46ab04bd237a3","type":"text","text":"System Design","x":267,"y":-280,"width":153,"height":50},
 		{"id":"b7664d2bf5ed4b6e","type":"text","text":"High Level Design [HLD]","x":475,"y":-173,"width":205,"height":60},
 		{"id":"c8d32ad1b68bd33f","type":"text","text":"Low Level Design [LLD]","x":-40,"y":-173,"width":220,"height":50},
-		{"id":"7a2d86fe0aa41c2b","type":"text","text":"UML Diagrams","x":-511,"y":-105,"width":151,"height":50},
-		{"id":"cebe478aa382c3f1","type":"text","text":"Object Oriented Programming [OOPS]","x":-280,"y":-113,"width":217,"height":50},
-		{"id":"5c3b815c42eb8a86","type":"text","text":"SOLID Principles","x":-740,"y":-105,"width":180,"height":50},
-		{"id":"f1b21d10cafa9167","type":"text","text":"Design Patterns","x":-960,"y":-198,"width":173,"height":50},
 		{"id":"e7e20928f8d3c951","type":"text","text":"Computer Networking","x":780,"y":-105,"width":176,"height":50},
 		{"id":"39b4a5c53470f191","type":"text","text":"Backend Engineering","x":768,"y":-267,"width":188,"height":50},
-		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-70,"y":-12,"width":190,"height":52}
+		{"id":"cebe478aa382c3f1","type":"text","text":"Object Oriented Programming [OOPS]","x":-320,"y":-173,"width":217,"height":50},
+		{"id":"7a2d86fe0aa41c2b","type":"text","text":"UML Diagrams","x":-520,"y":-173,"width":151,"height":50},
+		{"id":"5c3b815c42eb8a86","type":"text","text":"SOLID Principles","x":-760,"y":-173,"width":180,"height":50},
+		{"id":"f1b21d10cafa9167","type":"text","text":"Design Patterns","x":-960,"y":-173,"width":173,"height":50},
+		{"id":"c20f815331ae6f02","type":"text","text":"Coder Army Playlist","x":-25,"y":-80,"width":190,"height":52,"color":"5"}
 	],
 	"edges":[
 		{"id":"16de70c01f88c35a","fromNode":"a6f46ab04bd237a3","fromSide":"bottom","toNode":"c8d32ad1b68bd33f","toSide":"top"},
