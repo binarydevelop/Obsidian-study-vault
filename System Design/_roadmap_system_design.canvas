@@ -10,7 +10,7 @@
 		{"id":"8e279dfc1afb2518","type":"text","text":"Computer Networking","x":420,"y":20,"width":176,"height":50},
 		{"id":"512173ca0118c12c","type":"text","text":"Backend Engineering","x":408,"y":-142,"width":188,"height":50},
 		{"id":"16cc9b2bc1ca866a","type":"text","text":"Fundamnetals","x":640,"y":70,"width":147,"height":55},
-		{"id":"836a93c0016b53b4","x":589,"y":191,"width":250,"height":60,"type":"text","text":"Cryptography Fundamentals"}
+		{"id":"836a93c0016b53b4","x":596,"y":200,"width":171,"height":50,"type":"text","text":"Cryptography"}
 	],
 	"edges":[
 		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"},
