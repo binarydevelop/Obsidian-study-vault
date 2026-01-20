@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
+                "file": "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Protocols"
+              "title": "00. How does the internet work"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "ac896884ced51f4a",
   "lastOpenFiles": [
-    "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
+    "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/_roadmap_system_design_resource.canvas",
     "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
