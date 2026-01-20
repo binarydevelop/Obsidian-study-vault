@@ -8,7 +8,8 @@
 		{"id":"fb53ac8283d77bb9","type":"text","text":"SOLID Principles","x":-1100,"y":20,"width":180,"height":50},
 		{"id":"27df1d2e92d7d81b","type":"text","text":"Design Patterns","x":-1320,"y":-73,"width":173,"height":50},
 		{"id":"8e279dfc1afb2518","type":"text","text":"Computer Networking","x":420,"y":20,"width":176,"height":50},
-		{"id":"512173ca0118c12c","x":408,"y":-142,"width":188,"height":50,"type":"text","text":"Backend Engineering"}
+		{"id":"512173ca0118c12c","type":"text","text":"Backend Engineering","x":408,"y":-142,"width":188,"height":50},
+		{"id":"16cc9b2bc1ca866a","x":640,"y":70,"width":147,"height":55,"type":"text","text":"Fundamnetals"}
 	],
 	"edges":[
 		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"f7c2f665fbc50af9","fromNode":"5b803fc631e77713","fromSide":"left","toNode":"fb53ac8283d77bb9","toSide":"right"},
 		{"id":"b5363f12d4fd5253","fromNode":"fb53ac8283d77bb9","fromSide":"left","toNode":"27df1d2e92d7d81b","toSide":"right"},
 		{"id":"c429e6c8fefcd451","fromNode":"a3667d028c166678","fromSide":"right","toNode":"8e279dfc1afb2518","toSide":"left"},
-		{"id":"0e00e4f2c3e98775","fromNode":"a3667d028c166678","fromSide":"right","toNode":"512173ca0118c12c","toSide":"left"}
+		{"id":"0e00e4f2c3e98775","fromNode":"a3667d028c166678","fromSide":"right","toNode":"512173ca0118c12c","toSide":"left"},
+		{"id":"3246e0435a1672b6","fromNode":"8e279dfc1afb2518","fromSide":"right","toNode":"16cc9b2bc1ca866a","toSide":"left"}
 	]
 }
