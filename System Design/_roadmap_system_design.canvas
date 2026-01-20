@@ -6,7 +6,8 @@
 		{"id":"5b803fc631e77713","type":"text","text":"UML Diagrams","x":-871,"y":20,"width":151,"height":50},
 		{"id":"5383aa80211550a5","type":"text","text":"Object Oriented Programming [OOPS]","x":-640,"y":12,"width":217,"height":50},
 		{"id":"fb53ac8283d77bb9","type":"text","text":"SOLID Principles","x":-1100,"y":20,"width":180,"height":50},
-		{"id":"27df1d2e92d7d81b","type":"text","text":"Design Patterns","x":-1320,"y":-73,"width":173,"height":50}
+		{"id":"27df1d2e92d7d81b","type":"text","text":"Design Patterns","x":-1320,"y":-73,"width":173,"height":50},
+		{"id":"8e279dfc1afb2518","x":420,"y":20,"width":176,"height":50,"type":"text","text":"Computer Networking"}
 	],
 	"edges":[
 		{"id":"b886e517bac473c5","fromNode":"04a151428f0b2baa","fromSide":"bottom","toNode":"448e1d8981008f8f","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"f33ba9188f6fae2c","fromNode":"5383aa80211550a5","fromSide":"left","toNode":"5b803fc631e77713","toSide":"right"},
 		{"id":"3aaed77db700e942","fromNode":"448e1d8981008f8f","fromSide":"left","toNode":"5383aa80211550a5","toSide":"right"},
 		{"id":"f7c2f665fbc50af9","fromNode":"5b803fc631e77713","fromSide":"left","toNode":"fb53ac8283d77bb9","toSide":"right"},
-		{"id":"b5363f12d4fd5253","fromNode":"fb53ac8283d77bb9","fromSide":"left","toNode":"27df1d2e92d7d81b","toSide":"right"}
+		{"id":"b5363f12d4fd5253","fromNode":"fb53ac8283d77bb9","fromSide":"left","toNode":"27df1d2e92d7d81b","toSide":"right"},
+		{"id":"c429e6c8fefcd451","fromNode":"a3667d028c166678","fromSide":"right","toNode":"8e279dfc1afb2518","toSide":"left"}
 	]
 }

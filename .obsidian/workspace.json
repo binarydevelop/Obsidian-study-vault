@@ -11,14 +11,17 @@
             "id": "182c48281c199242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/_roadmap_system_design.canvas",
+                "viewState": {
+                  "x": 185.0461848332332,
+                  "y": 155.16156944861783,
+                  "zoom": -0.7589919004962052
+                }
               },
-              "icon": "lucide-file",
-              "title": "split function in python"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_system_design"
             }
           }
         ]
@@ -209,8 +212,8 @@
   },
   "active": "182c48281c199242",
   "lastOpenFiles": [
-    "Untitled.md",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
+    "Untitled.md",
     "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
     "Languages and Frameworks/Python/Fundamentals/input keyword.md",
     "Languages and Frameworks/Python/Builtin functions in python",
