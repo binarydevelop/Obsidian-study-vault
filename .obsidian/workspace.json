@@ -30,31 +30,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
+                "file": "System Design/_roadmap_system_design_resource.canvas",
                 "viewState": {
-                  "x": 201.08110156891277,
-                  "y": 66.63653445360133,
-                  "zoom": -0.9833936467269394
+                  "x": 157.45083469920314,
+                  "y": -145.60759740133147,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
-            }
-          },
-          {
-            "id": "3906fb65c9eda2e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-20 17.09.28.excalidraw"
+              "title": "_roadmap_system_design_resource"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,9 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3906fb65c9eda2e8",
+  "active": "e4b15577c802a989",
   "lastOpenFiles": [
     "System Design/_roadmap_system_design.canvas",
+    "System Design/_roadmap_system_design_resource.canvas",
     "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Fundamentals",
@@ -275,7 +264,6 @@
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
     "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
-    "Untitled.canvas",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
