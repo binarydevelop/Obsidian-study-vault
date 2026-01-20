@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. How does the internet work.md",
+                "file": "System Design/High Level Design/Computer Networking/00. How does the internet work.md",
                 "mode": "source",
                 "source": false
               },
@@ -225,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4b15577c802a989",
+  "active": "c4e651b935417cfc",
   "lastOpenFiles": [
     "System Design/_roadmap_system_design.canvas",
-    "00. How does the internet work.md",
+    "System Design/High Level Design/Computer Networking/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking",
     "System Design/High Level Design",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
