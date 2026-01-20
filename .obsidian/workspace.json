@@ -42,17 +42,14 @@
             "id": "ac896884ced51f4a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/_roadmap_system_design.canvas",
-                "viewState": {
-                  "x": -73.4308332947808,
-                  "y": -63.70205921509478,
-                  "zoom": -1.1204863998080654
-                }
+                "file": "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography/01. Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design"
+              "icon": "lucide-file",
+              "title": "01. Basics"
             }
           }
         ],
@@ -113,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6ca05cb2701d8058",
@@ -244,11 +242,12 @@
   },
   "active": "ac896884ced51f4a",
   "lastOpenFiles": [
+    "System Design/_roadmap_system_design.canvas",
+    "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography/01. Basics.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Protocols",
     "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/_roadmap_system_design_resource.canvas",
     "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
     "System Design/High Level Design/Computer Networking/Fundamentals",
@@ -270,7 +269,6 @@
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "System Design/Low Level Design/Design Patterns/Structural",
     "System Design/Low Level Design/Design Patterns/Behavioural",
-    "System Design/Low Level Design/Design Patterns/Creational",
     "System Design/Low Level Design/SOLID Principles/SOLID_006 DIP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_005 ISP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
@@ -282,7 +280,6 @@
     "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
-    "System Design/Low Level Design/UML Diagrams/Sequence Diagram.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
