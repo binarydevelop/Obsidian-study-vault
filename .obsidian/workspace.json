@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "System Design/_roadmap_system_design_resource.canvas",
+                "file": "System Design/_roadmap_system_design.canvas",
                 "viewState": {
-                  "x": -2,
-                  "y": -116,
+                  "x": -362,
+                  "y": -42.5,
                   "zoom": -0.9833936467269394
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_system_design_resource"
+              "title": "_roadmap_system_design"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "e4b15577c802a989",
   "lastOpenFiles": [
-    "System Design/_roadmap_system_design.canvas",
     "System Design/_roadmap_system_design_resource.canvas",
+    "System Design/_roadmap_system_design.canvas",
     "System Design/Drawing 2026-01-20 17.09.28.excalidraw.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Fundamentals",
