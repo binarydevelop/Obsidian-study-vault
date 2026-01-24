@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "01. Basics"
             }
+          },
+          {
+            "id": "cb1c7bae2801136a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac896884ced51f4a",
+  "active": "cb1c7bae2801136a",
   "lastOpenFiles": [
     "System Design/_roadmap_system_design.canvas",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography/01. Basics.md",
