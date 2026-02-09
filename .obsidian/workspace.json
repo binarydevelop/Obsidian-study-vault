@@ -65,9 +65,21 @@
               "icon": "lucide-file",
               "title": "PY_OOPS_003 Access Modifiers"
             }
+          },
+          {
+            "id": "ec0f8b0d356be623",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1c7bae2801136a",
+  "active": "ec0f8b0d356be623",
   "lastOpenFiles": [
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods/__new__ method in Python.md",
