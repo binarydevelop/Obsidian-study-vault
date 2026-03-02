@@ -70,12 +70,17 @@
             "id": "ec0f8b0d356be623",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -219.42344412999464,
+                  "y": -131.1374973922653,
+                  "zoom": -0.9615096863577033
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ],
@@ -267,6 +272,9 @@
   },
   "active": "ec0f8b0d356be623",
   "lastOpenFiles": [
+    "System Design/Backend Engineering/_index_backend_engineering.md",
+    "How HTTPS works internally.md",
+    "System Design/Backend Engineering/__To learn.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods/__new__ method in Python.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_003 Access Modifiers.md",
@@ -302,9 +310,7 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
-    "System Design/Low Level Design/Practice Problems/001_ How to approach LLD Problems.md",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
-    "System Design/Backend Engineering/Multi-Tier (N-Tier) Architecture.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
