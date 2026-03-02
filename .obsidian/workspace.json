@@ -75,7 +75,7 @@
                 "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
                   "x": -322.14562072767865,
-                  "y": -297.1245111806307,
+                  "y": -659.3309788423223,
                   "zoom": -0.9615096863577033
                 }
               },
@@ -272,8 +272,9 @@
   },
   "active": "ec0f8b0d356be623",
   "lastOpenFiles": [
-    "System Design/Backend Engineering/Software architecture.md",
+    "System Design/Backend Engineering/Communication protocols.md",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
+    "System Design/Backend Engineering/Software architecture.md",
     "System Design/Backend Engineering/_index_backend_engineering.md",
     "How HTTPS works internally.md",
     "System Design/Backend Engineering/__To learn.md",
@@ -310,7 +311,6 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
-    "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
