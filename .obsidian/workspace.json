@@ -70,17 +70,14 @@
             "id": "ec0f8b0d356be623",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": 171.6038483018889,
-                  "y": -36.106947639098166,
-                  "zoom": -0.9615096863577033
-                }
+                "file": "System Design/Backend Engineering/Software architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "icon": "lucide-file",
+              "title": "Software architecture"
             }
           }
         ],
@@ -272,6 +269,7 @@
   },
   "active": "ec0f8b0d356be623",
   "lastOpenFiles": [
+    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/_index_backend_engineering.md",
     "How HTTPS works internally.md",
     "System Design/Backend Engineering/__To learn.md",
@@ -309,8 +307,6 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "System Design/Low Level Design/OOPs/OOP_006_Class Relationships.md",
-    "System Design/Low Level Design/UML Diagrams/Class Diagram.md",
-    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
