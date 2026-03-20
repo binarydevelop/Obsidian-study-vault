@@ -82,9 +82,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "_roadmap_backend_engineering"
             }
+          },
+          {
+            "id": "bff0b6bc56daba50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec0f8b0d356be623",
+  "active": "bff0b6bc56daba50",
   "lastOpenFiles": [
     "System Design/Backend Engineering/Communication protocols.md",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
