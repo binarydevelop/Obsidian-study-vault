@@ -87,12 +87,17 @@
             "id": "bff0b6bc56daba50",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
+                "viewState": {
+                  "x": -384.26202216330955,
+                  "y": -260.5491734297664,
+                  "zoom": -0.6599219370333194
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-layout-dashboard",
+              "title": "_roadmap_backend_engineering"
             }
           }
         ],
@@ -284,12 +289,13 @@
   },
   "active": "bff0b6bc56daba50",
   "lastOpenFiles": [
-    "System Design/Backend Engineering/Communication protocols.md",
-    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
-    "System Design/Backend Engineering/Software architecture.md",
     "System Design/Backend Engineering/_index_backend_engineering.md",
-    "How HTTPS works internally.md",
     "System Design/Backend Engineering/__To learn.md",
+    "System Design/_roadmap_system_design.canvas",
+    "How HTTPS works internally.md",
+    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
+    "System Design/Backend Engineering/Communication protocols.md",
+    "System Design/Backend Engineering/Software architecture.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods/__new__ method in Python.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_003 Access Modifiers.md",
@@ -297,7 +303,6 @@
     "Languages and Frameworks/Python/Fundamentals/Assignment.md",
     "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/01. Protocols.md",
-    "System Design/_roadmap_system_design.canvas",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography/01. Basics.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
@@ -322,7 +327,6 @@
     "System Design/Low Level Design/SOLID Principles/SOLID_004 LSP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_003 OCP.md",
     "System Design/Low Level Design/SOLID Principles/SOLID_002 SRP.md",
-    "System Design/Low Level Design/SOLID Principles/SOLID_001 SOLID Introduction.md",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
