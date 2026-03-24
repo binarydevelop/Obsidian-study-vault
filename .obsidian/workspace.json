@@ -74,8 +74,8 @@
               "state": {
                 "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": -736.3700440400414,
-                  "y": 165.7719431661953,
+                  "x": -1026.9448223164313,
+                  "y": 155.26167238617643,
                   "zoom": 0.3718236469756299
                 }
               },
@@ -87,21 +87,18 @@
             "id": "bff0b6bc56daba50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
-                "viewState": {
-                  "x": -1290.5482404349082,
-                  "y": -69.68549129769193,
-                  "zoom": -0.6599219370333194
-                }
+                "file": "System Design/Backend Engineering/Peer-to-Peer Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_roadmap_backend_engineering"
+              "icon": "lucide-file",
+              "title": "Peer-to-Peer Architecture"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,13 +284,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bff0b6bc56daba50",
+  "active": "ec0f8b0d356be623",
   "lastOpenFiles": [
+    "System Design/Backend Engineering/Peer-to-Peer Architecture.md",
+    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/_index_backend_engineering.md",
     "System Design/Backend Engineering/__To learn.md",
     "System Design/_roadmap_system_design.canvas",
     "How HTTPS works internally.md",
-    "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/Communication protocols.md",
     "System Design/Backend Engineering/Software architecture.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_001 Classes, Interfaces, and Abstract Classes.md",
