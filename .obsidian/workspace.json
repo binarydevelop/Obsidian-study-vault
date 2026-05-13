@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a30e01795e979180",
+        "id": "f87e63ae7099123d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd01c18628c7a9f3",
+            "id": "2e8715951003eedc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
                 "viewState": {
-                  "x": 137.03283289000552,
-                  "y": -290.8326995762452,
-                  "zoom": 0.006744729633347268
+                  "x": -132.5,
+                  "y": -78.5,
+                  "zoom": -1.9932552703666524
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -210,15 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd01c18628c7a9f3",
+  "active": "2e8715951003eedc",
   "lastOpenFiles": [
-    "System Design/Backend Engineering/Load balancing.md",
+    "System Design/Backend Engineering/_index_backend_engineering.md",
+    "System Design/Backend Engineering/__To learn.md",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
+    "System Design/Backend Engineering/Load balancing.md",
     "Proxying and Reverse Proxying.md",
     "System Design/Backend Engineering/Application Servers.md",
     "System Design/Backend Engineering/Web Servers.md",
     "System Design/Backend Engineering/Servers.md",
-    "System Design/Backend Engineering/_index_backend_engineering.md",
     "System Design/_roadmap_system_design.canvas",
     "System Design/High Level Design/Computer Networking/Fundamentals/00. How does the internet work.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography/01. Basics.md",
@@ -226,7 +227,6 @@
     "System Design/Backend Engineering/Ports & Sockets.md",
     "System Design/Backend Engineering/Peer-to-Peer Architecture.md",
     "System Design/Backend Engineering/How ports and sockets work.md",
-    "System Design/Backend Engineering/__To learn.md",
     "How HTTPS works internally.md",
     "System Design/Backend Engineering/Communication protocols.md",
     "System Design/Backend Engineering/Software architecture.md",
@@ -246,7 +246,6 @@
     "Languages and Frameworks/Python/Builtin functions in python/map function in python.md",
     "Languages and Frameworks/Python/Fundamentals/input keyword.md",
     "Languages and Frameworks/Python/Builtin functions in python",
-    "Languages and Frameworks/Python/Internals/Memory Management.md",
     "Languages and Frameworks/Python/Internals",
     "Languages and Frameworks/Python/Fundamentals",
     "System Design/Low Level Design/Design Patterns/Structural",
