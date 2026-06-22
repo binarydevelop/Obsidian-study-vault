@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuron/index.md",
+                "file": "Neuron/Learning/00-system-design/01-design-fundamentals/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,6 +208,9 @@
   },
   "active": "2e8715951003eedc",
   "lastOpenFiles": [
+    "Neuron/index.md",
+    "Neuron/Learning/00-system-design/01-design-fundamentals/index.md",
+    "Neuron/Learning/00-system-design/01-design-fundamentals",
     "Neuron/Practice/00-system-design/index.md",
     "Neuron/Practice/index.md",
     "Neuron/Practice/00-system-design",
@@ -216,7 +219,6 @@
     "Neuron/Learning/index.md",
     "Neuron/Learning/00-system-design",
     "Neuron/Learning",
-    "Neuron/index.md",
     "Neuron/Assets",
     "Neuron",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
@@ -241,12 +243,10 @@
     "Languages and Frameworks/Python/Classes and Objects/Dunder methods/__new__ method in Python.md",
     "Languages and Frameworks/Python/OOPS/PY_OOPS_002 Composition vs Inheritance.md",
     "Languages and Frameworks/Python/Fundamentals/Assignment.md",
-    "Languages and Frameworks/Python/Builtin functions in python/split function in python.md",
     "System Design/High Level Design/Computer Networking/Fundamentals/Cryptography",
     "System Design/High Level Design/Computer Networking/Protocols",
     "System Design/_roadmap_system_design_resource.canvas",
     "System Design/High Level Design/Computer Networking/Fundamentals",
-    "System Design/High Level Design/Computer Networking",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",

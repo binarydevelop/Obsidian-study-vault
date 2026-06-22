@@ -3,11 +3,15 @@
   "files": {
     "index.md": {
       "kind": "text",
-      "hash": "ca488b1f2cd4af67168779f45a7b565891b607ae6fa8b3347043cbf32c5756fd"
+      "hash": "bba35c288f2392b63bc628b5a1407392ac3ee12ab3cedd0e983ee4b6fa244bfe"
+    },
+    "Learning/00-system-design/01-design-fundamentals/index.md": {
+      "kind": "text",
+      "hash": "d171cc3d1ffa0328b7c12fa822a6b77eae2118963c1b1d04260963c4241456b9"
     },
     "Learning/00-system-design/index.md": {
       "kind": "text",
-      "hash": "2cd0d5be0e88bd2ea2c87c12eb8cf2f8d3e527224db13573856153140fe6fcad"
+      "hash": "90f3349aaffae42f261ac823ab7ede0f604451cb743eb7a476b2f6d60553bbd1"
     },
     "Learning/index.md": {
       "kind": "text",

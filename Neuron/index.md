@@ -2,8 +2,8 @@
 source: "neuron"
 type: "workspace-root"
 managedFolder: "Neuron"
-generatedAt: "2026-06-22T17:30:15.028Z"
-filesCount: 5
+generatedAt: "2026-06-22T17:31:03.384Z"
+filesCount: 6
 ---
 
 # Neuron Workspace Mirror
