@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "files": {
+    "index.md": {
+      "kind": "text",
+      "hash": "ca488b1f2cd4af67168779f45a7b565891b607ae6fa8b3347043cbf32c5756fd"
+    },
+    "Learning/00-system-design/index.md": {
+      "kind": "text",
+      "hash": "2cd0d5be0e88bd2ea2c87c12eb8cf2f8d3e527224db13573856153140fe6fcad"
+    },
+    "Learning/index.md": {
+      "kind": "text",
+      "hash": "17dfed1d826e057f60a44dc669d1854384a4ec786dbbb92e38400061d74f081e"
+    },
+    "Practice/00-system-design/index.md": {
+      "kind": "text",
+      "hash": "0c81fc3714d46a43c42fcfb8fda4f0c74e5d0be739bc5f369211f61797cb67ae"
+    },
+    "Practice/index.md": {
+      "kind": "text",
+      "hash": "65a32b94698e3cdc5e8e54dce402b87aae66855be6f8bc8e31f5f547f93914fa"
+    }
+  }
+}
