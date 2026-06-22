@@ -204,6 +204,8 @@
   },
   "active": "f4612d551a93b349",
   "lastOpenFiles": [
+    "Neuron/Assets",
+    "Neuron",
     "System Design/Backend Engineering/_roadmap_backend_engineering.canvas",
     "System Design/Backend Engineering/_index_backend_engineering.md",
     "System Design/Backend Engineering/__To learn.md",
@@ -241,7 +243,6 @@
     "Languages and Frameworks/Python/Internals",
     "Languages and Frameworks/Python/Fundamentals",
     "System Design/Low Level Design/Design Patterns/Structural",
-    "System Design/Low Level Design/Design Patterns/Behavioural",
     "attachments/Pasted image 20251229165416.png",
     "attachments/Synchronous calls.png",
     "attachments/response.png",
