@@ -2,7 +2,7 @@
 source: "neuron"
 type: "workspace-root"
 managedFolder: "Neuron"
-generatedAt: "2026-06-22T17:37:07.360Z"
+generatedAt: "2026-06-22T17:37:35.210Z"
 filesCount: 15
 ---
 

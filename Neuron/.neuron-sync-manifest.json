@@ -3,11 +3,11 @@
   "files": {
     "index.md": {
       "kind": "text",
-      "hash": "dec90054917ee657327ca7c482119c3f935d9367de8ea9362dc3829f2350a8d4"
+      "hash": "2a07a176be887b54ee4fc40638b41bcbcacbdb927490f71e330041e0c855c5ee"
     },
     "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/index.md": {
       "kind": "text",
-      "hash": "028200dceedeca24abb05a8604ead59fae784260c5a23dff976d34baf9325164"
+      "hash": "221f9b3234414279c251f50584a83b1e1849f248820bc5306712c85be10d1c75"
     },
     "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/theory.md": {
       "kind": "text",

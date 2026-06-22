@@ -10,8 +10,8 @@ title: "tets"
 sortOrder: 0
 difficulty: "Easy"
 estimatedMinutes: 5
-completed: false
-updatedAt: "2026-06-22T17:36:42.335Z"
+completed: true
+updatedAt: "2026-06-22T17:37:35.194Z"
 ---
 
 # tets
