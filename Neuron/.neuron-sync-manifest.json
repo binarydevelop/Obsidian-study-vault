@@ -3,11 +3,15 @@
   "files": {
     "index.md": {
       "kind": "text",
-      "hash": "bba35c288f2392b63bc628b5a1407392ac3ee12ab3cedd0e983ee4b6fa244bfe"
+      "hash": "e767db5f821962358b4178596b4b43a44f46a503ac8a7c3bba9855390bc44d92"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/index.md": {
+      "kind": "text",
+      "hash": "4e006a7e5c8caed8071a4c6621ac3c54e2483fa980b38ce6971465813239b57a"
     },
     "Learning/00-system-design/01-design-fundamentals/index.md": {
       "kind": "text",
-      "hash": "d171cc3d1ffa0328b7c12fa822a6b77eae2118963c1b1d04260963c4241456b9"
+      "hash": "1142deeb1e24d5c82cb8cfc5ec74fbde86af282dbe7bd2698505238de7fdc997"
     },
     "Learning/00-system-design/index.md": {
       "kind": "text",
