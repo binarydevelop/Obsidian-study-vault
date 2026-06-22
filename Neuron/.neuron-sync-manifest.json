@@ -3,15 +3,39 @@
   "files": {
     "index.md": {
       "kind": "text",
-      "hash": "3146ca732cc90afb1ce7e5b01ef688e61751967d75621b8e1ef3449cbbbdba78"
+      "hash": "dec90054917ee657327ca7c482119c3f935d9367de8ea9362dc3829f2350a8d4"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/index.md": {
+      "kind": "text",
+      "hash": "028200dceedeca24abb05a8604ead59fae784260c5a23dff976d34baf9325164"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/theory.md": {
+      "kind": "text",
+      "hash": "77e6fba6b0e6718de9d472b1063cc4620e44741cab195e2a81936d99469e9b51"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/practical.md": {
+      "kind": "text",
+      "hash": "81fa30d718df2b1b5d04ab66e3d797489decb8b7800cb982759c5e73b3213593"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/ai-explainer.md": {
+      "kind": "text",
+      "hash": "c4388b6a1f123b7545a78c9e32d567b5697db53e3aa18bbc9af0b34103a7843a"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/revise.md": {
+      "kind": "text",
+      "hash": "0ac224f18ca8a4905c8b17273aceea5b5267b13001b473df76b000b0d09400cf"
     },
     "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/index.md": {
       "kind": "text",
-      "hash": "05aa868ef3e7d111853e605ab536899712128616605dfa1e55b66edb12fb35f7"
+      "hash": "d852b920e2bb0a5fa846679487408ff4af713079da8863cc73a2dc94a80d0775"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-stateless-architecture/index.md": {
+      "kind": "text",
+      "hash": "1cd52d2d71084947a173e354e7d3d3d3d8b6afa9ed5d6da79e209fd2126c60ed"
     },
     "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/index.md": {
       "kind": "text",
-      "hash": "269f13b69ba2ce77d2f331e3d71dc1deb8d1f623fcfb6d25cfd5e33c5f62e98c"
+      "hash": "9e419592ee8e223fc98b32485b5b4369b3f5cdb24e6faae3fe77b72273c2cd42"
     },
     "Learning/00-system-design/01-design-fundamentals/00-availability-and-reliability/index.md": {
       "kind": "text",

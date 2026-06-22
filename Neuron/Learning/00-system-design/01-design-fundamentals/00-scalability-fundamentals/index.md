@@ -16,3 +16,4 @@ _No description yet._
 ## Subtopics
 
 - [[Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/index.md|Vertical vs Horizontal Scaling]]
+- [[Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-stateless-architecture/index.md|Stateless Architecture]]
