@@ -15,3 +15,4 @@ _No description yet._
 ## Topics
 
 - [[Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/index.md|Scalability Fundamentals]]
+- [[Learning/00-system-design/01-design-fundamentals/00-availability-and-reliability/index.md|Availability and Reliability]]

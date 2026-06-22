@@ -15,4 +15,4 @@ _No description yet._
 
 ## Subtopics
 
-_No subtopics yet._
+- [[Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/index.md|Vertical vs Horizontal Scaling]]

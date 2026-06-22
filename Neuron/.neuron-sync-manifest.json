@@ -3,15 +3,23 @@
   "files": {
     "index.md": {
       "kind": "text",
-      "hash": "e767db5f821962358b4178596b4b43a44f46a503ac8a7c3bba9855390bc44d92"
+      "hash": "3146ca732cc90afb1ce7e5b01ef688e61751967d75621b8e1ef3449cbbbdba78"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/index.md": {
+      "kind": "text",
+      "hash": "05aa868ef3e7d111853e605ab536899712128616605dfa1e55b66edb12fb35f7"
     },
     "Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/index.md": {
       "kind": "text",
-      "hash": "4e006a7e5c8caed8071a4c6621ac3c54e2483fa980b38ce6971465813239b57a"
+      "hash": "269f13b69ba2ce77d2f331e3d71dc1deb8d1f623fcfb6d25cfd5e33c5f62e98c"
+    },
+    "Learning/00-system-design/01-design-fundamentals/00-availability-and-reliability/index.md": {
+      "kind": "text",
+      "hash": "61081fcf7149262455b253b0b2dad0e4844f5d95b3ea02186941470e45d1272d"
     },
     "Learning/00-system-design/01-design-fundamentals/index.md": {
       "kind": "text",
-      "hash": "1142deeb1e24d5c82cb8cfc5ec74fbde86af282dbe7bd2698505238de7fdc997"
+      "hash": "441714565d9704614e8fd5886a2a8ae192ab68e8c5300008dddcb30f006601f2"
     },
     "Learning/00-system-design/index.md": {
       "kind": "text",
