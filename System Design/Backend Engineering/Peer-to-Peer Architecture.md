@@ -1,4 +1,0 @@
----
-Subject:
-  - Backend Engineering
----
