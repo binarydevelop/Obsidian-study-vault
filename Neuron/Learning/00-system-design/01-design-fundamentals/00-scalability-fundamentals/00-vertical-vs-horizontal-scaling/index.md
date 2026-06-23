@@ -18,4 +18,6 @@ _No description yet._
 
 ## Notes
 
+
+e
 - [[Learning/00-system-design/01-design-fundamentals/00-scalability-fundamentals/00-vertical-vs-horizontal-scaling/00-tets/index.md|tets]]
