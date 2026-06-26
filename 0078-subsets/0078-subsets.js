@@ -3,7 +3,7 @@
  * @return {number[][]}
  */
 var subsets = function(nums) {
-  const result = [];
+    const result = [];
   const path = [];
 
   function backtrack(index) {
