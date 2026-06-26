@@ -3,24 +3,20 @@
  * @return {number[][]}
  */
 var subsets = function(nums) {
-    const result = [];
-  const path = [];
+    let path = []
+    let result = []
 
-  function backtrack(index) {
-    if (index === nums.length) {
-      result.push([...path]);
-      return;
+    function backTrack(i){
+        if(i === nums.length){
+            result.push([...path])
+            return 
+        }
+
+        path.push(nums[i])
+        backTrack(i + 1)
+        path.pop()
+        backTrack(i+1)
     }
-
-    // Choice 1: skip nums[index]
-    backtrack(index + 1);
-
-    // Choice 2: take nums[index]
-    path.push(nums[index]);
-    backtrack(index + 1);
-    path.pop();
-  }
-
-  backtrack(0);
-  return result;
+    backTrack(0)
+    return result
 };
